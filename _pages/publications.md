@@ -15,7 +15,7 @@ nav_order: 2
 <div class="publications">
 
 <ul>
-<li><p><a href="#All">all areas</a><a href="research-1.html">&nbsp</a></p></li> 
+<li><p><a href="#All">all areas</a><a href="research-1.html"> </a></p></li> 
 <li><p><a href="#ML">machine learning for mathematics</a></p></li>
 <li><p><a href="#RT">representation theory</a></p></li>
 <li><p><a href="#NT">number theory</a></p></li> 
