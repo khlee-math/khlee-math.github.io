@@ -24,7 +24,7 @@ nav_order: 6
 
 <li><p>Spring 2024<br>
 Elementary Differential Equations (MATH 2410Q)<br>
-<a href="math3180s24">Mathematics for Machine Learning (MATH 3180)</a></p></li>
+<a href="/teaching/math3180s24">Mathematics for Machine Learning (MATH 3180)</a></p></li>
  
 <li><p>Spring 2023<br>
 Elementary Differential Equations (MATH 2410Q), Sections 001 and 007</p></li>
@@ -76,11 +76,11 @@ Topics in Algebra (MATH 5020): Modular Forms</p></li>
 
 
 <li><p>Spring 2016<br>
-<a href="math2142s16/">Advanced Calculus II (MATH 2142Q)</a></p></li>
+<a href="/teaching/math2142s16/">Advanced Calculus II (MATH 2142Q)</a></p></li>
 
 
 <li><p>Fall 2015<br>
-<a href="math2141f15/">Advanced Calculus I (MATH 2141Q)</a><br>
+<a href="/teaching/math2141f15/">Advanced Calculus I (MATH 2141Q)</a><br>
 <a href="math2410f15/">Elementary Differential Equations (MATH 2410Q)</a></p></li>
 
 
