@@ -8,8 +8,6 @@ nav_order: 6
 ---
 
 
-    <div class="container mt-5">
-      <div class="post">
 
 
 
@@ -32,7 +30,6 @@ Elementary Differential Equations (MATH 2410Q)<br>
 
 <h4>&nbsp; past teaching</h4>
 
-<ul>
 <li><p>Spring 2023<br>
 Elementary Differential Equations (MATH 2410Q), Sections 001 and 007<br>
   
@@ -191,12 +188,5 @@ Calculus I (MATH 115Q)<br>
 
 <li><p>Spring 2002 at the University of Wisconsin-Madison <br>
 Elementary Matrix and Linear Algebra (Math340)</p></li>
-
-</ul>
-
-
-</div>
-
-    </div>
 
 
