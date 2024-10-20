@@ -9,27 +9,21 @@ nav_order: 6
 
 
 
-
-
 <h4>&nbsp; current teaching</h4>
 
-<ul>
+Applied Linear Algebra (MATH 2210Q)<br>
 
-<!-- <li><p> --><!--  -->
-  
-Elementary Differential Equations (MATH 2410Q)<br>
-<a href="math3180s24">Mathematics for Machine Learning (MATH 3180)</a><br>
-
-  
-  
-<!-- </p></li> -->
-
-</ul>
 
 <hr>
 
 <h4>&nbsp; past teaching</h4>
 
+<ul>
+
+<li><p>Spring 2024<br>
+Elementary Differential Equations (MATH 2410Q)<br>
+<a href="math3180s24">Mathematics for Machine Learning (MATH 3180)</a><br>
+ 
 <li><p>Spring 2023<br>
 Elementary Differential Equations (MATH 2410Q), Sections 001 and 007<br>
   
@@ -117,16 +111,16 @@ Topics in Algebra (MATH 5020): Representations of GL(2) I<br>
 
 <li><p>Spring 2011<br>
 Calculus I (MATH 1131Q)
-</p></a></li>
+</p></li>
 
 <li><p>Fall 2010<br>
 Calculus I (MATH 1131Q)
-</p></a></li>
+</p></li>
 
 <li><p>Spring 2010<br>
 <a href="math2784s10/">Undergraduate Seminar I (MATH 2784)</a><br>
 <a href="math2784s10/">Undergraduate Seminar II (MATH 2794W)</a><br>
-</p></a></li>
+</p></li>
 
 
 <li><p>Fall 2009<br>
@@ -189,4 +183,4 @@ Calculus I (MATH 115Q)<br>
 <li><p>Spring 2002 at the University of Wisconsin-Madison <br>
 Elementary Matrix and Linear Algebra (Math340)</p></li>
 
-
+</ul>
