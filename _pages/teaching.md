@@ -10,8 +10,9 @@ nav_order: 6
 
 
 <h4>&nbsp; current teaching</h4>
+<ul>
 
-Applied Linear Algebra (MATH 2210Q)<br>
+<li><p>Applied Linear Algebra (MATH 2210Q)</p></li><br>
 
 
 <hr>
@@ -22,82 +23,82 @@ Applied Linear Algebra (MATH 2210Q)<br>
 
 <li><p>Spring 2024<br>
 Elementary Differential Equations (MATH 2410Q)<br>
-<a href="math3180s24">Mathematics for Machine Learning (MATH 3180)</a><br>
+<a href="math3180s24">Mathematics for Machine Learning (MATH 3180)</a></p></li><br>
  
 <li><p>Spring 2023<br>
-Elementary Differential Equations (MATH 2410Q), Sections 001 and 007<br>
+Elementary Differential Equations (MATH 2410Q), Sections 001 and 007</p></li><br>
   
 <li><p>Fall 2022<br>
-Applied Linear Algebra (MATH 2210Q)<br>
+Applied Linear Algebra (MATH 2210Q)</p></li><br>
    
 <li><p>Spring 2022<br>
 Elementary Differential Equations (MATH 2410Q)<br>
-Undergraduate Seminar: Machine Learning (MATH 3094)<br>
+Undergraduate Seminar: Machine Learning (MATH 3094)</p></li><br>
    
 <li><p>Fall 2021<br>
 Probability (MATH 3160)<br>
-Abstract Algebra I (MATH 5210)<br>
+Abstract Algebra I (MATH 5210)</p></li><br>
   
 <li><p>Spring 2021<br>
 Probability (MATH 3160)<br>
-Undergraduate Seminar: Machine Learning (MATH 3094)<br>
+Undergraduate Seminar: Machine Learning (MATH 3094)</p></li><br>
 
 
 <li><p>Fall 2020<br>
-Probability (MATH 3160)<br>
+Probability (MATH 3160)</p></li><br>
 
 
 <li><p>Spring 2020<br>
-Probability (MATH 3160), Sections 001 and 002<br>
+Probability (MATH 3160), Sections 001 and 002</p></li><br>
 
 
 <li><p>Fall 2019<br>
-Probability (MATH 3160)<br>
+Probability (MATH 3160)</p></li><br>
 
 
 <li><p>Spring 2019<br>
-Introduction to Representation Theory (MATH 5220)<br>
+Introduction to Representation Theory (MATH 5220)</p></li><br>
 
 <li><p>Fall 2018<br>
-Elementary Differential Equations (MATH 2410Q), Sections 008 and 013<br>
+Elementary Differential Equations (MATH 2410Q), Sections 008 and 013</p></li><br>
 
 <li><p>Spring 2018<br>
 Elementary Differential Equations (MATH 2410Q)<br>
-Topics in Algebra (MATH 5020): Homological Algebra and Derived Categories<br>
+Topics in Algebra (MATH 5020): Homological Algebra and Derived Categories</p></li><br>
 
 <li><p>Fall 2017<br>
-Elementary Differential Equations (MATH 2410Q)<br>
+Elementary Differential Equations (MATH 2410Q)</p></li><br>
 
 <li><p>Spring 2017<br>
 Probability (MATH 3160), Sections 004 and 005<br>
-Topics in Algebra (MATH 5020): Modular Forms<br>
+Topics in Algebra (MATH 5020): Modular Forms</p></li><br>
 
 
 <li><p>Spring 2016<br>
-<a href="math2142s16/">Advanced Calculus II (MATH 2142Q)</a><br>
+<a href="math2142s16/">Advanced Calculus II (MATH 2142Q)</a></p></li><br>
 
 
 <li><p>Fall 2015<br>
 <a href="math2141f15/">Advanced Calculus I (MATH 2141Q)</a><br>
-<a href="math2410f15/">Elementary Differential Equations (MATH 2410Q)</a><br>
+<a href="math2410f15/">Elementary Differential Equations (MATH 2410Q)</a></p></li><br>
 
 
 
 <li><p>Spring 2015<br>
-Probability (MATH 3160)<br>
+Probability (MATH 3160)</p></li><br>
 
 
 
 <li><p>Fall 2014<br>
 Honors Calculus I (MATH 1151Q)<br>
-Probability (MATH 3160)<br>
+Probability (MATH 3160)</p></li><br>
 
 <li><p>Spring 2014<br>
-Topics in Algebra (MATH 5020): Representations of GL(2) II<br>
+Topics in Algebra (MATH 5020): Representations of GL(2) II</p></li><br>
 
 <li><p>Fall 2013<br>
 <a href="math2110f13/">Multivariable Calculus (MATH 2110Q)</a><br>
-Topics in Algebra (MATH 5020): Representations of GL(2) I<br>
+Topics in Algebra (MATH 5020): Representations of GL(2) I</p></li><br>
 
 <li><p>Fall 2012<br>
 <a href="math2210f12/">Applied Linear Algebra (MATH 2210Q)</a><br>
