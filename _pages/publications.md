@@ -14,10 +14,8 @@ nav_order: 2
 
 <div class="publications">
 
-<h4>&nbsp; publications<a href="research-1.html">&nbsp</a></h4>
-<br>
 <ul>
-<li><p><a href="#All">all areas</a></p></li> 
+<li><p><a href="#All">all areas</a><a href="research-1.html">&nbsp</a></p></li> 
 <li><p><a href="#ML">machine learning for mathematics</a></p></li>
 <li><p><a href="#RT">representation theory</a></p></li>
 <li><p><a href="#NT">number theory</a></p></li> 
@@ -226,7 +224,7 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 
 <a id="RT">
 &nbsp;<br> &nbsp;<br> &nbsp;<br>
-<h4>&nbsp; publications -- representation theory</a></h4> <br>
+<h4>&nbsp; publications -- representation theory</h4> <br>
 
 <ul>
 
@@ -626,7 +624,7 @@ groups</a>, Proc. Roy. Soc. Edinburgh Sect. A <b>136</b> (2006), no. 3, 445-472.
 
 <a id="CG">
 &nbsp;<br> &nbsp;<br> &nbsp;<br>
-<h4>&nbsp; publications -- complex geometry</a></h4>
+<h4>&nbsp; publications -- complex geometry</h4>
 <br>
 
 <ul>
