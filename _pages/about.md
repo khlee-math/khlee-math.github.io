@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Professor of Mathematics, University of Connecticut
+subtitle: ###Professor of Mathematics, University of Connecticut
 
 profile:
   align: right
