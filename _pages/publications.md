@@ -11,11 +11,10 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
 
 <div class="publications">
 
-<h4><a href="research-1.html">&nbsp</a></h4>
+<h4>&nbsp; publications<a href="research-1.html">&nbsp</a></h4>
 <br>
 <ul>
 <li><p><a href="#All">all areas</a></p></li> 
@@ -650,8 +649,5 @@ groups</a>, Proc. Roy. Soc. Edinburgh Sect. A <b>136</b> (2006), no. 3, 445-472.
 &nbsp;<br> &nbsp;<br> &nbsp;<br>
 &nbsp;<br> &nbsp;<br> &nbsp;<br>
 &nbsp;<br> &nbsp;<br> &nbsp;<br>
-
-
-{% bibliography %}
 
 </div>
