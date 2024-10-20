@@ -15,6 +15,646 @@ nav_order: 2
 
 <div class="publications">
 
+<h4>&nbsp; publications<a href="research-1.html">&nbsp</a></h4>
+<br>
+<ul>
+<li><p><a href="#All">all areas</a></p></li> 
+<li><p><a href="#ML">machine learning for mathematics</a></p></li>
+<li><p><a href="#RT">representation theory</a></p></li>
+<li><p><a href="#NT">number theory</a></p></li> 
+<li><p><a href="#CO">combinatorics</a></p></li> 
+<li><p><a href="#MP">mathematical physics</a></p></li>
+<li><p><a href="#CG">complex geometry</a></p></li>
+</ul>
+
+<a id="All">
+&nbsp;<br> &nbsp;<br> &nbsp;<br>
+
+<h4>&nbsp; publications -- all areas</h4>
+<br>
+<ol reversed>
+
+<li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2402.08140.pdf">Quantum cluster algebra, braid moves and quantum virtual Grothendieck ring</a>, arXiv:2402.08140.</p></li>
+
+<li><p> Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2310.17906.pdf">Data-scientific study of  Kronecker coefficients</a>, arXiv:2310.17906.</p></li>
+
+<li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2307.00256.pdf">Murmurations of Dirichlet characters</a>, arXiv:2307.00256</p></li>
+
+
+<li><p> Il-Seung Jang, Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2305.19471.pdf">Braid group action on quantum virtual Grothendieck ring through constructing presentations</a>, arXiv:2305.19471.</p></li>
+
+
+<li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="https://arxiv.org/pdf/2203.08628.pdf">Convergence of Kac-Moody Eisenstein series over a function field</a>, arXiv:2203.08628.</p></li>
+ 
+<li><p> Tucker J. Ervin, Blake Jackson, Kyu-Hwan Lee and Kyungyong Lee, <a href="https://arxiv.org/pdf/2108.03309.pdf">Mutations of reflections and existence of pseudo-acyclic orderings for type A_n</a>, arXiv:2108.03309.</p></li>
+
+<li><p> Lisa Carbone, Howard Garland, Kyu-Hwan Lee, Dongwen Liu and Stephen D. Miller, <a href="Papers/KME.pdf">On the convergence of Kac-Moody Eisenstein series</a>, to appear in Amer. J. Math.</p></li>
+
+<li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://doi.org/10.1080/10586458.2024.2382361">Murmurations of elliptic curves</a>, Exp. Math. (2024).</p></li>
+
+
+<li><p> Kyu-Hwan Lee, <a href="https:///dx.doi.org/10.1142/S2810939224400094">Machine-learning Kronecker coefficients</a>, International Journal of Data Science in the Mathematical Sciences, <b>2</b> (2024), no.1, 79-86.</p></li>
+
+<li><p> Il-Seung Jang, Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1007/s00220-024-05037-z">Quantization of virtual Grothendieck rings and their structure including quantum cluster algebras</a>, Commun. Math. Phys. <b>405</b>, 173 (2024).</p></li>
+
+<li><p> Jonathan D. Axtell and Kyu-Hwan Lee, <a href="https://bookstore.ams.org/pspum-108">Quantum generalized Kac-Moody algebras via Hall algebras of complexes</a>, Proc. Sympos. Pure Math. <b>108</b> (2024).</p></li>
+
+<li><p> Malik Amir, Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Eldar Sultanow, <a href="https:///dx.doi.org/10.1142/S2810939223500016">Machine learning class numbers of real quadratic fields</a>, International Journal of Data Science in the Mathematical Sciences, <b>1</b> (2023), no. 2, 107-134.</p></li>
+
+<li><p> Gunhee Cho and Kyu-Hwan Lee, <a href="https://doi.org/10.1007/s00208-023-02735-2">Equivalence of Invariant metrics via Bergman kernel on complete noncompact K&auml;hler manifolds</a>, Math. Ann. (2023).</p></li>
+
+<li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1007/s10468-023-10225-x">Auto-correlation functions for unitary groups</a>, Algebr. Represent. Theory (2023).</p></li>
+
+<li><p> Jang Soo Kim, Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1090/memo/1401">Weight multiplicities and Young tableaux through affine crystals</a>, Mem. Amer. Math. Soc. <b>283</b>, 1401 (2023).</p></li>
+
+<li><p> Kyu-Hwan Lee, Kyungyong Lee and Matthew R. Mills, <a href="https://doi.org/10.1007/s00209-022-03180-8">Geometric description of  c-vectors and real L&ouml;sungen</a>, Math. Z. <b>303</b>, 44 (2023).</p></li>
+
+<li><p> Yang-Hui He, Kyu-Hwan Lee and Thomas Oliver, <a href="https://doi.org/10.1016/j.jsc.2022.08.017">Machine-learning invariants of arithmetic curves</a>, J. Symb. Comput. <b>115</b> (2023), 478-491.</p></li>
+
+<li><p> Kyu-Hwan Lee and Jeongwoo Yu, <a href="https://doi.org/10.1007/s10468-022-10143-4">Rigid reflections of rank 3 Coxeter groups and reduced roots of rank 2 Kac-Moody algebras</a>, Algebr. Represent. Theory (2022).</p></li>
+
+<li><p> Yang-Hui He, Kyu-Hwan Lee and Thomas Oliver, <a href="https://dx.doi.org/10.4310/MCGD.2022.v2.n1.a2">Machine-learning number fields</a>, Mathematics, Computation and Geometry of Data <b>2</b> (2022), 49-66.</p></li>
+
+<li><p> Lisa Carbone, Kyu-Hwan Lee and Dongwen Liu, <a href="https://doi.org/10.2140/ant.2022.16.1099">Entirety of cuspidal Eisenstein series on Kac-Moody groups</a>, Algebra Number Theory <b>16</b> (2022), no. 5, 1099-1119.</p></li>
+
+<li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1016/j.aim.2022.108309">Auto-correlation functions of Sato-Tate distributions and identities of symplectic characters</a>, Adv. Math. <b>401</b> (2022) 108309.</p></li>
+
+<li><p> Yang-Hui He, Kyu-Hwan Lee and Thomas Oliver, <a href="https://www.sciencedirect.com/science/article/pii/S0747717121000729">Machine-learning the Sato-Tate conjecture</a>, J. Symb. Comput. <b>111</b> (2022), 61-72.</p></li>
+
+<li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="https://msp.org/pjm/2021/313-1/p06.xhtml">Character expansion of Kac-Moody correction factors</a>, Pacific J. Math. <b>313</b> (2021), no.1, 159-183.</p></li>
+
+<li><p> Kyu-Hwan Lee and Kyungyong Lee, <a href="https://www.tandfonline.com/doi/full/10.1080/10586458.2018.1538910">A correspondence between rigid modules over path algebras and simple curves on Riemann surfaces</a>, Exp. Math. <b>30</b> (2021), no.3, 315-331.</p></li>
+
+<li><p> Gabriel Feinberg, Sungsoon Kim, Kyu-Hwan Lee and Se-jin Oh, <a href="https://www.sciencedirect.com/science/article/pii/S0021869319302364">Fully commutative elements of the complex reflection groups</a>, J. Algebra <b>558</b> (2020), 371-394.</p></li>
+
+<li><p> Kyu-Hwan Lee and Jerzy Weyman, <a href="https://arxiv.org/pdf/1804.10251.pdf">Some branching formulas for Kac-Moody Lie algebras</a>, Commun. Korean Math. Soc. <b>34</b> (2019), no. 4, 1079-1098.</p></li>
+
+<li><p> Suh Hyun Choi, Chang Heon Kim, Yeong-Wook Kwon and Kyu-Hwan Lee, <a href="https://www.sciencedirect.com/science/article/pii/S0022314X19301544?via%3Dihub">Rationality and p-adic properties of reduced forms of half-integral weight</a>, J. Number Theory <b>204</b> (2019), 446-470.</p></li>
+
+<li><p> Kyu-Hwan Lee and Kyungyong Lee, <a href="https://link.springer.com/article/10.1007%2Fs11425-018-9530-4">Rigid reflections and Kac-Moody algebras</a>, Sci. China Math. <b>62</b> (2019), no.7, 1317-1330.</p></li>
+
+<li><p> Kyu-Hwan Lee, Cristian Lenart and Dongwen Liu with appendix by Dinakar Muthiah and Anna Pusk&aacute;s, <a href="http://dx.doi.org/10.1017/S1474748017000214">Whittaker functions and Demazure characters</a>, J. Inst. Math. Jussieu <b>18</b> (2019), no.4, 759-781.</p></li>
+
+<li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="http://www.ams.org/books/conm/713/">Catalan triangle numbers and binomial coefficients</a>, Contemp. Math. <b>713</b> (2018), 165-185.</p></li>
+
+<li><p> Jang Soo Kim, Kyu-Hwan Lee, and Se-jin Oh, <a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2017/25%20Oh%20Kim%20Lee.pdf">Dominant maximal weights of highest weight modules and Young tableaux</a>, S&eacute;m. Lothar. Combin. <b>78B</b> (2017), Art. 25.</p></li>
+
+<li><p> Seok-Jin Kang, Kyu-Hwan Lee and Kyungyong Lee, <a href="http://www.tandfonline.com/doi/abs/10.1080/00927872.2017.1281935">A combinatorial approach to root multiplicities of rank 2 hyperbolic Kac-Moody algebras</a>, Comm. Algebra. <b>45</b> (2017), no.11, 4785-4800.</p></li>
+
+<li><p> Lisa Carbone, Kyu-Hwan Lee and Dongwen Liu, <a href="https://link.springer.com/article/10.1007/s00208-016-1428-8">Eisenstein series on rank 2 hyperbolic Kac-Moody groups</a>, Math. Ann. <b>367</b> (2017), 1173-1197.</p></li>
+
+<li><p> Seok-Jin Kang, Kyu-Hwan Lee, Hansol Ryu and Ben Salisbury,  <a href="http://bookstore.ams.org/pspum-92/">A combinatorial description of the affine Gindikin-Karpelevich formula of type A_n^(1)</a>, Proc. Sympos. Pure Math. <b>92</b> (2016), 145-165.</p></li>
+
+<li><p> Konstantina Christodoulopoulou and Kyu-Hwan Lee, <a href="http://www.sciencedirect.com/science/article/pii/S0022404916300342">Representations of spin quiver Hecke algebras for orthosymplectic Lie superalgebras</a>, J. Pure Appl. Algebra <b>220</b> (2016), 3733-3751.</p></li>
+
+<li><p> Gabriel Feinberg and Kyu-Hwan Lee, <a href="http://www.mat.univie.ac.at/~slc/">Homogeneous representations of type A KLR-algebras and Dyck paths</a>, S&eacute;m. Lothar. Combin. <b>75</b> (2016), Art. B75b.</p></li>
+
+<li><p> Henry H. Kim, Kyu-Hwan Lee and Yichao Zhang, <a href="http://www.ams.org/journals/tran/2015-367-12/S0002-9947-2015-06438-1/">Weakly holomorphic modular forms and rank two hyperbolic Kac-Moody algebras</a>, Trans. Amer. Math. Soc. <b>367</b> (2015), no. 12, 8843-8860.</p></li>
+
+<li><p> Gabriel Feinberg and Kyu-Hwan Lee, <a href="http://intlpress.com/site/pub/pages/journals/items/joc/content/vols/0006/0004/a007/index.html">Fully commutative elements of type D and homogeneous representations of KLR-algebras</a>, J. Comb. <b>6</b> (2015), no. 4, 535-557.</p></li>
+
+<li><p> Kyu-Hwan Lee and Yichao Zhang,  <a href="http://www.ams.org/journals/tran/2015-367-01/S0002-9947-2014-06159-X/">Weyl
+  group multiple Dirichlet series for symmetrizable Kac-Moody root
+  systems</a>, Trans. Amer. Math. Soc. <b>367</b> (2015), 597-625.</p></li>  
+
+<li><p> Lisa Carbone, Walter Freyn and Kyu-Hwan Lee,  <a href="http://www.ams.org/books/conm/623/">Dimensions of imaginary root spaces of hyperbolic Kac-Moody algebras</a>, Contemp. Math. <b>623</b> (2014), 23-40.</p></li>
+
+<li><p> Kyu-Hwan Lee, Philip Lombardo and Ben Salisbury,  <a href="http://www.ams.org/journals/proc/2014-142-07/S0002-9939-2014-11961-7/home.html">Combinatorics of the Casselman-Shalika formula in type A</a>, Proc. Amer. Math. Soc. <b>142</b> (2014), 2291-2301.</p></li>
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,  <a href="http://www.sciencedirect.com/science/article/pii/S0021869314001501">Rank 2 symmetric hyperbolic Kac-Moody algebras and Hilbert modular forms</a>, J. Algebra <b>407</b> (2014), 81-104.</p></li>
+
+<li><p> Kyu-Hwan Lee and Ben Salisbury,  <a
+  href="http://pdf.medrang.co.kr/kms01/JKMS/51/JKMS-51-2-289-309.pdf">Young tableaux, canonical bases and the Gindikin-Karpelevich formula</a>, J. Korean Math. Soc. <b>51</b> (2014), no. 2, 289-309.</p></li>
+
+<li><p> Kyu-Hwan Lee and Philip Lombardo,  <a
+href="http://www.ams.org/journals/tran/2014-366-04/S0002-9947-2013-06078-3/home.html">Eisenstein
+series on affine Kac-Moody groups over function fields</a>,
+Trans. Amer. Math. Soc. <b>366</b> (2014), no. 4, 2121-2165.</p></li>
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,  <a
+href="http://link.springer.com/article/10.1007/s11139-013-9474-2">Root multiplicities of hyperbolic
+Kac-Moody algebras and Fourier coefficients of modular forms</a>, Ramanujan J. <b>32</b> (2013), 329-352.</p></li>
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,  <a
+href="http://scitation.aip.org/content/aip/journal/jmp/54/9/10.1063/1.4820562">Automorphic correction of the hyperbolic
+Kac-Moody algebra E10</a>, J. Math. Phys. <b>54</b> (2013), 091701, 13 pp.</p></li>
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,  <a href="http://www.worldscientific.com/doi/abs/10.1142/S1793042112500674">A
+family of generalized Kac-Moody algebras and deformation of modular
+forms</a>, Int. J. Number Theory <b>8</b> (2012), no. 5, 1107-1131.</p></li>
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,  <a
+href="http://msp.berkeley.edu/pjm/2012/255-2/p07.xhtml">Quantum affine algebras, canonical
+bases and q-deformation of arithmetical functions</a>, Pacific J. Math. <b>255</b> (2012), no. 2, 393-415.</p></li>
+
+<li><p> Kyu-Hwan Lee and Ben Salisbury,  <a href="http://www.sciencedirect.com/science/article/pii/S0097316512000209">A combinatorial description of the Gindikin-Karpelevich formula in type
+A</a>, J. Combin. Theory Ser. A <b>119</b> (2012), 1081-1094.</p></li>
+
+<li><p> Jonathan D. Axtell and Kyu-Hwan Lee, <a href="http://www.sciencedirect.com/science/article/pii/S0021869311002420">Vertex operator algebras associated to type G
+affine Lie algebras</a>, J. Algebra <b>337</b> (2011), 195-223.</p></li>
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,  <a href="http://www.sciencedirect.com/science/article/pii/S0001870811000740">Representation theory of p-adic groups and
+canonical bases</a>, Adv. Math. <b>227</b> (2011), no. 2, 945-961.</p></li>
+
+
+<li><p> Kyu-Hwan Lee, <a href="http://cms.math.ca/10.4153/CJM-2010-072-x">Iwahori-Hecke algebras of SL_2
+over 2-dimensional local fields</a>, Canad. J. Math. <b>62</b> (2010), no. 6, 1310-1324.</p></li>
+
+
+<li><p> Seok-Jin Kang, Dong-il. Lee, Kyu-Hwan Lee and Hyungju Park,  <a href="http://www.sciencedirect.com/science/article/pii/S0021869307000798">Linear algebraic approach to Gr&ouml;bner-Shirshov basis theory</a>, J. Algebra <b>313</b> (2007), 988-1004.</p></li>
+
+<li><p> Georgia Benkart, Seok-Jin Kang and Kyu-Hwan Lee, <a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=1234152">On the center of two-parameter quantum
+groups</a>, Proc. Roy. Soc. Edinburgh Sect. A <b>136</b> (2006), no. 3, 445-472.</p></li>
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,
+<a href="http://www.jstor.org/stable/40067903">Spherical Hecke algebras of SL_2 over 2-dimensional local fields</a>,  Amer. J. Math. <b>126</b> (2004), no. 6, 1381-1399.</p></li>
+
+
+<li><p> Seok-Jin Kang, In-Sok Lee, Kyu-Hwan Lee and Hyekyung Oh,
+<a href="http://plms.oxfordjournals.org/content/89/1/54">Representations of Ariki-Koike algebras and Gr&ouml;bner-Shirshov bases</a>,  Proc. London Math. Soc. (3) <b>89</b> (2004), 54-70.</p></li>
+
+<li><p> Kyu-Hwan Lee, <a href="Papers/Taiwan.pdf">Gr&ouml;bner-Shirshov bases for representations of Lie algebras and Hecke algebras of type A</a>, Proceedings of the Third International Algebra Conference (Tainan 2002),
+115-128, Kluwer Academic Publishers, Dordrecht, 2003.</p></li>
+
+
+<li><p> Seok-Jin Kang, In-Sok Lee, Kyu-Hwan Lee and Hyekyung Oh,
+<a href="http://www.sciencedirect.com/science/article/pii/S0021869302000716">Hecke algebras, Specht modules and Gr&ouml;bner-Shirshov bases</a>, J. Algebra <b>252</b> (2002), 258-292.</p></li>
+
+<li><p> Seok-Jin Kang and Kyu-Hwan Lee, <a href="http://www.sciencedirect.com/science/article/pii/S0021869300983819">Gr&ouml;bner-Shirshov bases for irreducible sl_{n+1}-modules</a>, J. Algebra <b>232</b> (2000), 1-20.</p></li>
+
+
+<li><p> Seok-Jin Kang and Kyu-Hwan Lee, <a href="http://pdf.medrang.co.kr/kms01/JKMS/37/JKMS-37-1-55-72.pdf">Gr&ouml;bner-Shirshov bases for representation theory</a>, J. Korean Math. Soc. <b>37</b> (2000), 55-72.</p></li>
+
+
+<li><p> Leonid A. Bokut, Seok-Jin Kang, Kyu-Hwan Lee and Peter Malcolmson, <a href="http://www.sciencedirect.com/science/article/pii/S0021869398978103">Gr&ouml;bner-Shirshov bases for Lie superalgebras and their universal
+enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
+</p></li>
+
+</ol>
+
+</a>
+
+<a id="ML">
+&nbsp;<br> &nbsp;<br> &nbsp;<br>
+<h4>&nbsp; publications -- machine learning for mathematics</h4>
+<br>
+
+<ul>
+
+<li><p> Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2310.17906.pdf">Data-scientific study of  Kronecker coefficients</a>, arXiv:2310.17906.</p></li>
+
+<li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2307.00256.pdf">Murmurations of Dirichlet characters</a>, arXiv:2307.00256.</p></li>
+
+
+
+<li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://doi.org/10.1080/10586458.2024.2382361">Murmurations of elliptic curves</a>, Exp. Math. (2024).</p></li>
+
+
+
+<li><p> Kyu-Hwan Lee, <a href="https:///dx.doi.org/10.1142/S2810939224400094">Machine-learning Kronecker coefficients</a>, International Journal of Data Science in the Mathematical Sciences, <b>2</b> (2024), no.1, 79-86.</p></li>
+
+<li><p> Malik Amir, Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Eldar Sultanow, <a href="https:///dx.doi.org/10.1142/S2810939223500016">Machine learning class numbers of real quadratic fields</a>, International Journal of Data Science in the Mathematical Sciences, <b>1</b> (2023), no. 2, 107-134.</p></li>
+
+<li><p> Yang-Hui He, Kyu-Hwan Lee and Thomas Oliver, <a href="https://doi.org/10.1016/j.jsc.2022.08.017">Machine-learning invariants of arithmetic curves</a>, J. Symb. Comput. <b>115</b> (2023), 478-491.</p></li>
+
+<li><p> Yang-Hui He, Kyu-Hwan Lee and Thomas Oliver, <a href="https://dx.doi.org/10.4310/MCGD.2022.v2.n1.a2">Machine-learning number fields</a>, Mathematics, Computation and Geometry of Data <b>2</b> (2022), 49-66.</p></li>
+
+<li><p> Yang-Hui He, Kyu-Hwan Lee and Thomas Oliver, <a href="https://www.sciencedirect.com/science/article/pii/S0747717121000729">Machine-learning the Sato-Tate conjecture</a>, J. Symb. Comput. <b>111</b> (2022), 61-72.</p></li>
+
+</ul>
+
+</a>
+
+<a id="RT">
+&nbsp;<br> &nbsp;<br> &nbsp;<br>
+
+<h4>&nbsp; publications -- representation theory</a></h4>
+<br>
+
+<ul>
+
+<li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2402.08140.pdf">Quantum cluster algebra, braid moves and quantum virtual Grothendieck ring</a>, arXiv:2402.08140.</p></li>
+
+<li><p> Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2310.17906.pdf">Data-scientific study of  Kronecker coefficients</a>, arXiv:2310.17906.</p></li>
+
+
+<li><p> Il-Seung Jang, Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2305.19471.pdf">Braid group action on quantum virtual Grothendieck ring through constructing presentations</a>, arXiv:2305.19471.</p></li>
+
+
+<li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="https://arxiv.org/pdf/2203.08628.pdf">Convergence of Kac-Moody Eisenstein series over a function field</a>, arXiv:2203.08628.</p></li>
+ 
+<li><p> Tucker J. Ervin, Blake Jackson, Kyu-Hwan Lee and Kyungyong Lee, <a href="https://arxiv.org/pdf/2108.03309.pdf">Mutations of reflections and existence of pseudo-acyclic orderings for type A_n</a>, arXiv:2108.03309.</p></li>
+
+<li><p> Lisa Carbone, Howard Garland, Kyu-Hwan Lee, Dongwen Liu and Stephen D. Miller, <a href="Papers/KME.pdf">On the convergence of Kac-Moody Eisenstein series</a>, to appear in Amer. J. Math.</p></li>
+
+<li><p> Kyu-Hwan Lee, <a href="https:///dx.doi.org/10.1142/S2810939224400094">Machine-learning Kronecker coefficients</a>, International Journal of Data Science in the Mathematical Sciences, <b>2</b> (2024), no.1, 79-86.</p></li>
+
+
+<li><p> Il-Seung Jang, Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1007/s00220-024-05037-z">Quantization of virtual Grothendieck rings and their structure including quantum cluster algebras</a>, Commun. Math. Phys. <b>405</b>, 173 (2024).</p></li>
+
+<li><p> Jonathan D. Axtell and Kyu-Hwan Lee, <a href="https://bookstore.ams.org/pspum-108">Quantum generalized Kac-Moody algebras via Hall algebras of complexes</a>, Proc. Sympos. Pure Math. <b>108</b> (2024).</p></li>
+
+<li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1007/s10468-023-10225-x">Auto-correlation functions for unitary groups</a>, Algebr. Represent. Theory (2023).</p></li>
+
+<li><p> Jang Soo Kim, Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1090/memo/1401">Weight multiplicities and Young tableaux through affine crystals</a>, Mem. Amer. Math. Soc. <b>283</b>, 1401 (2023).</p></li>
+
+<li><p> Kyu-Hwan Lee, Kyungyong Lee and Matthew R. Mills, <a href="https://doi.org/10.1007/s00209-022-03180-8">Geometric description of  c-vectors and real L&ouml;sungen</a>, Math. Z. <b>303</b>, 44 (2023).</p></li>
+
+
+
+
+<li><p> Kyu-Hwan Lee and Jeongwoo Yu, <a href="https://doi.org/10.1007/s10468-022-10143-4">Rigid reflections of rank 3 Coxeter groups and reduced roots of rank 2 Kac-Moody algebras</a>, Algebr. Represent. Theory (2022).</p></li>
+
+
+
+<li><p> Lisa Carbone, Kyu-Hwan Lee and Dongwen Liu, <a href="https://doi.org/10.2140/ant.2022.16.1099">Entirety of cuspidal Eisenstein series on Kac-Moody groups</a>, Algebra Number Theory <b>16</b> (2022), no. 5, 1099-1119.</p></li>
+
+<li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1016/j.aim.2022.108309">Auto-correlation functions of Sato-Tate distributions and identities of symplectic characters</a>, Adv. Math. <b>401</b> (2022) 108309.</p></li>
+
+
+<li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="https://msp.org/pjm/2021/313-1/p06.xhtml">Character expansion of Kac-Moody correction factors</a>, Pacific J. Math. <b>313</b> (2021), no.1, 159-183.</p></li>
+
+<li><p> Kyu-Hwan Lee and Kyungyong Lee, <a href="https://www.tandfonline.com/doi/full/10.1080/10586458.2018.1538910">A correspondence between rigid modules over path algebras and simple curves on Riemann surfaces</a>, Exp. Math. <b>30</b> (2021), no.3, 315-331.</p></li>
+
+<li><p> Gabriel Feinberg, Sungsoon Kim, Kyu-Hwan Lee and Se-jin Oh, <a href="https://www.sciencedirect.com/science/article/pii/S0021869319302364">Fully commutative elements of the complex reflection groups</a>, J. Algebra <b>558</b> (2020), 371-394.</p></li>
+
+<li><p> Kyu-Hwan Lee and Jerzy Weyman, <a href="https://arxiv.org/pdf/1804.10251.pdf">Some branching formulas for Kac-Moody Lie algebras</a>, Commun. Korean Math. Soc. <b>34</b> (2019), no. 4, 1079-1098.</p></li>
+
+<li><p> Suh Hyun Choi, Chang Heon Kim, Yeong-Wook Kwon and Kyu-Hwan Lee, <a href="https://www.sciencedirect.com/science/article/pii/S0022314X19301544?via%3Dihub">Rationality and p-adic properties of reduced forms of half-integral weight</a>, J. Number Theory <b>204</b> (2019), 446-470.</p></li>
+
+<li><p> Kyu-Hwan Lee and Kyungyong Lee, <a href="https://link.springer.com/article/10.1007%2Fs11425-018-9530-4">Rigid reflections and Kac-Moody algebras</a>, Sci. China Math. <b>62</b> (2019), no.7, 1317-1330.</p></li>
+
+<li><p> Kyu-Hwan Lee, Cristian Lenart and Dongwen Liu with appendix by Dinakar Muthiah and Anna Pusk&aacute;s, <a href="http://dx.doi.org/10.1017/S1474748017000214">Whittaker functions and Demazure characters</a>, J. Inst. Math. Jussieu <b>18</b> (2019), no.4, 759-781.</p></li>
+
+<li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="http://www.ams.org/books/conm/713/">Catalan triangle numbers and binomial coefficients</a>, Contemp. Math. <b>713</b> (2018), 165-185.</p></li>
+
+
+<li><p> Jang Soo Kim, Kyu-Hwan Lee, and Se-jin Oh, <a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2017/25%20Oh%20Kim%20Lee.pdf">Dominant maximal weights of highest weight modules and Young tableaux</a>, S&eacute;m. Lothar. Combin. <b>78B</b> (2017), Art. 25.</p></li>
+
+
+<li><p> Seok-Jin Kang, Kyu-Hwan Lee and Kyungyong Lee, <a href="http://www.tandfonline.com/doi/abs/10.1080/00927872.2017.1281935">A combinatorial approach to root multiplicities of rank 2 hyperbolic Kac-Moody algebras</a>, Comm. Algebra. <b>45</b> (2017), no.11, 4785-4800.</p></li>
+
+
+<li><p> Lisa Carbone, Kyu-Hwan Lee and Dongwen Liu, <a href="https://link.springer.com/article/10.1007/s00208-016-1428-8">Eisenstein series on rank 2 hyperbolic Kac-Moody groups</a>, Math. Ann. <b>367</b> (2017), 1173-1197.</p></li>
+
+
+<li><p> Seok-Jin Kang, Kyu-Hwan Lee, Hansol Ryu and Ben Salisbury,  <a href="http://bookstore.ams.org/pspum-92/">A combinatorial description of the affine Gindikin-Karpelevich formula of type A_n^(1)</a>, Proc. Sympos. Pure Math. <b>92</b> (2016), 145-165.</p></li>
+
+
+<li><p> Konstantina Christodoulopoulou and Kyu-Hwan Lee, <a href="http://www.sciencedirect.com/science/article/pii/S0022404916300342">Representations of spin quiver Hecke algebras for orthosymplectic Lie superalgebras</a>, J. Pure Appl. Algebra <b>220</b> (2016), 3733-3751.</p></li>
+
+
+<li><p> Gabriel Feinberg and Kyu-Hwan Lee, <a href="http://www.mat.univie.ac.at/~slc/">Homogeneous representations of type A KLR-algebras and Dyck paths</a>, S&eacute;m. Lothar. Combin. <b>75</b> (2016), Art. B75b.</p></li>
+
+
+<li><p> Henry H. Kim, Kyu-Hwan Lee and Yichao Zhang, <a href="http://www.ams.org/journals/tran/2015-367-12/S0002-9947-2015-06438-1/">Weakly holomorphic modular forms and rank two hyperbolic Kac-Moody algebras</a>, Trans. Amer. Math. Soc. <b>367</b> (2015), no. 12, 8843-8860.</p></li>
+
+<li><p> Gabriel Feinberg and Kyu-Hwan Lee, <a href="http://intlpress.com/site/pub/pages/journals/items/joc/content/vols/0006/0004/a007/index.html">Fully commutative elements of type D and homogeneous representations of KLR-algebras</a>, J. Comb. <b>6</b> (2015), no. 4, 535-557.</p></li>
+
+<li><p> Kyu-Hwan Lee and Yichao Zhang,  <a href="http://www.ams.org/journals/tran/2015-367-01/S0002-9947-2014-06159-X/">Weyl
+  group multiple Dirichlet series for symmetrizable Kac-Moody root
+  systems</a>, Trans. Amer. Math. Soc. <b>367</b> (2015), 597-625.</p></li>  
+
+<li><p> Lisa Carbone, Walter Freyn and Kyu-Hwan Lee,  <a href="http://www.ams.org/books/conm/623/">Dimensions of imaginary root spaces of hyperbolic Kac-Moody algebras</a>, Contemp. Math. <b>623</b> (2014), 23-40.</p></li>
+
+<li><p> Kyu-Hwan Lee, Philip Lombardo and Ben Salisbury,  <a href="http://www.ams.org/journals/proc/2014-142-07/S0002-9939-2014-11961-7/home.html">Combinatorics of the Casselman-Shalika formula in type A</a>, Proc. Amer. Math. Soc. <b>142</b> (2014), 2291-2301.</p></li>
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,  <a href="http://www.sciencedirect.com/science/article/pii/S0021869314001501">Rank 2 symmetric hyperbolic Kac-Moody algebras and Hilbert modular forms</a>, J. Algebra <b>407</b> (2014), 81-104.</p></li>
+
+
+<li><p> Kyu-Hwan Lee and Ben Salisbury,  <a
+  href="http://pdf.medrang.co.kr/kms01/JKMS/51/JKMS-51-2-289-309.pdf">Young tableaux, canonical bases and the Gindikin-Karpelevich formula</a>, J. Korean Math. Soc. <b>51</b> (2014), no. 2, 289-309.</p></li>
+
+<li><p> Kyu-Hwan Lee and Philip Lombardo,  <a
+href="http://www.ams.org/journals/tran/2014-366-04/S0002-9947-2013-06078-3/home.html">Eisenstein
+series on affine Kac-Moody groups over function fields</a>,
+Trans. Amer. Math. Soc. <b>366</b> (2014), no. 4, 2121-2165.</p></li>
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,  <a
+href="http://link.springer.com/article/10.1007/s11139-013-9474-2">Root multiplicities of hyperbolic
+Kac-Moody algebras and Fourier coefficients of modular forms</a>, Ramanujan J. <b>32</b> (2013), 329-352.</p></li>
+
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,  <a
+href="http://scitation.aip.org/content/aip/journal/jmp/54/9/10.1063/1.4820562">Automorphic correction of the hyperbolic
+Kac-Moody algebra E10</a>, J. Math. Phys. <b>54</b> (2013), 091701, 13 pp.</p></li>
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,  <a href="http://www.worldscientific.com/doi/abs/10.1142/S1793042112500674">A
+family of generalized Kac-Moody algebras and deformation of modular
+forms</a>, Int. J. Number Theory <b>8</b> (2012), no. 5, 1107-1131.</p></li>
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,  <a
+href="http://msp.berkeley.edu/pjm/2012/255-2/p07.xhtml">Quantum affine algebras, canonical
+bases and q-deformation of arithmetical functions</a>, Pacific J. Math. <b>255</b> (2012), no. 2, 393-415.</p></li>
+
+<li><p> Kyu-Hwan Lee and Ben Salisbury,  <a href="http://www.sciencedirect.com/science/article/pii/S0097316512000209">A combinatorial description of the Gindikin-Karpelevich formula in type
+A</a>, J. Combin. Theory Ser. A <b>119</b> (2012), 1081-1094.</p></li>
+
+<li><p> Jonathan D. Axtell and Kyu-Hwan Lee, <a href="http://www.sciencedirect.com/science/article/pii/S0021869311002420">Vertex operator algebras associated to type G
+affine Lie algebras</a>, J. Algebra <b>337</b> (2011), 195-223.</p></li>
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,  <a href="http://www.sciencedirect.com/science/article/pii/S0001870811000740">Representation theory of p-adic groups and
+canonical bases</a>, Adv. Math. <b>227</b> (2011), no. 2, 945-961.</p></li>
+
+
+<li><p> Kyu-Hwan Lee, <a href="http://cms.math.ca/10.4153/CJM-2010-072-x">Iwahori-Hecke algebras of SL_2
+over 2-dimensional local fields</a>, Canad. J. Math. <b>62</b> (2010), no. 6, 1310-1324.</p></li>
+
+
+<li><p> Seok-Jin Kang, Dong-il. Lee, Kyu-Hwan Lee and Hyungju Park,  <a href="http://www.sciencedirect.com/science/article/pii/S0021869307000798">Linear algebraic approach to Gr&ouml;bner-Shirshov basis theory</a>, J. Algebra <b>313</b> (2007), 988-1004.</p></li>
+
+<li><p> Georgia Benkart, Seok-Jin Kang and Kyu-Hwan Lee, <a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=1234152">On the center of two-parameter quantum
+groups</a>, Proc. Roy. Soc. Edinburgh Sect. A <b>136</b> (2006), no. 3, 445-472.</p></li>
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,
+<a href="http://www.jstor.org/stable/40067903">Spherical Hecke algebras of SL_2 over 2-dimensional local fields</a>,  Amer. J. Math. <b>126</b> (2004), no. 6, 1381-1399.</p></li>
+
+
+<li><p> Seok-Jin Kang, In-Sok Lee, Kyu-Hwan Lee and Hyekyung Oh,
+<a href="http://plms.oxfordjournals.org/content/89/1/54">Representations of Ariki-Koike algebras and Gr&ouml;bner-Shirshov bases</a>,  Proc. London Math. Soc. (3) <b>89</b> (2004), 54-70.</p></li>
+
+
+<li><p> Kyu-Hwan Lee, <a href="Papers/Taiwan.pdf">Gr&ouml;bner-Shirshov bases for representations of Lie algebras and Hecke algebras of type A</a>, Proceedings of the Third International Algebra Conference (Tainan 2002),
+115-128, Kluwer Academic Publishers, Dordrecht, 2003.</p></li>
+
+
+<li><p> Seok-Jin Kang, In-Sok Lee, Kyu-Hwan Lee and Hyekyung Oh,
+<a href="http://www.sciencedirect.com/science/article/pii/S0021869302000716">Hecke algebras, Specht modules and Gr&ouml;bner-Shirshov bases</a>, J. Algebra <b>252</b> (2002), 258-292.</p></li>
+
+<li><p> Seok-Jin Kang and Kyu-Hwan Lee, <a href="http://www.sciencedirect.com/science/article/pii/S0021869300983819">Gr&ouml;bner-Shirshov bases for irreducible sl_{n+1}-modules</a>, J. Algebra <b>232</b> (2000), 1-20.</p></li>
+
+
+<li><p> Seok-Jin Kang and Kyu-Hwan Lee, <a href="http://pdf.medrang.co.kr/kms01/JKMS/37/JKMS-37-1-55-72.pdf">Gr&ouml;bner-Shirshov bases for representation theory</a>, J. Korean Math. Soc. <b>37</b> (2000), 55-72.</p></li>
+
+
+
+<li><p> Leonid A. Bokut, Seok-Jin Kang, Kyu-Hwan Lee and Peter Malcolmson, <a href="http://www.sciencedirect.com/science/article/pii/S0021869398978103">Gr&ouml;bner-Shirshov bases for Lie superalgebras and their universal
+enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
+</p></li>
+
+
+</ul>
+
+</a>
+
+<a id="NT">
+&nbsp;<br> &nbsp;<br> &nbsp;<br>
+
+<h4>&nbsp; publications -- number theory</h4>
+<br>
+
+<ul>
+
+<li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2307.00256.pdf">Murmurations of Dirichlet characters</a>, arXiv:2307.00256.</p></li>
+
+<li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="https://arxiv.org/pdf/2203.08628.pdf">Convergence of Kac-Moody Eisenstein series over a function field</a>, arXiv:2203.08628.</p></li>
+
+
+<li><p> Lisa Carbone, Howard Garland, Kyu-Hwan Lee, Dongwen Liu and Stephen D. Miller, <a href="Papers/KME.pdf">On the convergence of Kac-Moody Eisenstein series</a>, to appear in Amer. J. Math.</p></li>
+
+<li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://doi.org/10.1080/10586458.2024.2382361">Murmurations of elliptic curves</a>, Exp. Math. (2024).</p></li>
+
+
+<li><p> Malik Amir, Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Eldar Sultanow, <a href="https:///dx.doi.org/10.1142/S2810939223500016">Machine learning class numbers of real quadratic fields</a>, International Journal of Data Science in the Mathematical Sciences, <b>1</b> (2023), no. 2, 107-134.</p></li>
+
+<li><p> Yang-Hui He, Kyu-Hwan Lee and Thomas Oliver, <a href="https://doi.org/10.1016/j.jsc.2022.08.017">Machine-learning invariants of arithmetic curves</a>, J. Symb. Comput. <b>115</b> (2023), 478-491.</p></li>
+
+<li><p> Yang-Hui He, Kyu-Hwan Lee and Thomas Oliver, <a href="https://dx.doi.org/10.4310/MCGD.2022.v2.n1.a2">Machine-learning number fields</a>, Mathematics, Computation and Geometry of Data <b>2</b> (2022), 49-66.</p></li>
+
+<li><p> Lisa Carbone, Kyu-Hwan Lee and Dongwen Liu, <a href="https://doi.org/10.2140/ant.2022.16.1099">Entirety of cuspidal Eisenstein series on Kac-Moody groups</a>, Algebra Number Theory <b>16</b> (2022), no. 5, 1099-1119.</p></li>
+
+<li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1016/j.aim.2022.108309">Auto-correlation functions of Sato-Tate distributions and identities of symplectic characters</a>, Adv. Math. <b>401</b> (2022) 108309.</p></li>
+
+<li><p> Yang-Hui He, Kyu-Hwan Lee and Thomas Oliver, <a href="https://www.sciencedirect.com/science/article/pii/S0747717121000729">Machine-learning the Sato-Tate conjecture</a>, J. Symb. Comput. <b>111</b> (2022), 61-72.</p></li>
+
+<li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="https://msp.org/pjm/2021/313-1/p06.xhtml">Character expansion of Kac-Moody correction factors</a>, Pacific J. Math. <b>313</b> (2021), no.1, 159-183.</p></li>
+
+<li><p> Suh Hyun Choi, Chang Heon Kim, Yeong-Wook Kwon and Kyu-Hwan Lee, <a href="https://www.sciencedirect.com/science/article/pii/S0022314X19301544?via%3Dihub">Rationality and p-adic properties of reduced forms of half-integral weight</a>, J. Number Theory <b>204</b> (2019), 446-470.</p></li>
+
+<li><p> Kyu-Hwan Lee, Cristian Lenart and Dongwen Liu with appendix by Dinakar Muthiah and Anna Pusk&aacute;s, <a href="http://dx.doi.org/10.1017/S1474748017000214">Whittaker functions and Demazure characters</a>, J. Inst. Math. Jussieu <b>18</b> (2019), no.4, 759-781.</p></li>
+
+<li><p> Lisa Carbone, Kyu-Hwan Lee and Dongwen Liu, <a href="https://link.springer.com/article/10.1007/s00208-016-1428-8">Eisenstein series on rank 2 hyperbolic Kac-Moody groups</a>, Math. Ann. <b>367</b> (2017), 1173-1197.</p></li>
+
+<li><p> Seok-Jin Kang, Kyu-Hwan Lee, Hansol Ryu and Ben Salisbury,  <a href="http://bookstore.ams.org/pspum-92/">A combinatorial description of the affine Gindikin-Karpelevich formula of type A_n^(1)</a>, Proc. Sympos. Pure Math. <b>92</b> (2016), 145-165.</p></li>
+
+<li><p> Henry H. Kim, Kyu-Hwan Lee and Yichao Zhang, <a href="http://www.ams.org/journals/tran/2015-367-12/S0002-9947-2015-06438-1/">Weakly holomorphic modular forms and rank two hyperbolic Kac-Moody algebras</a>, Trans. Amer. Math. Soc. <b>367</b> (2015), no. 12, 8843-8860.</p></li>
+
+<li><p> Kyu-Hwan Lee and Yichao Zhang,  <a href="http://www.ams.org/journals/tran/2015-367-01/S0002-9947-2014-06159-X/">Weyl
+  group multiple Dirichlet series for symmetrizable Kac-Moody root
+  systems</a>, Trans. Amer. Math. Soc. <b>367</b> (2015), 597-625.</p></li>  
+
+<li><p> Kyu-Hwan Lee, Philip Lombardo and Ben Salisbury,  <a href="http://www.ams.org/journals/proc/2014-142-07/S0002-9939-2014-11961-7/home.html">Combinatorics of the Casselman-Shalika formula in type A</a>, Proc. Amer. Math. Soc. <b>142</b> (2014), 2291-2301.</p></li>
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,  <a href="http://www.sciencedirect.com/science/article/pii/S0021869314001501">Rank 2 symmetric hyperbolic Kac-Moody algebras and Hilbert modular forms</a>, J. Algebra <b>407</b> (2014), 81-104.</p></li>
+
+<li><p> Kyu-Hwan Lee and Ben Salisbury,  <a
+  href="http://pdf.medrang.co.kr/kms01/JKMS/51/JKMS-51-2-289-309.pdf">Young tableaux, canonical bases and the Gindikin-Karpelevich formula</a>, J. Korean Math. Soc. <b>51</b> (2014), no. 2, 289-309.</p></li>
+
+<li><p> Kyu-Hwan Lee and Philip Lombardo,  <a
+href="http://www.ams.org/journals/tran/2014-366-04/S0002-9947-2013-06078-3/home.html">Eisenstein
+series on affine Kac-Moody groups over function fields</a>,
+Trans. Amer. Math. Soc. <b>366</b> (2014), no. 4, 2121-2165.</p></li>
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,  <a
+href="http://link.springer.com/article/10.1007/s11139-013-9474-2">Root multiplicities of hyperbolic
+Kac-Moody algebras and Fourier coefficients of modular forms</a>, Ramanujan J. <b>32</b> (2013), 329-352.</p></li>
+
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,  <a
+href="http://scitation.aip.org/content/aip/journal/jmp/54/9/10.1063/1.4820562">Automorphic correction of the hyperbolic
+Kac-Moody algebra E10</a>, J. Math. Phys. <b>54</b> (2013), 091701, 13 pp.</p></li>
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,  <a href="http://www.worldscientific.com/doi/abs/10.1142/S1793042112500674">A
+family of generalized Kac-Moody algebras and deformation of modular
+forms</a>, Int. J. Number Theory <b>8</b> (2012), no. 5, 1107-1131.</p></li>
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,  <a
+href="http://msp.berkeley.edu/pjm/2012/255-2/p07.xhtml">Quantum affine algebras, canonical
+bases and q-deformation of arithmetical functions</a>, Pacific J. Math. <b>255</b> (2012), no. 2, 393-415.</p></li>
+
+<li><p> Kyu-Hwan Lee and Ben Salisbury,  <a href="http://www.sciencedirect.com/science/article/pii/S0097316512000209">A combinatorial description of the Gindikin-Karpelevich formula in type
+A</a>, J. Combin. Theory Ser. A <b>119</b> (2012), 1081-1094.</p></li>
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,  <a href="http://www.sciencedirect.com/science/article/pii/S0001870811000740">Representation theory of p-adic groups and
+canonical bases</a>, Adv. Math. <b>227</b> (2011), no. 2, 945-961.</p></li>
+
+<li><p> Kyu-Hwan Lee, <a href="http://cms.math.ca/10.4153/CJM-2010-072-x">Iwahori-Hecke algebras of SL_2
+over 2-dimensional local fields</a>, Canad. J. Math. <b>62</b> (2010), no. 6, 1310-1324.</p></li>
+
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,
+<a href="http://www.jstor.org/stable/40067903">Spherical Hecke algebras of SL_2 over 2-dimensional local fields</a>,  Amer. J. Math. <b>126</b> (2004), no. 6, 1381-1399.</p></li>
+
+</ul>
+
+</a>
+
+<a id="CO">
+&nbsp;<br> &nbsp;<br> &nbsp;<br>
+
+<h4>&nbsp; publications -- combinatorics</h4>
+<br>
+
+<ul>
+
+<li><p> Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2310.17906.pdf">Data-scientific study of  Kronecker coefficients</a>, arXiv:2310.17906.</p></li>
+
+<li><p> Il-Seung Jang, Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2305.19471.pdf">Braid group action on quantum virtual Grothendieck ring through constructing presentations</a>, arXiv:2305.19471.</p></li>
+
+<li><p> Tucker J. Ervin, Blake Jackson, Kyu-Hwan Lee and Kyungyong Lee, <a href="https://arxiv.org/pdf/2108.03309.pdf">Mutations of reflections and existence of pseudo-acyclic orderings for type A_n</a>, arXiv:2108.03309.</p></li>
+
+
+<li><p> Kyu-Hwan Lee, <a href="https:///dx.doi.org/10.1142/S2810939224400094">Machine-learning Kronecker coefficients</a>, International Journal of Data Science in the Mathematical Sciences, <b>2</b> (2024), no.1, 79-86.</p></li>
+
+<li><p> Il-Seung Jang, Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1007/s00220-024-05037-z">Quantization of virtual Grothendieck rings and their structure including quantum cluster algebras</a>, Commun. Math. Phys. <b>405</b>, 173 (2024).</p></li>
+
+<li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1007/s10468-023-10225-x">Auto-correlation functions for unitary groups</a>, Algebr. Represent. Theory (2023).</p></li>
+
+<li><p> Jang Soo Kim, Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1090/memo/1401">Weight multiplicities and Young tableaux through affine crystals</a>, Mem. Amer. Math. Soc. <b>283</b>, 1401 (2023).</p></li>
+
+<li><p> Kyu-Hwan Lee, Kyungyong Lee and Matthew R. Mills, <a href="https://doi.org/10.1007/s00209-022-03180-8">Geometric description of  c-vectors and real L&ouml;sungen</a>, Math. Z. <b>303</b>, 44 (2023).</p></li>
+
+<li><p> Kyu-Hwan Lee and Jeongwoo Yu, <a href="https://doi.org/10.1007/s10468-022-10143-4">Rigid reflections of rank 3 Coxeter groups and reduced roots of rank 2 Kac-Moody algebras</a>, Algebr. Represent. Theory (2022).</p></li>
+
+<li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1016/j.aim.2022.108309">Auto-correlation functions of Sato-Tate distributions and identities of symplectic characters</a>, Adv. Math. <b>401</b> (2022) 108309.</p></li>
+
+<li><p> Kyu-Hwan Lee and Kyungyong Lee, <a href="https://www.tandfonline.com/doi/full/10.1080/10586458.2018.1538910">A correspondence between rigid modules over path algebras and simple curves on Riemann surfaces</a>, Exp. Math. <b>30</b> (2021), no.3, 315-331.</p></li>
+
+<li><p> Gabriel Feinberg, Sungsoon Kim, Kyu-Hwan Lee and Se-jin Oh, <a href="https://www.sciencedirect.com/science/article/pii/S0021869319302364">Fully commutative elements of the complex reflection groups</a>, J. Algebra <b>558</b> (2020), 371-394.</p></li>
+
+<li><p> Kyu-Hwan Lee and Kyungyong Lee, <a href="https://link.springer.com/article/10.1007%2Fs11425-018-9530-4">Rigid reflections and Kac-Moody algebras</a>, Sci. China Math. <b>62</b> (2019), no.7, 1317-1330.</p></li>
+
+<li><p> Kyu-Hwan Lee, Cristian Lenart and Dongwen Liu with appendix by Dinakar Muthiah and Anna Pusk&aacute;s, <a href="http://dx.doi.org/10.1017/S1474748017000214">Whittaker functions and Demazure characters</a>, J. Inst. Math. Jussieu <b>18</b> (2019), no.4, 759-781.</p></li>
+
+<li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="http://www.ams.org/books/conm/713/">Catalan triangle numbers and binomial coefficients</a>, Contemp. Math. <b>713</b> (2018), 165-185.</p></li>
+
+<li><p> Jang Soo Kim, Kyu-Hwan Lee, and Se-jin Oh, <a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2017/25%20Oh%20Kim%20Lee.pdf">Dominant maximal weights of highest weight modules and Young tableaux</a>, S&eacute;m. Lothar. Combin. <b>78B</b> (2017), Art. 25.</p></li>
+
+<li><p> Seok-Jin Kang, Kyu-Hwan Lee and Kyungyong Lee, <a href="http://www.tandfonline.com/doi/abs/10.1080/00927872.2017.1281935">A combinatorial approach to root multiplicities of rank 2 hyperbolic Kac-Moody algebras</a>, Comm. Algebra. <b>45</b> (2017), no.11, 4785-4800.</p></li>
+
+<li><p> Seok-Jin Kang, Kyu-Hwan Lee, Hansol Ryu and Ben Salisbury,  <a href="http://bookstore.ams.org/pspum-92/">A combinatorial description of the affine Gindikin-Karpelevich formula of type A_n^(1)</a>, Proc. Sympos. Pure Math. <b>92</b> (2016), 145-165.</p></li>
+
+<li><p> Gabriel Feinberg and Kyu-Hwan Lee, <a href="http://www.mat.univie.ac.at/~slc/">Homogeneous representations of type A KLR-algebras and Dyck paths</a>, S&eacute;m. Lothar. Combin. <b>75</b> (2016), Art. B75b.</p></li>
+
+<li><p> Gabriel Feinberg and Kyu-Hwan Lee, <a href="http://intlpress.com/site/pub/pages/journals/items/joc/content/vols/0006/0004/a007/index.html">Fully commutative elements of type D and homogeneous representations of KLR-algebras</a>, J. Comb. <b>6</b> (2015), no. 4, 535-557.</p></li>
+
+<li><p> Kyu-Hwan Lee, Philip Lombardo and Ben Salisbury,  <a href="http://www.ams.org/journals/proc/2014-142-07/S0002-9939-2014-11961-7/home.html">Combinatorics of the Casselman-Shalika formula in type A</a>, Proc. Amer. Math. Soc. <b>142</b> (2014), 2291-2301.</p></li>
+
+<li><p> Kyu-Hwan Lee and Ben Salisbury,  <a
+  href="http://pdf.medrang.co.kr/kms01/JKMS/51/JKMS-51-2-289-309.pdf">Young tableaux, canonical bases and the Gindikin-Karpelevich formula</a>, J. Korean Math. Soc. <b>51</b> (2014), no. 2, 289-309.</p></li>
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,  <a href="http://www.worldscientific.com/doi/abs/10.1142/S1793042112500674">A
+family of generalized Kac-Moody algebras and deformation of modular
+forms</a>, Int. J. Number Theory <b>8</b> (2012), no. 5, 1107-1131.</p></li>
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,  <a
+href="http://msp.berkeley.edu/pjm/2012/255-2/p07.xhtml">Quantum affine algebras, canonical
+bases and q-deformation of arithmetical functions</a>, Pacific J. Math. <b>255</b> (2012), no. 2, 393-415.</p></li>
+
+<li><p> Kyu-Hwan Lee and Ben Salisbury,  <a href="http://www.sciencedirect.com/science/article/pii/S0097316512000209">A combinatorial description of the Gindikin-Karpelevich formula in type
+A</a>, J. Combin. Theory Ser. A <b>119</b> (2012), 1081-1094.</p></li>
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,  <a href="http://www.sciencedirect.com/science/article/pii/S0001870811000740">Representation theory of p-adic groups and
+canonical bases</a>, Adv. Math. <b>227</b> (2011), no. 2, 945-961.</p></li>
+
+<li><p> Seok-Jin Kang, In-Sok Lee, Kyu-Hwan Lee and Hyekyung Oh,
+<a href="http://plms.oxfordjournals.org/content/89/1/54">Representations of Ariki-Koike algebras and Gr&ouml;bner-Shirshov bases</a>,  Proc. London Math. Soc. (3) <b>89</b> (2004), 54-70.</p></li>
+
+<li><p> Kyu-Hwan Lee, <a href="Papers/Taiwan.pdf">Gr&ouml;bner-Shirshov bases for representations of Lie algebras and Hecke algebras of type A</a>, Proceedings of the Third International Algebra Conference (Tainan 2002),
+115-128, Kluwer Academic Publishers, Dordrecht, 2003.</p></li>
+
+
+<li><p> Seok-Jin Kang, In-Sok Lee, Kyu-Hwan Lee and Hyekyung Oh,
+<a href="http://www.sciencedirect.com/science/article/pii/S0021869302000716">Hecke algebras, Specht modules and Gr&ouml;bner-Shirshov bases</a>, J. Algebra <b>252</b> (2002), 258-292.</p></li>
+
+<li><p> Seok-Jin Kang and Kyu-Hwan Lee, <a href="http://www.sciencedirect.com/science/article/pii/S0021869300983819">Gr&ouml;bner-Shirshov bases for irreducible sl_{n+1}-modules</a>, J. Algebra <b>232</b> (2000), 1-20.</p></li>
+
+</ul>
+
+</a>
+
+<a id="MP">
+&nbsp;<br> &nbsp;<br> &nbsp;<br>
+
+<h4>&nbsp; publications -- mathematical physics</h4>
+<br>
+
+<ul>
+
+<li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2402.08140.pdf">Quantum cluster algebra, braid moves and quantum virtual Grothendieck ring</a>, arXiv:2402.08140.</p></li>
+
+<li><p> Il-Seung Jang, Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2305.19471.pdf">Braid group action on quantum virtual Grothendieck ring through constructing presentations</a>, arXiv:2305.19471.</p></li>
+
+<li><p> Lisa Carbone, Howard Garland, Kyu-Hwan Lee, Dongwen Liu and Stephen D. Miller, <a href="Papers/KME.pdf">On the convergence of Kac-Moody Eisenstein series</a>, to appear in Amer. J. Math.</p></li>
+
+<li><p> Il-Seung Jang, Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1007/s00220-024-05037-z">Quantization of virtual Grothendieck rings and their structure including quantum cluster algebras</a>, Commun. Math. Phys. <b>405</b>, 173 (2024).</p></li>
+
+<li><p> Jonathan D. Axtell and Kyu-Hwan Lee, <a href="https://bookstore.ams.org/pspum-108">Quantum generalized Kac-Moody algebras via Hall algebras of complexes</a>, Proc. Sympos. Pure Math. <b>108</b> (2024).</p></li>
+
+<li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1007/s10468-023-10225-x">Auto-correlation functions for unitary groups</a>, Algebr. Represent. Theory (2023).</p></li>
+
+<li><p> Jang Soo Kim, Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1090/memo/1401">Weight multiplicities and Young tableaux through affine crystals</a>, Mem. Amer. Math. Soc. <b>283</b>, 1401 (2023).</p></li>
+
+<li><p> Lisa Carbone, Kyu-Hwan Lee and Dongwen Liu, <a href="https://doi.org/10.2140/ant.2022.16.1099">Entirety of cuspidal Eisenstein series on Kac-Moody groups</a>, Algebra Number Theory <b>16</b> (2022), no. 5, 1099-1119.</p></li>
+
+<li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1016/j.aim.2022.108309">Auto-correlation functions of Sato-Tate distributions and identities of symplectic characters</a>, Adv. Math. <b>401</b> (2022) 108309.</p></li>
+
+<li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="https://msp.org/pjm/2021/313-1/p06.xhtml">Character expansion of Kac-Moody correction factors</a>, Pacific J. Math. <b>313</b> (2021), no.1, 159-183.</p></li>
+
+<li><p> Lisa Carbone, Kyu-Hwan Lee and Dongwen Liu, <a href="https://link.springer.com/article/10.1007/s00208-016-1428-8">Eisenstein series on rank 2 hyperbolic Kac-Moody groups</a>, Math. Ann. <b>367</b> (2017), 1173-1197.</p></li>
+
+<li><p> Lisa Carbone, Walter Freyn and Kyu-Hwan Lee,  <a href="http://www.ams.org/books/conm/623/">Dimensions of imaginary root spaces of hyperbolic Kac-Moody algebras</a>, Contemp. Math. <b>623</b> (2014), 23-40.</p></li>
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,  <a
+href="http://link.springer.com/article/10.1007/s11139-013-9474-2">Root multiplicities of hyperbolic
+Kac-Moody algebras and Fourier coefficients of modular forms</a>, Ramanujan J. <b>32</b> (2013), 329-352.</p></li>
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,  <a
+href="http://scitation.aip.org/content/aip/journal/jmp/54/9/10.1063/1.4820562">Automorphic correction of the hyperbolic
+Kac-Moody algebra E10</a>, J. Math. Phys. <b>54</b> (2013), 091701, 13 pp.</p></li>
+
+<li><p> Henry H. Kim and Kyu-Hwan Lee,  <a
+href="http://msp.berkeley.edu/pjm/2012/255-2/p07.xhtml">Quantum affine algebras, canonical
+bases and q-deformation of arithmetical functions</a>, Pacific J. Math. <b>255</b> (2012), no. 2, 393-415.</p></li>
+
+<li><p> Jonathan D. Axtell and Kyu-Hwan Lee, <a href="http://www.sciencedirect.com/science/article/pii/S0021869311002420">Vertex operator algebras associated to type G
+affine Lie algebras</a>, J. Algebra <b>337</b> (2011), 195-223.</p></li>
+
+<li><p> Georgia Benkart, Seok-Jin Kang and Kyu-Hwan Lee, <a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=1234152">On the center of two-parameter quantum
+groups</a>, Proc. Roy. Soc. Edinburgh Sect. A <b>136</b> (2006), no. 3, 445-472.</p></li>
+
+</ul>
+
+</a>
+
+<a id="CG">
+&nbsp;<br> &nbsp;<br> &nbsp;<br>
+
+<h4>&nbsp; publications -- complex geometry</a></h4>
+<br>
+
+<ul>
+<li><p> Gunhee Cho and Kyu-Hwan Lee, <a href="https://doi.org/10.1007/s00208-023-02735-2">Equivalence of Invariant metrics via Bergman kernel on complete noncompact K&auml;hler manifolds</a>, Math. Ann. (2023).</p></li>
+
+</ul>
+
+</a>
+
+&nbsp;<br> &nbsp;<br> &nbsp;<br>
+&nbsp;<br> &nbsp;<br> &nbsp;<br>
+&nbsp;<br> &nbsp;<br> &nbsp;<br>
+&nbsp;<br> &nbsp;<br> &nbsp;<br>
+&nbsp;<br> &nbsp;<br> &nbsp;<br>
+&nbsp;<br> &nbsp;<br> &nbsp;<br>
+&nbsp;<br> &nbsp;<br> &nbsp;<br>
+&nbsp;<br> &nbsp;<br> &nbsp;<br>
+&nbsp;<br> &nbsp;<br> &nbsp;<br>
+&nbsp;<br> &nbsp;<br> &nbsp;<br>
+&nbsp;<br> &nbsp;<br> &nbsp;<br>
+&nbsp;<br> &nbsp;<br> &nbsp;<br>
+&nbsp;<br> &nbsp;<br> &nbsp;<br>
+
+
 {% bibliography %}
 
 </div>
