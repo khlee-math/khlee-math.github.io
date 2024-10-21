@@ -24,7 +24,7 @@ nav_order: 6
 
 <li><p>Spring 2024<br>
 Elementary Differential Equations (MATH 2410Q)<br>
-<a href="math3180s24">Mathematics for Machine Learning (MATH 3180)</a></p></li>
+<a href="math3180s24/index.md">Mathematics for Machine Learning (MATH 3180)</a></p></li>
  
 <li><p>Spring 2023<br>
 Elementary Differential Equations (MATH 2410Q), Sections 001 and 007</p></li>
