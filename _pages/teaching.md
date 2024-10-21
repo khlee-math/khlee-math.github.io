@@ -76,12 +76,12 @@ Topics in Algebra (MATH 5020): Modular Forms</p></li>
 
 
 <li><p>Spring 2016<br>
-<a href="math2142s16/">Advanced Calculus II (MATH 2142Q)</a></p></li>
+Advanced Calculus II (MATH 2142Q)</p></li>
 
 
 <li><p>Fall 2015<br>
-<a href="math2141f15/">Advanced Calculus I (MATH 2141Q)</a><br>
-<a href="math2410f15/">Elementary Differential Equations (MATH 2410Q)</a></p></li>
+Advanced Calculus I (MATH 2141Q)<br>
+Elementary Differential Equations (MATH 2410Q)</p></li>
 
 
 <li><p>Spring 2015<br>
@@ -97,16 +97,16 @@ Probability (MATH 3160)</p></li>
 Topics in Algebra (MATH 5020): Representations of GL(2) II</p></li>
 
 <li><p>Fall 2013<br>
-<a href="math2110f13/">Multivariable Calculus (MATH 2110Q)</a><br>
+Multivariable Calculus (MATH 2110Q)<br>
 Topics in Algebra (MATH 5020): Representations of GL(2) I</p></li>
 
 <li><p>Fall 2012<br>
-<a href="math2210f12/">Applied Linear Algebra (MATH 2210Q)</a><br>
-<a href="math2410f12/">Elementary Differential Equations (MATH 2410Q)</a><br>
-<a href="math5210f12/">Abstract Algebra I (MATH 5210)</a></p></li>
+Applied Linear Algebra (MATH 2210Q)<br>
+Elementary Differential Equations (MATH 2410Q)<br>
+Abstract Algebra I (MATH 5210)</p></li>
 
 <li><p>Spring 2012<br>
-<a href="math2410s12/">Elementary Differential Equations (MATH 2410Q)</a>
+Elementary Differential Equations (MATH 2410Q)
 </p></li>
 
 
@@ -119,8 +119,8 @@ Calculus I (MATH 1131Q)
 </p></li>
 
 <li><p>Spring 2010<br>
-<a href="math2784s10/">Undergraduate Seminar I (MATH 2784)</a><br>
-<a href="math2784s10/">Undergraduate Seminar II (MATH 2794W)</a>
+Undergraduate Seminar I (MATH 2784)<br>
+Undergraduate Seminar II (MATH 2794W)
 </p></li>
 
 
@@ -130,11 +130,11 @@ Topics in Algebra (MATH 5020): Class Field Theory
 </p></li>
 
 <li><p>Spring 2009<br>
-<a href="math5211s09/">Abstract Algebra II (MATH 5211)</a></p></li>
+Abstract Algebra II (MATH 5211)</p></li>
 
 <li><p>Fall 2008<br>
 Calculus II (MATH 1132Q)<br>
-<a href="math5210f08/">Abstract Algebra I (MATH 5210)</a></p></li>
+Abstract Algebra I (MATH 5210)</p></li>
 
 <li><p>Spring 2008<br>
 Topics in Algebra (MATH 321 Section 002): Automorphic Representations</p></li>
@@ -146,12 +146,13 @@ Topics in Algebra (MATH 321-2): Geometric Representation Theory</p></li>
 
 
 <li><p>Spring 2007<br>
-<a href="math316s07/">Abstract Algebra II (MATH 316)</a></p></li>
+Abstract Algebra II (MATH 316)</p></li>
 
 
 
 <li><p>Fall 2006<br>
-<a href="math211f06/">Elementary Differential Equations (MATH 211Q)</a><br><a href="math315f06/">Abstract Algebra I (MATH 315)</a></p></li>
+Elementary Differential Equations (MATH 211Q)<br>
+Abstract Algebra I (MATH 315)</p></li>
 
 
 
@@ -160,25 +161,27 @@ Topics in Algebra (MATH 321): Modular forms and L-functions</p></li>
 
 <li><p>Fall 2005<br>
 Calculus I (MATH 115Q)<br>
-<a href="pages/Math215.html">Linear Algebra (MATH 215)</a></p></li>
+Linear Algebra (MATH 215)</p></li>
 
 <li><p>Spring 2005 at the University of Toronto<br>
-<a href="pages/MAT315.html">Introduction to Number Theory (MAT315H1)</a></p></li>
+Introduction to Number Theory (MAT315H1)</p></li>
 
 <li><p>Fall 2004 at the University of Toronto<br>
-<a href="pages/MAT194.pdf">Calculus 1 (MAT194H1)</a></p></li>
+Calculus 1 (MAT194H1)</p></li>
 
 <li><p>Summer 2004 at the University of Toronto<br>
-<a href="pages/MAT224.html">Linear Algebra II (MAT224H)
-</a></p></li>
+Linear Algebra II (MAT224H)
+</p></li>
 
 <li><p>Fall 2003 at the University of Toronto<br>
-<a href="pages/MAT301.html">Groups and Symmetry (MAT301F)</a><br><a href="pages/APM288.pdf">Ordinary Differential Equations (APM288F)</a>
+Groups and Symmetry (MAT301F)<br>
+Ordinary Differential Equations (APM288F)
 </p></li>
 
 
 <li><p>Fall 2002 at the University of Toronto<br>
-<a href="pages/MAT223.html">Linear Algebra I (MAT223H)</a><br>Ordinary Differential Equations (APM288F)
+Linear Algebra I (MAT223H)<br>
+Ordinary Differential Equations (APM288F)
 </p></li>
 
 <li><p>Spring 2002 at the University of Wisconsin-Madison <br>
