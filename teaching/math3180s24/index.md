@@ -1,5 +1,6 @@
 ---
 layout: page
+title:
 ---
 
 <center><h3><b>Math 3180: Mathematics for Machine Learning</b></h3>
