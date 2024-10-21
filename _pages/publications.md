@@ -15,7 +15,7 @@ nav_order: 2
 <div class="publications">
 
 <ul>
-<li><p><a href="#All">all areas</a> <a href="https://khlee-math.github.io/teaching/math3180s24/">&nbsp;</a></p></li> 
+<li><p><a href="#All">all areas</a> <a href="https://khlee-math.github.io/teaching/math3180s24/">_</a></p></li> 
 <li><p><a href="#ML">machine learning for mathematics</a></p></li>
 <li><p><a href="#RT">representation theory</a></p></li>
 <li><p><a href="#NT">number theory</a></p></li> 
