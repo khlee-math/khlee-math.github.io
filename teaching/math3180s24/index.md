@@ -1,9 +1,7 @@
 ---
-layout: page
-title:
+layout: about 
+title: Math 3180
 ---
-
-<title>Math 3180</title>
 
 <center><h3><b>Math 3180: Mathematics for Machine Learning</b></h3>
 <h5><b>Spring 2024</b></h5>
