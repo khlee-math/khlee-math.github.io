@@ -648,6 +648,6 @@ groups</a>, Proc. Roy. Soc. Edinburgh Sect. A <b>136</b> (2006), no. 3, 445-472.
 &nbsp;<br> &nbsp;<br> &nbsp;<br>
 &nbsp;<br> &nbsp;<br> &nbsp;<br>
 
-<a href="https://khlee-math.github.io/publications/research.md">_</a>
+<a href="https://khlee-math.github.io/publications/">_</a>
 
 </div>
