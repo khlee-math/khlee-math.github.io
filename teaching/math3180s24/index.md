@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Math 3180
 ---
 
 <center><h3><b>Math 3180: Mathematics for Machine Learning</b></h3>
@@ -12,10 +11,11 @@ title: Math 3180
 
 
  <div style="text-align: left;">
-        <blockquote>
+<!--        <blockquote>
           <blockquote>
             <blockquote>
               <blockquote>
+-->
 
 <h5><b>Instructor Information</b></h5>
 <ul>
