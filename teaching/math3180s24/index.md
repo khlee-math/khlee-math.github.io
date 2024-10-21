@@ -1,5 +1,5 @@
 ---
-layout: about 
+layout: subpage 
 title: Math 3180
 ---
 
