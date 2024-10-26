@@ -26,6 +26,7 @@ Feb. 1994 </p></li>
 <hr>
 <br>
 <h4>&nbsp; employment</h4>
+<br>
 
 <ul>
 
@@ -45,6 +46,7 @@ Feb. 1994 </p></li>
 <hr>
 <br>
 <h4>&nbsp; visiting positions</h4>
+<br>
 
 <ul>
 <li><p>KIAS Scholar, Korea Institute for Advanced Study, South Korea, May 2024 - present</p></li>
@@ -63,6 +65,7 @@ Feb. 1994 </p></li>
 <hr>
 <br>
 <h4>&nbsp; grants and award</h4>
+<br>
 
 <ul>
 <li><p>Simons Foundation Grant #712100, "Quiver Representations and Sato&ndash;Tate Distributions", 09/01/20 - 08/31/25</p></li>

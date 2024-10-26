@@ -8,6 +8,7 @@ nav_order: 4
 ---
 
 <h4>&nbsp; editorship</h4>
+<br>
 <ul>
 <li><p><a href="https://www.tandfonline.com/journals/uexm20">Experimental Mathematics</a>, <i> editor</i>, 2023-present.</p></li>
 
@@ -22,7 +23,14 @@ nav_order: 4
 <br>
 
 <h4>&nbsp; conferences organized</h4>
+<br>
 <ul>
+
+<li><p><a href="http://events.kias.re.kr/h/AIforMath/">AI for Mathematics Workshop on Formalization</a>, KIAS, Seoul, Korea, December 2024, co-organizer: Chul-hee Lee.</p></li>
+
+<li><p><a href="https://scgp.stonybrook.edu/archives/43116">Murmurations in Arithmetic Geometry and Related Topics</a>, Simons Center for Geometry and Physics, Stony Brook, NY, November 2024, co-organizers: Yang-Hui He, Abhiram Kidambi, Thomas Oliver.</p></li>
+
+<li><p><a href="https://sites.google.com/view/danger4workshop/home?authuser=0">Data, Numbers, and Geometry 4</a>, London Institute for Mathematical Sciences, London, UK, August 2024, co-organizers: Yang-Hui He, Alexander Kasprzyk, Thomas Oliver.</p></li>
 
 <li><p><a href="https://icerm.brown.edu/events/htw-23-ma/">Murmurations in Arithmetic</a>, ICERM, Providence, RI, July 2023, co-organizers: Yang-Hui He, Thomas Oliver.</p></li>
 
@@ -53,6 +61,7 @@ Korea, October 2001, co-organizer: Seok-Jin Kang.</p></li>
 
 <h4>&nbsp; proceedings edited</h4>
 
+<br>
 <ul>
 
 <li><p>(Co-editor Seok-Jin Kang)  Combinatorial and Geometric Representation Theory,    Contemporary Mathematics <b>325</b>, American Mathematical Society, 2003.
