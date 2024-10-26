@@ -20,24 +20,23 @@ nav_order: 3
 &nbsp;<br> &nbsp;<br> &nbsp;<br>
 
 
-
 <h4>&nbsp; ph.d. students advised</h4>
 
 <ul>
 
-<li><p>jonathan judge</a>, ph.d. 2016, current position: analytics and research,
-travelers, inc.</p> </li>
-<li><p>tze-chun ou, ph.d. 2016, current position: teaching faculty, bellevue college, wa</p> </li>
-<li><p><a href="https://www.washcoll.edu/people_departments/faculty/feinberg-gabe.php">gabriel
-feinberg</a>, ph.d. 2013, current position: assistant
-professor, washington college</p> </li>
-<li><p><a href="http://people.cst.cmich.edu/salis1bt/">benjamin
-salisbury</a>, ph.d. 2012, current position: professor, central michigan university</p> </li>  
-<li><p><a href="https://www.endicott.edu/academics/schools/science-technology/faculty/p/philip-lombardo">philip lombardo</a>, ph.d. 2010, current position: associate
-professor, endicott college</p> </li>
-<li><p>jonathan axtell, ph.d. 2009, current position: foreign
-professor,
-sungkyunkwan university</p> </li>
+<li><p>Jonathan Judge</a>, Ph.D. 2016, Current Position: Analytics and Research,
+Travelers, Inc.</p> </li>
+<li><p>Tze-Chun Ou, Ph.D. 2016, Current Position: Teaching Faculty, Bellevue College, WA</p> </li>
+<li><p><a href="https://www.washcoll.edu/people_departments/faculty/feinberg-gabe.php">Gabriel
+Feinberg</a>, Ph.D. 2013, Current Position: Assistant
+Professor, Washington College</p> </li>
+<li><p><a href="http://people.cst.cmich.edu/salis1bt/">Benjamin
+Salisbury</a>, Ph.D. 2012, Current Position: Professor, Central Michigan University</p> </li>  
+<li><p><a href="https://www.endicott.edu/academics/schools/science-technology/faculty/p/philip-lombardo">Philip Lombardo</a>, Ph.D. 2010, Current Position: Associate
+Professor, Endicott College</p> </li>
+<li><p>Jonathan Axtell, Ph.D. 2009, Current Position: Foreign
+Professor,
+Sungkyunkwan University</p> </li>
 
 
 </ul>
@@ -48,14 +47,14 @@ sungkyunkwan university</p> </li>
 <h4>&nbsp; post-doctoral fellows mentored</h4>
 
 <ul>
-<li><p>blake jackson</a>, ph.d. 2023 (university of alabama), 2023-present</p> </li>
+<li><p>Blake Jackson</a>, Ph.D. 2023 (University of Alabama), 2023-present</p> </li>
 
-<li><p><a href="https://person.zju.edu.cn/en/dwliu/850065.html">dongwen liu</a>, ph.d. 2011 (hong kong university of science and technology), 2012-2015, current position: associate professor, zhejiang university</p> </li>
+<li><p><a href="https://person.zju.edu.cn/en/dwliu/850065.html">Dongwen Liu</a>, Ph.D. 2011 (Hong Kong University of Science and Technology), 2012-2015, Current Position: Associate Professor, Zhejiang University</p> </li>
 
-<li>yichao zhang, ph.d. 2010 (university of toronto), 2011-2014, current position: professor, hunan normal university</p> </li>  
+<li>Yichao Zhang, Ph.D. 2010 (University of Toronto), 2011-2014, Current Position: Professor, Hunan Normal University</p> </li>  
 
 
-<li><p>martin nikolov, ph.d. 2008 (ohio state university), 2008-2010</p> </li>
+<li><p>Martin Nikolov, Ph.D. 2008 (Ohio State University), 2008-2010</p> </li>
 
 
 </ul>
@@ -68,11 +67,12 @@ sungkyunkwan university</p> </li>
 
 <ul>
 
-<li><p>alexey pozdnyakov</a>, university scholar thesis, 2024</p> </li>
+<li><p>Alexey Pozdnyakov</a>, university scholar thesis, 2024</p> </li>
 
-<li><p>neal lima</a>, undergraduate thesis, 2008</p> </li>
+<li><p>Neal Lima</a>, undergraduate thesis, 2008</p> </li>
 
 </ul>
+
 
 <hr>
 
