@@ -9,7 +9,7 @@ nav_order: 1
 
 
 <h4>&nbsp; education</h4>
-
+<br>
 <ul>
 
 <li><p>Ph.D., Seoul National University, Feb.
@@ -22,9 +22,9 @@ Feb. 1996 </p></li>
 Feb. 1994 </p></li>
 
 </ul>
-
+<br>
 <hr>
-
+<br>
 <h4>&nbsp; employment</h4>
 
 <ul>
@@ -41,9 +41,9 @@ Feb. 1994 </p></li>
 
 </ul>
 
-
+<br>
 <hr>
-
+<br>
 <h4>&nbsp; visiting positions</h4>
 
 <ul>
@@ -59,9 +59,9 @@ Feb. 1994 </p></li>
 <li><p>Visiting Assistant Professor, University of Wisconsin--Madison, Jan. 2002 - May 2002</p></li>
 
 </ul>
-
+<br>
 <hr>
-
+<br>
 <h4>&nbsp; grants and award</h4>
 
 <ul>
