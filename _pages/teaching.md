@@ -10,72 +10,13 @@ nav_order: 3
 
 
 <ul>
-<li><p><a href="#ad">mentorship</a></p></li>
 <li><p><a href="#ct">courses</a></p></li> 
+<li><p><a href="#ad">mentorship</a></p></li>
 
 </ul>
-
-<a id="ad">
-&nbsp;<br> &nbsp;<br>
-
-<h4>&nbsp; ph.d. students advised</h4>
-<br>
-<ul>
-
-<li><p>Jonathan Judge, Ph.D. 2016, current position: Analytics and Research,
-Travelers, Inc.</p> </li>
-<li><p>Tze-Chun Ou, Ph.D. 2016, current position: teaching faculty, Bellevue College, WA</p> </li>
-<li><p><a href="https://www.washcoll.edu/people_departments/faculty/feinberg-gabe.php">Gabriel
-Feinberg</a>, Ph.D. 2013, current position: assistant professor, Washington College</p> </li>
-<li><p><a href="http://people.cst.cmich.edu/salis1bt/">Benjamin
-Salisbury</a>, Ph.D. 2012, current position: professor, Central Michigan University</p> </li>  
-<li><p><a href="https://www.endicott.edu/academics/schools/science-technology/faculty/p/philip-lombardo">Philip Lombardo</a>, Ph.D. 2010, current position: associate professor, Endicott College</p> </li>
-<li><p>Jonathan Axtell, Ph.D. 2009, current position: foreign professor,
-Sungkyunkwan University</p> </li>
-
-
-</ul>
-
-<hr>
-
-<br>
-
-<h4>&nbsp; post-doctoral fellows mentored</h4>
-<br>
-
-<ul>
-<li><p>Blake Jackson, Ph.D. 2023 (University of Alabama), 2023-present</p> </li>
-
-<li><p><a href="https://person.zju.edu.cn/en/dwliu/850065.html">Dongwen Liu</a>, Ph.D. 2011 (Hong Kong University of Science and Technology), 2012-2015, current position: associate professor, Zhejiang University</p> </li>
-
-<li><p>Yichao Zhang, Ph.D. 2010 (University of Toronto), 2011-2014, current position: professor, Hunan Normal University</p> </li>  
-
-
-<li><p>Martin Nikolov, Ph.D. 2008 (Ohio State University), 2008-2010</p> </li>
-
-
-</ul>
-
-
-<hr>
-
-<br>
-<h4>&nbsp; undergraduate theses advised</h4>
-<br>
-
-<ul>
-
-<li><p>Alexey Pozdnyakov, university scholar thesis, 2024</p> </li>
-
-<li><p>Neal Lima, undergraduate thesis, 2008</p> </li>
-
-</ul>
-
-
-<hr>
 
 <a id="ct">
-&nbsp;<br> &nbsp;<br>
+&nbsp;<br> &nbsp;<br> &nbsp;<br>
 
 
 <h4>&nbsp; current teaching</h4>
@@ -257,3 +198,66 @@ Ordinary Differential Equations (APM288F)
 Elementary Matrix and Linear Algebra (Math340)</p></li>
 
 </ul>
+
+<hr>
+
+
+<a id="ad">
+&nbsp;<br> &nbsp;<br> &nbsp;<br>
+
+<h4>&nbsp; ph.d. students advised</h4>
+<br>
+<ul>
+
+<li><p>Jonathan Judge, Ph.D. 2016, current position: Analytics and Research,
+Travelers, Inc.</p> </li>
+<li><p>Tze-Chun Ou, Ph.D. 2016, current position: teaching faculty, Bellevue College, WA</p> </li>
+<li><p><a href="https://www.washcoll.edu/people_departments/faculty/feinberg-gabe.php">Gabriel
+Feinberg</a>, Ph.D. 2013, current position: assistant professor, Washington College</p> </li>
+<li><p><a href="http://people.cst.cmich.edu/salis1bt/">Benjamin
+Salisbury</a>, Ph.D. 2012, current position: professor, Central Michigan University</p> </li>  
+<li><p><a href="https://www.endicott.edu/academics/schools/science-technology/faculty/p/philip-lombardo">Philip Lombardo</a>, Ph.D. 2010, current position: associate professor, Endicott College</p> </li>
+<li><p>Jonathan Axtell, Ph.D. 2009, current position: foreign professor,
+Sungkyunkwan University</p> </li>
+
+
+</ul>
+<br>
+<hr>
+
+<br>
+
+<h4>&nbsp; post-doctoral fellows mentored</h4>
+<br>
+
+<ul>
+<li><p>Blake Jackson, Ph.D. 2023 (University of Alabama), 2023-present</p> </li>
+
+<li><p><a href="https://person.zju.edu.cn/en/dwliu/850065.html">Dongwen Liu</a>, Ph.D. 2011 (Hong Kong University of Science and Technology), 2012-2015, current position: associate professor, Zhejiang University</p> </li>
+
+<li><p>Yichao Zhang, Ph.D. 2010 (University of Toronto), 2011-2014, current position: professor, Hunan Normal University</p> </li>  
+
+
+<li><p>Martin Nikolov, Ph.D. 2008 (Ohio State University), 2008-2010</p> </li>
+
+
+</ul>
+<br>
+
+<hr>
+
+<br>
+<h4>&nbsp; undergraduate theses advised</h4>
+<br>
+
+<ul>
+
+<li><p>Alexey Pozdnyakov, university scholar thesis, 2024</p> </li>
+
+<li><p>Neal Lima, undergraduate thesis, 2008</p> </li>
+
+</ul>
+<br>
+
+<hr>
+
