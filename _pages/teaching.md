@@ -11,14 +11,12 @@ nav_order: 3
 
 <ul>
 <li><p><a href="#ad">advising</a></p></li>
-<li><p><a href="#ct">current teaching</a></p></li> 
-<li><p><a href="#pt">past teaching</a></p></li>
+<li><p><a href="#ct">courses</a></p></li> 
 
 </ul>
 
 <a id="ad">
 &nbsp;<br> &nbsp;<br> &nbsp;<br>
-
 
 <h4>&nbsp; ph.d. students advised</h4>
 
@@ -80,7 +78,7 @@ Sungkyunkwan University</p> </li>
 &nbsp;<br> &nbsp;<br> &nbsp;<br>
 
 
-<h4>&nbsp; current teaching</h4>
+<h4>&nbsp; current</h4>
 <ul>
 
 <li><p>Applied Linear Algebra (MATH 2210Q)</p></li>
@@ -89,11 +87,7 @@ Sungkyunkwan University</p> </li>
 <br>
 <hr>
 
-<a id="pt">
-&nbsp;<br> &nbsp;<br> &nbsp;<br>
-
-
-<h4>&nbsp; past teaching</h4>
+<h4>&nbsp; past</h4>
 
 <ul>
 
