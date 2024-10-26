@@ -4,9 +4,80 @@ permalink: /teaching/
 title: teaching
 <!-- description: Materials for courses you taught. Replace this text with your description. -->
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
+
+
+<ul>
+<li><p><a href="#ad">advising</a></p></li>
+<li><p><a href="#ct">current teaching</a></p></li> 
+<li><p><a href="#pt">past teaching</a></p></li>
+
+</ul>
+
+<a id="ad">
+&nbsp;<br> &nbsp;<br> &nbsp;<br>
+
+
+
+<h4>&nbsp; ph.d. students advised</h4>
+
+<ul>
+
+<li><p>jonathan judge</a>, ph.d. 2016, current position: analytics and research,
+travelers, inc.</p> </li>
+<li><p>tze-chun ou, ph.d. 2016, current position: teaching faculty, bellevue college, wa</p> </li>
+<li><p><a href="https://www.washcoll.edu/people_departments/faculty/feinberg-gabe.php">gabriel
+feinberg</a>, ph.d. 2013, current position: assistant
+professor, washington college</p> </li>
+<li><p><a href="http://people.cst.cmich.edu/salis1bt/">benjamin
+salisbury</a>, ph.d. 2012, current position: professor, central michigan university</p> </li>  
+<li><p><a href="https://www.endicott.edu/academics/schools/science-technology/faculty/p/philip-lombardo">philip lombardo</a>, ph.d. 2010, current position: associate
+professor, endicott college</p> </li>
+<li><p>jonathan axtell, ph.d. 2009, current position: foreign
+professor,
+sungkyunkwan university</p> </li>
+
+
+</ul>
+
+<hr>
+
+
+<h4>&nbsp; post-doctoral fellows mentored</h4>
+
+<ul>
+<li><p>blake jackson</a>, ph.d. 2023 (university of alabama), 2023-present</p> </li>
+
+<li><p><a href="https://person.zju.edu.cn/en/dwliu/850065.html">dongwen liu</a>, ph.d. 2011 (hong kong university of science and technology), 2012-2015, current position: associate professor, zhejiang university</p> </li>
+
+<li>yichao zhang, ph.d. 2010 (university of toronto), 2011-2014, current position: professor, hunan normal university</p> </li>  
+
+
+<li><p>martin nikolov, ph.d. 2008 (ohio state university), 2008-2010</p> </li>
+
+
+</ul>
+
+
+<hr>
+
+
+<h4>&nbsp; undergraduate theses advised</h4>
+
+<ul>
+
+<li><p>alexey pozdnyakov</a>, university scholar thesis, 2024</p> </li>
+
+<li><p>neal lima</a>, undergraduate thesis, 2008</p> </li>
+
+</ul>
+
+<hr>
+
+<a id="ct">
+&nbsp;<br> &nbsp;<br> &nbsp;<br>
 
 
 <h4>&nbsp; current teaching</h4>
@@ -17,6 +88,10 @@ nav_order: 6
 
 <br>
 <hr>
+
+<a id="pt">
+&nbsp;<br> &nbsp;<br> &nbsp;<br>
+
 
 <h4>&nbsp; past teaching</h4>
 
