@@ -4,7 +4,7 @@ permalink: /activities/
 title: activities
 <!-- description: Materials for courses you taught. Replace this text with your description. -->
 nav: true
-nav_order: 1
+nav_order: 4
 ---
 
 <h4>&nbsp; editorship</h4>
