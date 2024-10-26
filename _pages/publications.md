@@ -15,16 +15,16 @@ nav_order: 2
 <div class="publications">
 
 <ul>
-<li><p><a href="#all">all areas</a></p></li> 
-<li><p><a href="#ml">machine learning for mathematics</a></p></li>
-<li><p><a href="#rt">representation theory</a></p></li>
-<li><p><a href="#nt">number theory</a></p></li> 
-<li><p><a href="#co">combinatorics</a></p></li> 
-<li><p><a href="#mp">mathematical physics</a></p></li>
-<li><p><a href="#cg">complex geometry</a></p></li>
+<li><p><a href="#ALL">all areas</a></p></li> 
+<li><p><a href="#ML">machine learning for mathematics</a></p></li>
+<li><p><a href="#RT">representation theory</a></p></li>
+<li><p><a href="#NT">number theory</a></p></li> 
+<li><p><a href="#CO">combinatorics</a></p></li> 
+<li><p><a href="#MP">mathematical physics</a></p></li>
+<li><p><a href="#CG">complex geometry</a></p></li>
 </ul>
 
-<a id="all">
+<a id="ALL">
 &nbsp;<br> &nbsp;<br> &nbsp;<br>
 
 <h4>&nbsp; publications -- all areas</h4>

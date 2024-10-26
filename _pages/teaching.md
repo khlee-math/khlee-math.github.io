@@ -20,6 +20,8 @@ nav_order: 3
 
 
 <h4>&nbsp; current teaching</h4>
+<br>
+
 <ul>
 
 <li><p>Applied Linear Algebra (MATH 2210Q)</p></li>
