@@ -29,7 +29,7 @@ title: Math 3180
 <br>
 <h5><b>Course Materials</b></h5>
 <ul>
-<li><b>Textbook</b>: Lecture notes and computer codes will be posted.
+<li><b>Textbook</b>: Lecture notes and computer code will be posted.
 We will more or less follow <a href="https://jeremy9959.net/Mathematics-for-Machine-Learning/">Lectures on Machine Learning</a> by Jeremy Teitelbaum. </li> 
 <li><b>Platform</b>: We will use Google Classroom and Colaboratory for coding environment. An access code will be provided at the beginning of the semester. It is optional for students to install necessary software and run codes on their personal computers.</li>
 <li><b>References</b>: </li>
