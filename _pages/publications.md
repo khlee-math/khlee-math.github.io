@@ -31,6 +31,8 @@ nav_order: 2
 <br>
 <ol reversed>
 
+<li><p> Kymani T. K. Armstrong-Williams, Edward Hirst, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2411.04209.pdf">Machine learning mutation-acyclicity of quivers</a>, arXiv:2411.04209.</p></li>
+
 <li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2402.08140.pdf">Quantum cluster algebra, braid moves and quantum virtual Grothendieck ring</a>, arXiv:2402.08140.</p></li>
 
 <li><p> Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2310.17906.pdf">Data-scientific study of  Kronecker coefficients</a>, arXiv:2310.17906.</p></li>
@@ -198,6 +200,8 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 
 <ul>
 
+<li><p> Kymani T. K. Armstrong-Williams, Edward Hirst, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2411.04209.pdf">Machine learning mutation-acyclicity of quivers</a>, arXiv:2411.04209.</p></li>
+
 <li><p> Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2310.17906.pdf">Data-scientific study of  Kronecker coefficients</a>, arXiv:2310.17906.</p></li>
 
 <li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2307.00256.pdf">Murmurations of Dirichlet characters</a>, arXiv:2307.00256.</p></li>
@@ -227,6 +231,8 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 <h4>&nbsp; publications -- representation theory</h4> <br>
 
 <ul>
+
+<li><p> Kymani T. K. Armstrong-Williams, Edward Hirst, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2411.04209.pdf">Machine learning mutation-acyclicity of quivers</a>, arXiv:2411.04209.</p></li>
 
 <li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2402.08140.pdf">Quantum cluster algebra, braid moves and quantum virtual Grothendieck ring</a>, arXiv:2402.08140.</p></li>
 
@@ -492,6 +498,8 @@ over 2-dimensional local fields</a>, Canad. J. Math. <b>62</b> (2010), no. 6, 13
 
 <ul>
 
+<li><p> Kymani T. K. Armstrong-Williams, Edward Hirst, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2411.04209.pdf">Machine learning mutation-acyclicity of quivers</a>, arXiv:2411.04209.</p></li>
+
 <li><p> Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2310.17906.pdf">Data-scientific study of  Kronecker coefficients</a>, arXiv:2310.17906.</p></li>
 
 <li><p> Il-Seung Jang, Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2305.19471.pdf">Braid group action on quantum virtual Grothendieck ring through constructing presentations</a>, arXiv:2305.19471.</p></li>
@@ -575,6 +583,8 @@ canonical bases</a>, Adv. Math. <b>227</b> (2011), no. 2, 945-961.</p></li>
 <br>
 
 <ul>
+
+<li><p> Kymani T. K. Armstrong-Williams, Edward Hirst, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2411.04209.pdf">Machine learning mutation-acyclicity of quivers</a>, arXiv:2411.04209.</p></li>
 
 <li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2402.08140.pdf">Quantum cluster algebra, braid moves and quantum virtual Grothendieck ring</a>, arXiv:2402.08140.</p></li>
 
