@@ -37,7 +37,6 @@ nav_order: 2
 
 <li><p> Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2310.17906.pdf">Data-scientific study of  Kronecker coefficients</a>, arXiv:2310.17906.</p></li>
 
-<li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2307.00256.pdf">Murmurations of Dirichlet characters</a>, arXiv:2307.00256</p></li>
 
 
 <li><p> Il-Seung Jang, Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2305.19471.pdf">Braid group action on quantum virtual Grothendieck ring through constructing presentations</a>, arXiv:2305.19471.</p></li>
@@ -46,6 +45,8 @@ nav_order: 2
 <li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="https://arxiv.org/pdf/2203.08628.pdf">Convergence of Kac-Moody Eisenstein series over a function field</a>, arXiv:2203.08628.</p></li>
  
 <li><p> Tucker J. Ervin, Blake Jackson, Kyu-Hwan Lee and Kyungyong Lee, <a href="https://arxiv.org/pdf/2108.03309.pdf">Mutations of reflections and existence of pseudo-acyclic orderings for type A_n</a>, arXiv:2108.03309.</p></li>
+
+<li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2307.00256.pdf">Murmurations of Dirichlet characters</a>, to appear in Int. Math. Res. Not.</p></li>
 
 <li><p> Lisa Carbone, Howard Garland, Kyu-Hwan Lee, Dongwen Liu and Stephen D. Miller, <a href="Papers/KME.pdf">On the convergence of Kac-Moody Eisenstein series</a>, to appear in Amer. J. Math.</p></li>
 
@@ -204,9 +205,7 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 
 <li><p> Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2310.17906.pdf">Data-scientific study of  Kronecker coefficients</a>, arXiv:2310.17906.</p></li>
 
-<li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2307.00256.pdf">Murmurations of Dirichlet characters</a>, arXiv:2307.00256.</p></li>
-
-
+<li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2307.00256.pdf">Murmurations of Dirichlet characters</a>, to appear in Int. Math. Res. Not.</p></li>
 
 <li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://doi.org/10.1080/10586458.2024.2382361">Murmurations of elliptic curves</a>, Exp. Math. (2024).</p></li>
 
@@ -406,10 +405,9 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 
 <ul>
 
-<li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2307.00256.pdf">Murmurations of Dirichlet characters</a>, arXiv:2307.00256.</p></li>
-
 <li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="https://arxiv.org/pdf/2203.08628.pdf">Convergence of Kac-Moody Eisenstein series over a function field</a>, arXiv:2203.08628.</p></li>
 
+<li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2307.00256.pdf">Murmurations of Dirichlet characters</a>, to appear in Int. Math. Res. Not.</p></li>
 
 <li><p> Lisa Carbone, Howard Garland, Kyu-Hwan Lee, Dongwen Liu and Stephen D. Miller, <a href="Papers/KME.pdf">On the convergence of Kac-Moody Eisenstein series</a>, to appear in Amer. J. Math.</p></li>
 
