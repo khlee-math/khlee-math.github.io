@@ -26,6 +26,8 @@ nav_order: 4
 <br>
 <ul>
 
+<li><p><a href="http://events.kias.re.kr/h/MLM2025/">Machine Learning and Mathematics</a>, KIAS, Seoul, Korea, July 2025, co-organizers: Bin Dong, Michael Douglas.</p></li>
+
 <li><p><a href="http://events.kias.re.kr/h/AIforMath/">AI for Mathematics Workshop on Formalization</a>, KIAS, Seoul, Korea, December 2024, co-organizer: Chul-hee Lee.</p></li>
 
 <li><p><a href="https://scgp.stonybrook.edu/archives/43116">Murmurations in Arithmetic Geometry and Related Topics</a>, Simons Center for Geometry and Physics, Stony Brook, NY, November 2024, co-organizers: Yang-Hui He, Abhiram Kidambi, Thomas Oliver.</p></li>
