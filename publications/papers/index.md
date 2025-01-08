@@ -6,7 +6,7 @@ title: publications
 
 <ol reversed>
  
-<li><p> Lisa Carbone, Howard Garland, Kyu-Hwan Lee, Dongwen Liu and Stephen D. Miller, <a href="Papers/KME.pdf">On the convergence of Kac-Moody Eisenstein series</a>, Amer. J. Math. {\bf 146} (2024) no. 5, 1253--1274.</p></li>
+<li><p> Lisa Carbone, Howard Garland, Kyu-Hwan Lee, Dongwen Liu and Stephen D. Miller, <a href="Papers/KME.pdf">On the convergence of Kac-Moody Eisenstein series</a>, Amer. J. Math. <b>146</b> (2024) no. 5, 1253--1274.</p></li>
 
 <li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="Papers/mur-E.pdf">Murmurations of elliptic curves</a>, Exp. Math. (2024).</p></li>
 
