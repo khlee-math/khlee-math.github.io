@@ -86,7 +86,7 @@ Sungkyunkwan University</p> </li>
 <ul>
 <li><p>Spring 2025<br>
 Applied Linear Algebra (MATH 2210Q)<br>
-<a href="https://khlee-math.github.io/teaching/math3180s25/">Mathematics for Machine Learning (MATH 3180)</a></p></li>
+Mathematics for Machine Learning (MATH 3180)</a></p></li>
 </ul>
 
 <br>
@@ -101,7 +101,7 @@ Applied Linear Algebra (MATH 2210Q)</p></li>
  
 <li><p>Spring 2024<br>
 Elementary Differential Equations (MATH 2410Q)<br>
-<a href="https://khlee-math.github.io/teaching/math3180s24/">Mathematics for Machine Learning (MATH 3180)</a></p></li>
+Mathematics for Machine Learning (MATH 3180)</a></p></li>
  
 <li><p>Spring 2023<br>
 Elementary Differential Equations (MATH 2410Q), Sections 001 and 007</p></li>
