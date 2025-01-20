@@ -10,7 +10,7 @@ nav_order: 3
 
 
 <ul>
-<li><p><a href="#ad">mentorship</a></p></li>
+<li><p><a href="#ad">advisng and mentoring</a></p></li>
 <li><p><a href="#ct">courses</a></p></li> 
 
 </ul>
@@ -22,7 +22,7 @@ nav_order: 3
 <h4>&nbsp; ph.d. students advised</h4>
 <br>
 <ul>
-<li><p>Sourajyoti Maiti, 2025 -- present</p> </li>
+<li><p>Sourajyoti Maiti, 2025 - present</p> </li>
 <li><p>Jonathan Judge, Ph.D. 2016, current position: Analytics and Research,
 Travelers, Inc.</p> </li>
 <li><p>Tze-Chun Ou, Ph.D. 2016, current position: teaching faculty, Bellevue College, WA</p> </li>
@@ -45,14 +45,14 @@ Sungkyunkwan University</p> </li>
 <br>
 
 <ul>
-<li><p>Blake Jackson, Ph.D. 2023 (University of Alabama), 2023-present</p> </li>
+<li><p>Blake Jackson, Ph.D. 2023 (University of Alabama), 2023 - present</p> </li>
 
-<li><p><a href="https://person.zju.edu.cn/en/dwliu/850065.html">Dongwen Liu</a>, Ph.D. 2011 (Hong Kong University of Science and Technology), 2012-2015, current position: associate professor, Zhejiang University</p> </li>
+<li><p><a href="https://person.zju.edu.cn/en/dwliu/850065.html">Dongwen Liu</a>, Ph.D. 2011 (Hong Kong University of Science and Technology), 2012 - 2015, current position: associate professor, Zhejiang University</p> </li>
 
-<li><p>Yichao Zhang, Ph.D. 2010 (University of Toronto), 2011-2014, current position: professor, Hunan Normal University</p> </li>  
+<li><p>Yichao Zhang, Ph.D. 2010 (University of Toronto), 2011 - 2014, current position: professor, Hunan Normal University</p> </li>  
 
 
-<li><p>Martin Nikolov, Ph.D. 2008 (Ohio State University), 2008-2010</p> </li>
+<li><p>Martin Nikolov, Ph.D. 2008 (Ohio State University), 2008 - 2010</p> </li>
 
 
 </ul>
@@ -86,7 +86,7 @@ Sungkyunkwan University</p> </li>
 <ul>
 <li><p>Spring 2025<br>
 Applied Linear Algebra (MATH 2210Q)<br>
-Mathematics for Machine Learning (MATH 3180)</a></p></li>
+Mathematics for Machine Learning (MATH 3180)</p></li>
 </ul>
 
 <br>
@@ -101,7 +101,7 @@ Applied Linear Algebra (MATH 2210Q)</p></li>
  
 <li><p>Spring 2024<br>
 Elementary Differential Equations (MATH 2410Q)<br>
-Mathematics for Machine Learning (MATH 3180)</a></p></li>
+Mathematics for Machine Learning (MATH 3180)</p></li>
  
 <li><p>Spring 2023<br>
 Elementary Differential Equations (MATH 2410Q), Sections 001 and 007</p></li>
