@@ -31,6 +31,16 @@ nav_order: 2
 <br>
 <ol reversed>
 
+<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://arxiv.org/pdf/2502.11774"> Interpretable machine learning for Kronecker coefficients</a>, arXiv:2502.11774.</p></li>
+
+<li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2502.10360"> Machine learning the vanishing order of rational L-functions</a>, arXiv:2502.10360.</p></li>. 
+
+<li><p> Angelica Babei, Fran&ccedil;ois Charton, Edgar Costa, Xiaoyu Huang, Kyu-Hwan Lee, David Lowry-Duda, Ashvni Narayanan, and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2502.10357">Learning Euler factors of elliptic curves</a>, arXiv:2502.10357.</p></li> 
+
+
+<li><p> Michael R. Douglas and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2502.08620">
+Mathematical data science</a>, arXiv:2502.08620.</p></li>
+
 <li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2501.02105">Learning Fricke signs from Maass form coefficients</a>, arXiv:2501.02105.</p></li>
 
 <li><p> Kymani T. K. Armstrong-Williams, Edward Hirst, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2411.04209.pdf">Machine learning mutation-acyclicity of quivers</a>, arXiv:2411.04209.</p></li>
@@ -45,12 +55,11 @@ nav_order: 2
 
 <li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="https://arxiv.org/pdf/2203.08628.pdf">Convergence of Kac-Moody Eisenstein series over a function field</a>, to appear in Selecta Math. (N.S.)</p></li>
  
-<li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2307.00256.pdf">Murmurations of Dirichlet characters</a>, to appear in Int. Math. Res. Not. IMRN.</p></li>
+<li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://doi.org/10.1093/imrn/rnae277">Murmurations of Dirichlet characters</a>, Int. Math. Res. Not. IMRN. <b>2025</b> (2025) no. 1, 1-28.</p></li>
 
-<li><p> Lisa Carbone, Howard Garland, Kyu-Hwan Lee, Dongwen Liu and Stephen D. Miller, <a href="https://doi.org/10.1353/ajm.2024.a937941">On the convergence of Kac-Moody Eisenstein series</a>, Amer. J. Math. <b>146</b> (2024) no. 5, 1253--1274.</p></li>
+<li><p> Lisa Carbone, Howard Garland, Kyu-Hwan Lee, Dongwen Liu and Stephen D. Miller, <a href="https://doi.org/10.1353/ajm.2024.a937941">On the convergence of Kac-Moody Eisenstein series</a>, Amer. J. Math. <b>146</b> (2024) no. 5, 1253-1274.</p></li>
 
 <li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://doi.org/10.1080/10586458.2024.2382361">Murmurations of elliptic curves</a>, Exp. Math. (2024).</p></li>
-
 
 <li><p> Kyu-Hwan Lee, <a href="https:///dx.doi.org/10.1142/S2810939224400094">Machine-learning Kronecker coefficients</a>, International Journal of Data Science in the Mathematical Sciences, <b>2</b> (2024), no.1, 79-86.</p></li>
 
@@ -60,7 +69,7 @@ nav_order: 2
 
 <li><p> Malik Amir, Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Eldar Sultanow, <a href="https:///dx.doi.org/10.1142/S2810939223500016">Machine learning class numbers of real quadratic fields</a>, International Journal of Data Science in the Mathematical Sciences, <b>1</b> (2023), no. 2, 107-134.</p></li>
 
-<li><p> Gunhee Cho and Kyu-Hwan Lee, <a href="https://doi.org/10.1007/s00208-023-02735-2">Equivalence of Invariant metrics via Bergman kernel on complete noncompact K&auml;hler manifolds</a>, Math. Ann. (2023).</p></li>
+<li><p> Gunhee Cho and Kyu-Hwan Lee, <a href="https://doi.org/10.1007/s00208-023-02735-2">Equivalence of Invariant metrics via Bergman kernel on complete noncompact K&auml;hler manifolds</a>, Math. Ann. <b>389</b> (2024), 3809-3839.</p></li>
 
 <li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1007/s10468-023-10225-x">Auto-correlation functions for unitary groups</a>, Algebr. Represent. Theory (2023).</p></li>
 
@@ -200,13 +209,22 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 
 <ul>
 
+<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://arxiv.org/pdf/2502.11774"> Interpretable machine learning for Kronecker coefficients</a>, arXiv:2502.11774.</p></li>
+
+<li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2502.10360"> Machine learning the vanishing order of rational L-functions</a>, arXiv:2502.10360.</p></li>. 
+
+<li><p> Angelica Babei, Fran&ccedil;ois Charton, Edgar Costa, Xiaoyu Huang, Kyu-Hwan Lee, David Lowry-Duda, Ashvni Narayanan, and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2502.10357">Learning Euler factors of elliptic curves</a>, arXiv:2502.10357.</p></li> 
+
+<li><p> Michael R. Douglas and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2502.08620">
+Mathematical data science</a>, arXiv:2502.08620.</p></li>
+
 <li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2501.02105">Learning Fricke signs from Maass form coefficients</a>, arXiv:2501.02105.</p></li>
 
 <li><p> Kymani T. K. Armstrong-Williams, Edward Hirst, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2411.04209.pdf">Machine learning mutation-acyclicity of quivers</a>, arXiv:2411.04209.</p></li>
 
 <li><p> Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2310.17906.pdf">Data-scientific study of  Kronecker coefficients</a>, to appear in Exp. Math.</p></li>
 
-<li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2307.00256.pdf">Murmurations of Dirichlet characters</a>, to appear in Int. Math. Res. Not. IMRN.</p></li>
+<li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://doi.org/10.1093/imrn/rnae277">Murmurations of Dirichlet characters</a>, Int. Math. Res. Not. IMRN. <b>2025</b> (2025) no. 1, 1-28.</p></li>
 
 <li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://doi.org/10.1080/10586458.2024.2382361">Murmurations of elliptic curves</a>, Exp. Math. (2024).</p></li>
 
@@ -229,6 +247,11 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 <h4>&nbsp; publications -- representation theory</h4> <br>
 
 <ul>
+
+<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://arxiv.org/pdf/2502.11774"> Interpretable machine learning for Kronecker coefficients</a>, arXiv:2502.11774.</p></li>
+
+<li><p> Michael R. Douglas and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2502.08620">
+Mathematical data science</a>, arXiv:2502.08620.</p></li>
 
 <li><p> Kymani T. K. Armstrong-Williams, Edward Hirst, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2411.04209.pdf">Machine learning mutation-acyclicity of quivers</a>, arXiv:2411.04209.</p></li>
 
@@ -402,11 +425,20 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 
 <ul>
 
+<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://arxiv.org/pdf/2502.11774"> Interpretable machine learning for Kronecker coefficients</a>, arXiv:2502.11774.</p></li>
+
+<li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2502.10360"> Machine learning the vanishing order of rational L-functions</a>, arXiv:2502.10360.</p></li>. 
+
+<li><p> Angelica Babei, Fran&ccedil;ois Charton, Edgar Costa, Xiaoyu Huang, Kyu-Hwan Lee, David Lowry-Duda, Ashvni Narayanan, and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2502.10357">Learning Euler factors of elliptic curves</a>, arXiv:2502.10357.</p></li> 
+
+<li><p> Michael R. Douglas and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2502.08620">
+Mathematical data science</a>, arXiv:2502.08620.</p></li>
+
 <li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2501.02105">Learning Fricke signs from Maass form coefficients</a>, arXiv:2501.02105.</p></li>
 
 <li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="https://arxiv.org/pdf/2203.08628.pdf">Convergence of Kac-Moody Eisenstein series over a function field</a>, to appear in Selecta Math. (N.S.)</p></li>
 
-<li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2307.00256.pdf">Murmurations of Dirichlet characters</a>, to appear in Int. Math. Res. Not. IMRN.</p></li>
+<li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://doi.org/10.1093/imrn/rnae277">Murmurations of Dirichlet characters</a>, Int. Math. Res. Not. IMRN. <b>2025</b> (2025) no. 1, 1-28.</p></li>
 
 <li><p> Lisa Carbone, Howard Garland, Kyu-Hwan Lee, Dongwen Liu and Stephen D. Miller, <a href="https://doi.org/10.1353/ajm.2024.a937941">On the convergence of Kac-Moody Eisenstein series</a>, Amer. J. Math. <b>146</b> (2024) no. 5, 1253--1274.</p></li>
 
@@ -493,6 +525,11 @@ over 2-dimensional local fields</a>, Canad. J. Math. <b>62</b> (2010), no. 6, 13
 <br>
 
 <ul>
+
+<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://arxiv.org/pdf/2502.11774"> Interpretable machine learning for Kronecker coefficients</a>, arXiv:2502.11774.</p></li>
+
+<li><p> Michael R. Douglas and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2502.08620">
+Mathematical data science</a>, arXiv:2502.08620.</p></li>
 
 <li><p> Kymani T. K. Armstrong-Williams, Edward Hirst, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2411.04209.pdf">Machine learning mutation-acyclicity of quivers</a>, arXiv:2411.04209.</p></li>
 
@@ -633,7 +670,9 @@ groups</a>, Proc. Roy. Soc. Edinburgh Sect. A <b>136</b> (2006), no. 3, 445-472.
 <br>
 
 <ul>
-<li><p> Gunhee Cho and Kyu-Hwan Lee, <a href="https://doi.org/10.1007/s00208-023-02735-2">Equivalence of Invariant metrics via Bergman kernel on complete noncompact K&auml;hler manifolds</a>, Math. Ann. (2023).</p></li>
+
+<li><p> Gunhee Cho and Kyu-Hwan Lee, <a href="https://doi.org/10.1007/s00208-023-02735-2">Equivalence of Invariant metrics via Bergman kernel on complete noncompact K&auml;hler manifolds</a>, Math. Ann. <b>389</b> (2024), 3809-3839.</p></li>
+
 
 </ul>
 
