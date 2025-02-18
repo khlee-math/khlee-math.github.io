@@ -33,10 +33,9 @@ nav_order: 2
 
 <li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://arxiv.org/pdf/2502.11774"> Interpretable machine learning for Kronecker coefficients</a>, arXiv:2502.11774.</p></li>
 
-<li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2502.10360"> Machine learning the vanishing order of rational L-functions</a>, arXiv:2502.10360.</p></li>. 
+<li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2502.10360"> Machine learning the vanishing order of rational L-functions</a>, arXiv:2502.10360.</p></li> 
 
 <li><p> Angelica Babei, Fran&ccedil;ois Charton, Edgar Costa, Xiaoyu Huang, Kyu-Hwan Lee, David Lowry-Duda, Ashvni Narayanan, and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2502.10357">Learning Euler factors of elliptic curves</a>, arXiv:2502.10357.</p></li> 
-
 
 <li><p> Michael R. Douglas and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2502.08620">
 Mathematical data science</a>, arXiv:2502.08620.</p></li>
@@ -55,7 +54,7 @@ Mathematical data science</a>, arXiv:2502.08620.</p></li>
 
 <li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="https://arxiv.org/pdf/2203.08628.pdf">Convergence of Kac-Moody Eisenstein series over a function field</a>, to appear in Selecta Math. (N.S.)</p></li>
  
-<li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://doi.org/10.1093/imrn/rnae277">Murmurations of Dirichlet characters</a>, Int. Math. Res. Not. IMRN. <b>2025</b> (2025) no. 1, 1-28.</p></li>
+<li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://doi.org/10.1093/imrn/rnae277">Murmurations of Dirichlet characters</a>, Int. Math. Res. Not. IMRN. <b>2025</b> (2025), no. 1, 1-28.</p></li>
 
 <li><p> Lisa Carbone, Howard Garland, Kyu-Hwan Lee, Dongwen Liu and Stephen D. Miller, <a href="https://doi.org/10.1353/ajm.2024.a937941">On the convergence of Kac-Moody Eisenstein series</a>, Amer. J. Math. <b>146</b> (2024) no. 5, 1253-1274.</p></li>
 
@@ -211,7 +210,7 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 
 <li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://arxiv.org/pdf/2502.11774"> Interpretable machine learning for Kronecker coefficients</a>, arXiv:2502.11774.</p></li>
 
-<li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2502.10360"> Machine learning the vanishing order of rational L-functions</a>, arXiv:2502.10360.</p></li>. 
+<li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2502.10360"> Machine learning the vanishing order of rational L-functions</a>, arXiv:2502.10360.</p></li> 
 
 <li><p> Angelica Babei, Fran&ccedil;ois Charton, Edgar Costa, Xiaoyu Huang, Kyu-Hwan Lee, David Lowry-Duda, Ashvni Narayanan, and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2502.10357">Learning Euler factors of elliptic curves</a>, arXiv:2502.10357.</p></li> 
 
@@ -224,7 +223,7 @@ Mathematical data science</a>, arXiv:2502.08620.</p></li>
 
 <li><p> Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2310.17906.pdf">Data-scientific study of  Kronecker coefficients</a>, to appear in Exp. Math.</p></li>
 
-<li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://doi.org/10.1093/imrn/rnae277">Murmurations of Dirichlet characters</a>, Int. Math. Res. Not. IMRN. <b>2025</b> (2025) no. 1, 1-28.</p></li>
+<li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://doi.org/10.1093/imrn/rnae277">Murmurations of Dirichlet characters</a>, Int. Math. Res. Not. IMRN. <b>2025</b> (2025), no. 1, 1-28.</p></li>
 
 <li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://doi.org/10.1080/10586458.2024.2382361">Murmurations of elliptic curves</a>, Exp. Math. (2024).</p></li>
 
@@ -427,7 +426,7 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 
 <li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://arxiv.org/pdf/2502.11774"> Interpretable machine learning for Kronecker coefficients</a>, arXiv:2502.11774.</p></li>
 
-<li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2502.10360"> Machine learning the vanishing order of rational L-functions</a>, arXiv:2502.10360.</p></li>. 
+<li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2502.10360"> Machine learning the vanishing order of rational L-functions</a>, arXiv:2502.10360.</p></li> 
 
 <li><p> Angelica Babei, Fran&ccedil;ois Charton, Edgar Costa, Xiaoyu Huang, Kyu-Hwan Lee, David Lowry-Duda, Ashvni Narayanan, and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2502.10357">Learning Euler factors of elliptic curves</a>, arXiv:2502.10357.</p></li> 
 
@@ -438,7 +437,7 @@ Mathematical data science</a>, arXiv:2502.08620.</p></li>
 
 <li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="https://arxiv.org/pdf/2203.08628.pdf">Convergence of Kac-Moody Eisenstein series over a function field</a>, to appear in Selecta Math. (N.S.)</p></li>
 
-<li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://doi.org/10.1093/imrn/rnae277">Murmurations of Dirichlet characters</a>, Int. Math. Res. Not. IMRN. <b>2025</b> (2025) no. 1, 1-28.</p></li>
+<li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://doi.org/10.1093/imrn/rnae277">Murmurations of Dirichlet characters</a>, Int. Math. Res. Not. IMRN. <b>2025</b> (2025), no. 1, 1-28.</p></li>
 
 <li><p> Lisa Carbone, Howard Garland, Kyu-Hwan Lee, Dongwen Liu and Stephen D. Miller, <a href="https://doi.org/10.1353/ajm.2024.a937941">On the convergence of Kac-Moody Eisenstein series</a>, Amer. J. Math. <b>146</b> (2024) no. 5, 1253--1274.</p></li>
 
