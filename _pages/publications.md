@@ -31,7 +31,7 @@ nav_order: 2
 <br>
 <ol reversed>
 
-<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://arxiv.org/pdf/2502.11774"> Interpretable machine learning for Kronecker coefficients</a>, arXiv:2502.11774.</p></li>
+<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://arxiv.org/pdf/2502.11774"> Interpretable machine learning for Kronecker coefficients</a>, arXiv:2502.11774.Test</p></li> 
 
 <li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2502.10360"> Machine learning the vanishing order of rational L-functions</a>, arXiv:2502.10360.</p></li> 
 
@@ -68,7 +68,7 @@ Mathematical data science</a>, arXiv:2502.08620.</p></li>
 
 <li><p> Malik Amir, Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Eldar Sultanow, <a href="https:///dx.doi.org/10.1142/S2810939223500016">Machine learning class numbers of real quadratic fields</a>, International Journal of Data Science in the Mathematical Sciences, <b>1</b> (2023), no. 2, 107-134.</p></li>
 
-<li><p> Gunhee Cho and Kyu-Hwan Lee, <a href="https://doi.org/10.1007/s00208-023-02735-2">Equivalence of Invariant metrics via Bergman kernel on complete noncompact K&auml;hler manifolds</a>, Math. Ann. <b>389</b> (2024), 3809-3839.</p></li>
+<li><p> Gunhee Cho and Kyu-Hwan Lee, <a href="https://doi.org/10.1007/s00208-023-02735-2">Equivalence of invariant metrics via Bergman kernel on complete noncompact K&auml;hler manifolds</a>, Math. Ann. <b>389</b> (2024), 3809-3839.</p></li>
 
 <li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1007/s10468-023-10225-x">Auto-correlation functions for unitary groups</a>, Algebr. Represent. Theory (2023).</p></li>
 
@@ -670,7 +670,7 @@ groups</a>, Proc. Roy. Soc. Edinburgh Sect. A <b>136</b> (2006), no. 3, 445-472.
 
 <ul>
 
-<li><p> Gunhee Cho and Kyu-Hwan Lee, <a href="https://doi.org/10.1007/s00208-023-02735-2">Equivalence of Invariant metrics via Bergman kernel on complete noncompact K&auml;hler manifolds</a>, Math. Ann. <b>389</b> (2024), 3809-3839.</p></li>
+<li><p> Gunhee Cho and Kyu-Hwan Lee, <a href="https://doi.org/10.1007/s00208-023-02735-2">Equivalence of invariant metrics via Bergman kernel on complete noncompact K&auml;hler manifolds</a>, Math. Ann. <b>389</b> (2024), 3809-3839.</p></li>
 
 
 </ul>

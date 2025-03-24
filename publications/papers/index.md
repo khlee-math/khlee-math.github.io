@@ -21,7 +21,7 @@ title: publications
 
 <li><p> Malik Amir, Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Eldar Sultanow, <a href="Papers/ML_class.pdf">Machine learning class numbers of real quadratic fields</a>, International Journal of Data Science in the Mathematical Sciences, <b>1</b> (2023), no. 2, 107-134.</p></li>
 
-<li><p> Gunhee Cho and Kyu-Hwan Lee, <a href="Papers/metric.pdf">Equivalence of Invariant metrics via Bergman kernel on complete noncompact K&auml;hler manifolds</a>, Math. Ann. <b>389</b> (2024), 3809-3839.</p></li>
+<li><p> Gunhee Cho and Kyu-Hwan Lee, <a href="Papers/metric.pdf">Equivalence of invariant metrics via Bergman kernel on complete noncompact K&auml;hler manifolds</a>, Math. Ann. <b>389</b> (2024), 3809-3839.</p></li>
 
 <li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="Papers/auto-unitary.pdf">Auto-correlation functions for unitary groups</a>, Algebr. Represent. Theory (2023).</p></li>
 
