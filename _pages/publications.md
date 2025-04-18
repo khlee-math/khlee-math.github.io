@@ -682,7 +682,7 @@ groups</a>, Proc. Roy. Soc. Edinburgh Sect. A <b>136</b> (2006), no. 3, 445-472.
 
 <li><p> Tucker J. Ervin, Blake Jackson, Kyu-Hwan Lee and Kyungyong Lee, <a href="https://arxiv.org/pdf/2108.03309.pdf">Mutations of reflections and existence of pseudo-acyclic orderings for type A_n</a>, arXiv:2108.03309.</p></li>
 
-<li><p> Kyu-Hwan Lee, <a href="papers/Papers/KME.pdf">Kac-Moody Eisenstein series</a>, preprint.</p></li>
+<li><p> Kyu-Hwan Lee, <a href="papers/Papers/eisenstein_survey.pdf">Kac-Moody Eisenstein series</a>, preprint.</p></li>
 
 </ul>
 
