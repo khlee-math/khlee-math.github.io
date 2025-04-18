@@ -22,6 +22,7 @@ nav_order: 3
 <h4>&nbsp; ph.d. students advised</h4>
 <br>
 <ul>
+<li><p>Ritik Jain, 2025 - present</p> </li>
 <li><p>Sourajyoti Maiti, 2025 - present</p> </li>
 <li><p>Jonathan Judge, Ph.D. 2016, current position: Analytics and Research,
 Travelers, Inc.</p> </li>

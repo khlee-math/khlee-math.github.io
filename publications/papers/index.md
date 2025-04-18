@@ -6,6 +6,8 @@ title: publications
 
 <ol reversed>
  
+<li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="Papers/Eisenstein_function.pdf">Convergence of Kac-Moody Eisenstein series over a function field</a>, Selecta Math. (N.S.) <b>31</b> (2025), no. 39.</p></li>
+
 <li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="Papers/mur-D.pdf">Murmurations of Dirichlet characters</a>, Int. Math. Res. Not. IMRN. <b>2025</b> (2025), no. 1, 1-28.</p></li>
 
 <li><p> Lisa Carbone, Howard Garland, Kyu-Hwan Lee, Dongwen Liu and Stephen D. Miller, <a href="Papers/KME.pdf">On the convergence of Kac-Moody Eisenstein series</a>, Amer. J. Math. <b>146</b> (2024) no. 5, 1253--1274.</p></li>

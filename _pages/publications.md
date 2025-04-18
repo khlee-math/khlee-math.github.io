@@ -22,6 +22,7 @@ nav_order: 2
 <li><p><a href="#CO">combinatorics</a></p></li> 
 <li><p><a href="#MP">mathematical physics</a></p></li>
 <li><p><a href="#CG">complex geometry</a></p></li>
+<li><p><a href="#NP">non-submitted preprints</a></p></li>
 </ul>
 
 <a id="ALL">
@@ -48,11 +49,9 @@ Mathematical data science</a>, arXiv:2502.08620.</p></li>
 
 <li><p> Il-Seung Jang, Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2305.19471.pdf">Braid group action on quantum virtual Grothendieck ring through constructing presentations</a>, arXiv:2305.19471.</p></li>
 
-<li><p> Tucker J. Ervin, Blake Jackson, Kyu-Hwan Lee and Kyungyong Lee, <a href="https://arxiv.org/pdf/2108.03309.pdf">Mutations of reflections and existence of pseudo-acyclic orderings for type A_n</a>, arXiv:2108.03309.</p></li>
-
 <li><p> Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2310.17906.pdf">Data-scientific study of  Kronecker coefficients</a>, to appear in Exp. Math.</p></li>
 
-<li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="https://arxiv.org/pdf/2203.08628.pdf">Convergence of Kac-Moody Eisenstein series over a function field</a>, to appear in Selecta Math. (N.S.)</p></li>
+<li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="https://doi.org/10.1007/s00029-025-01031-y">Convergence of Kac-Moody Eisenstein series over a function field</a>, Selecta Math. (N.S.) <b>31</b> (2025), no. 39.</p></li>
  
 <li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://doi.org/10.1093/imrn/rnae277">Murmurations of Dirichlet characters</a>, Int. Math. Res. Not. IMRN. <b>2025</b> (2025), no. 1, 1-28.</p></li>
 
@@ -258,12 +257,10 @@ Mathematical data science</a>, arXiv:2502.08620.</p></li>
 
 <li><p> Il-Seung Jang, Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2305.19471.pdf">Braid group action on quantum virtual Grothendieck ring through constructing presentations</a>, arXiv:2305.19471.</p></li>
 
-<li><p> Tucker J. Ervin, Blake Jackson, Kyu-Hwan Lee and Kyungyong Lee, <a href="https://arxiv.org/pdf/2108.03309.pdf">Mutations of reflections and existence of pseudo-acyclic orderings for type A_n</a>, arXiv:2108.03309.</p></li>
-
 <li><p> Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2310.17906.pdf">Data-scientific study of Kronecker coefficients</a>, to appear in Exp. Math.</p></li>
 
-<li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="https://arxiv.org/pdf/2203.08628.pdf">Convergence of Kac-Moody Eisenstein series over a function field</a>, to apear in Selecta Math. (N.S.)</p></li>
- 
+<li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="https://doi.org/10.1007/s00029-025-01031-y">Convergence of Kac-Moody Eisenstein series over a function field</a>, Selecta Math. (N.S.) <b>31</b> (2025), no. 39.</p></li>
+
 <li><p> Lisa Carbone, Howard Garland, Kyu-Hwan Lee, Dongwen Liu and Stephen D. Miller, <a href="https://doi.org/10.1353/ajm.2024.a937941">On the convergence of Kac-Moody Eisenstein series</a>, Amer. J. Math. <b>146</b> (2024) no. 5, 1253--1274.</p></li>
 
 <li><p> Kyu-Hwan Lee, <a href="https:///dx.doi.org/10.1142/S2810939224400094">Machine-learning Kronecker coefficients</a>, International Journal of Data Science in the Mathematical Sciences, <b>2</b> (2024), no.1, 79-86.</p></li>
@@ -435,7 +432,7 @@ Mathematical data science</a>, arXiv:2502.08620.</p></li>
 
 <li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2501.02105">Learning Fricke signs from Maass form coefficients</a>, arXiv:2501.02105.</p></li>
 
-<li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="https://arxiv.org/pdf/2203.08628.pdf">Convergence of Kac-Moody Eisenstein series over a function field</a>, to appear in Selecta Math. (N.S.)</p></li>
+<li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="https://doi.org/10.1007/s00029-025-01031-y">Convergence of Kac-Moody Eisenstein series over a function field</a>, Selecta Math. (N.S.) <b>31</b> (2025), no. 39.</p></li>
 
 <li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://doi.org/10.1093/imrn/rnae277">Murmurations of Dirichlet characters</a>, Int. Math. Res. Not. IMRN. <b>2025</b> (2025), no. 1, 1-28.</p></li>
 
@@ -534,7 +531,6 @@ Mathematical data science</a>, arXiv:2502.08620.</p></li>
 
 <li><p> Il-Seung Jang, Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2305.19471.pdf">Braid group action on quantum virtual Grothendieck ring through constructing presentations</a>, arXiv:2305.19471.</p></li>
 
-<li><p> Tucker J. Ervin, Blake Jackson, Kyu-Hwan Lee and Kyungyong Lee, <a href="https://arxiv.org/pdf/2108.03309.pdf">Mutations of reflections and existence of pseudo-acyclic orderings for type A_n</a>, arXiv:2108.03309.</p></li>
 
 <li><p> Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2310.17906.pdf">Data-scientific study of  Kronecker coefficients</a>, to appear in Exp. Math.</p></li>
 
@@ -672,6 +668,21 @@ groups</a>, Proc. Roy. Soc. Edinburgh Sect. A <b>136</b> (2006), no. 3, 445-472.
 
 <li><p> Gunhee Cho and Kyu-Hwan Lee, <a href="https://doi.org/10.1007/s00208-023-02735-2">Equivalence of invariant metrics via Bergman kernel on complete noncompact K&auml;hler manifolds</a>, Math. Ann. <b>389</b> (2024), 3809-3839.</p></li>
 
+
+</ul>
+
+</a>
+
+<a id="NP">
+&nbsp;<br> &nbsp;<br> &nbsp;<br>
+<h4>&nbsp; non-submitted preprints</h4>
+<br>
+
+<ul>
+
+<li><p> Tucker J. Ervin, Blake Jackson, Kyu-Hwan Lee and Kyungyong Lee, <a href="https://arxiv.org/pdf/2108.03309.pdf">Mutations of reflections and existence of pseudo-acyclic orderings for type A_n</a>, arXiv:2108.03309.</p></li>
+
+<li><p> Kyu-Hwan Lee, <a href="Papers/KME.pdf">Kac-Moody Eisenstein series</a>, preprint.</p></li>
 
 </ul>
 
