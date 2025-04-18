@@ -179,7 +179,7 @@ groups</a>, Proc. Roy. Soc. Edinburgh Sect. A <b>136</b> (2006), no. 3, 445-472.
 <li><p> Seok-Jin Kang, In-Sok Lee, Kyu-Hwan Lee and Hyekyung Oh,
 <a href="http://plms.oxfordjournals.org/content/89/1/54">Representations of Ariki-Koike algebras and Gr&ouml;bner-Shirshov bases</a>,  Proc. London Math. Soc. (3) <b>89</b> (2004), 54-70.</p></li>
 
-<li><p> Kyu-Hwan Lee, <a href="Papers/Taiwan.pdf">Gr&ouml;bner-Shirshov bases for representations of Lie algebras and Hecke algebras of type A</a>, Proceedings of the Third International Algebra Conference (Tainan 2002),
+<li><p> Kyu-Hwan Lee, <a href="papers/Papers/Taiwan.pdf">Gr&ouml;bner-Shirshov bases for representations of Lie algebras and Hecke algebras of type A</a>, Proceedings of the Third International Algebra Conference (Tainan 2002),
 115-128, Kluwer Academic Publishers, Dordrecht, 2003.</p></li>
 
 
@@ -390,7 +390,7 @@ groups</a>, Proc. Roy. Soc. Edinburgh Sect. A <b>136</b> (2006), no. 3, 445-472.
 <a href="http://plms.oxfordjournals.org/content/89/1/54">Representations of Ariki-Koike algebras and Gr&ouml;bner-Shirshov bases</a>,  Proc. London Math. Soc. (3) <b>89</b> (2004), 54-70.</p></li>
 
 
-<li><p> Kyu-Hwan Lee, <a href="Papers/Taiwan.pdf">Gr&ouml;bner-Shirshov bases for representations of Lie algebras and Hecke algebras of type A</a>, Proceedings of the Third International Algebra Conference (Tainan 2002),
+<li><p> Kyu-Hwan Lee, <a href="papers/Papers/Taiwan.pdf">Gr&ouml;bner-Shirshov bases for representations of Lie algebras and Hecke algebras of type A</a>, Proceedings of the Third International Algebra Conference (Tainan 2002),
 115-128, Kluwer Academic Publishers, Dordrecht, 2003.</p></li>
 
 
@@ -590,7 +590,7 @@ canonical bases</a>, Adv. Math. <b>227</b> (2011), no. 2, 945-961.</p></li>
 <li><p> Seok-Jin Kang, In-Sok Lee, Kyu-Hwan Lee and Hyekyung Oh,
 <a href="http://plms.oxfordjournals.org/content/89/1/54">Representations of Ariki-Koike algebras and Gr&ouml;bner-Shirshov bases</a>,  Proc. London Math. Soc. (3) <b>89</b> (2004), 54-70.</p></li>
 
-<li><p> Kyu-Hwan Lee, <a href="Papers/Taiwan.pdf">Gr&ouml;bner-Shirshov bases for representations of Lie algebras and Hecke algebras of type A</a>, Proceedings of the Third International Algebra Conference (Tainan 2002),
+<li><p> Kyu-Hwan Lee, <a href="papers/Papers/Taiwan.pdf">Gr&ouml;bner-Shirshov bases for representations of Lie algebras and Hecke algebras of type A</a>, Proceedings of the Third International Algebra Conference (Tainan 2002),
 115-128, Kluwer Academic Publishers, Dordrecht, 2003.</p></li>
 
 
@@ -682,7 +682,7 @@ groups</a>, Proc. Roy. Soc. Edinburgh Sect. A <b>136</b> (2006), no. 3, 445-472.
 
 <li><p> Tucker J. Ervin, Blake Jackson, Kyu-Hwan Lee and Kyungyong Lee, <a href="https://arxiv.org/pdf/2108.03309.pdf">Mutations of reflections and existence of pseudo-acyclic orderings for type A_n</a>, arXiv:2108.03309.</p></li>
 
-<li><p> Kyu-Hwan Lee, <a href="Papers/KME.pdf">Kac-Moody Eisenstein series</a>, preprint.</p></li>
+<li><p> Kyu-Hwan Lee, <a href="papers/Papers/KME.pdf">Kac-Moody Eisenstein series</a>, preprint.</p></li>
 
 </ul>
 
