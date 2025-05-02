@@ -49,7 +49,7 @@ Mathematical data science</a>, arXiv:2502.08620.</p></li>
 
 <li><p> Il-Seung Jang, Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2305.19471.pdf">Braid group action on quantum virtual Grothendieck ring through constructing presentations</a>, arXiv:2305.19471.</p></li>
 
-<li><p> Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2310.17906.pdf">Data-scientific study of  Kronecker coefficients</a>, to appear in Exp. Math.</p></li>
+<li><p> Kyu-Hwan Lee, <a href="https://doi.org/10.1080/10586458.2025.2490576">Data-scientific study of  Kronecker coefficients</a>, Exp. Math. (2025).</p></li>
 
 <li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="https://doi.org/10.1007/s00029-025-01031-y">Convergence of Kac-Moody Eisenstein series over a function field</a>, Selecta Math. (N.S.) <b>31</b> (2025), no. 39.</p></li>
  
@@ -220,7 +220,7 @@ Mathematical data science</a>, arXiv:2502.08620.</p></li>
 
 <li><p> Kymani T. K. Armstrong-Williams, Edward Hirst, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2411.04209.pdf">Machine learning mutation-acyclicity of quivers</a>, arXiv:2411.04209.</p></li>
 
-<li><p> Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2310.17906.pdf">Data-scientific study of  Kronecker coefficients</a>, to appear in Exp. Math.</p></li>
+<li><p> Kyu-Hwan Lee, <a href="https://doi.org/10.1080/10586458.2025.2490576">Data-scientific study of  Kronecker coefficients</a>, Exp. Math. (2025).</p></li>
 
 <li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://doi.org/10.1093/imrn/rnae277">Murmurations of Dirichlet characters</a>, Int. Math. Res. Not. IMRN. <b>2025</b> (2025), no. 1, 1-28.</p></li>
 
@@ -257,7 +257,7 @@ Mathematical data science</a>, arXiv:2502.08620.</p></li>
 
 <li><p> Il-Seung Jang, Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2305.19471.pdf">Braid group action on quantum virtual Grothendieck ring through constructing presentations</a>, arXiv:2305.19471.</p></li>
 
-<li><p> Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2310.17906.pdf">Data-scientific study of Kronecker coefficients</a>, to appear in Exp. Math.</p></li>
+<li><p> Kyu-Hwan Lee, <a href="https://doi.org/10.1080/10586458.2025.2490576">Data-scientific study of  Kronecker coefficients</a>, Exp. Math. (2025).</p></li>
 
 <li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="https://doi.org/10.1007/s00029-025-01031-y">Convergence of Kac-Moody Eisenstein series over a function field</a>, Selecta Math. (N.S.) <b>31</b> (2025), no. 39.</p></li>
 
@@ -532,7 +532,7 @@ Mathematical data science</a>, arXiv:2502.08620.</p></li>
 <li><p> Il-Seung Jang, Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2305.19471.pdf">Braid group action on quantum virtual Grothendieck ring through constructing presentations</a>, arXiv:2305.19471.</p></li>
 
 
-<li><p> Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2310.17906.pdf">Data-scientific study of  Kronecker coefficients</a>, to appear in Exp. Math.</p></li>
+<li><p> Kyu-Hwan Lee, <a href="https://doi.org/10.1080/10586458.2025.2490576">Data-scientific study of  Kronecker coefficients</a>, Exp. Math. (2025).</p></li>
 
 <li><p> Kyu-Hwan Lee, <a href="https:///dx.doi.org/10.1142/S2810939224400094">Machine-learning Kronecker coefficients</a>, International Journal of Data Science in the Mathematical Sciences, <b>2</b> (2024), no.1, 79-86.</p></li>
 
