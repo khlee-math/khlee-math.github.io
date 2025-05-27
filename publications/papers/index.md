@@ -6,6 +6,8 @@ title: publications
 
 <ol reversed>
  
+<li><p> Kyu-Hwan Lee, <a href="Papers/kron-pca.pdf">Data-scientific study of  Kronecker coefficients</a>, Exp. Math. (2025).</p></li>
+
 <li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="Papers/Eisenstein_function.pdf">Convergence of Kac-Moody Eisenstein series over a function field</a>, Selecta Math. (N.S.) <b>31</b> (2025), no. 39.</p></li>
 
 <li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="Papers/mur-D.pdf">Murmurations of Dirichlet characters</a>, Int. Math. Res. Not. IMRN. <b>2025</b> (2025), no. 1, 1-28.</p></li>
