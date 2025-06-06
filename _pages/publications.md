@@ -32,14 +32,14 @@ nav_order: 2
 <br>
 <ol reversed>
 
-<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://arxiv.org/pdf/2502.11774"> Interpretable machine learning for Kronecker coefficients</a>, arXiv:2502.11774.</p></li> 
+<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://arxiv.org/pdf/2502.11774"> Interpretable machine learning for Kronecker coefficients</a>, to appear in Adv. Theor. Math. Phys.</p></li> 
 
 <li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2502.10360"> Machine learning the vanishing order of rational L-functions</a>, arXiv:2502.10360.</p></li> 
 
 <li><p> Angelica Babei, Fran&ccedil;ois Charton, Edgar Costa, Xiaoyu Huang, Kyu-Hwan Lee, David Lowry-Duda, Ashvni Narayanan, and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2502.10357">Learning Euler factors of elliptic curves</a>, arXiv:2502.10357.</p></li> 
 
 <li><p> Michael R. Douglas and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2502.08620">
-Mathematical data science</a>, arXiv:2502.08620.</p></li>
+Mathematical data science</a>, to appear in Adv. Theor. Math. Phys.</p></li>
 
 <li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2501.02105">Learning Fricke signs from Maass form coefficients</a>, arXiv:2501.02105.</p></li>
 
@@ -207,14 +207,14 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 
 <ul>
 
-<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://arxiv.org/pdf/2502.11774"> Interpretable machine learning for Kronecker coefficients</a>, arXiv:2502.11774.</p></li>
+<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://arxiv.org/pdf/2502.11774"> Interpretable machine learning for Kronecker coefficients</a>, to appear in Adv. Theor. Math. Phys.</p></li>
 
 <li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2502.10360"> Machine learning the vanishing order of rational L-functions</a>, arXiv:2502.10360.</p></li> 
 
 <li><p> Angelica Babei, Fran&ccedil;ois Charton, Edgar Costa, Xiaoyu Huang, Kyu-Hwan Lee, David Lowry-Duda, Ashvni Narayanan, and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2502.10357">Learning Euler factors of elliptic curves</a>, arXiv:2502.10357.</p></li> 
 
 <li><p> Michael R. Douglas and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2502.08620">
-Mathematical data science</a>, arXiv:2502.08620.</p></li>
+Mathematical data science</a>, to appear in Adv. Theor. Math. Phys.</p></li>
 
 <li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2501.02105">Learning Fricke signs from Maass form coefficients</a>, arXiv:2501.02105.</p></li>
 
@@ -246,10 +246,10 @@ Mathematical data science</a>, arXiv:2502.08620.</p></li>
 
 <ul>
 
-<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://arxiv.org/pdf/2502.11774"> Interpretable machine learning for Kronecker coefficients</a>, arXiv:2502.11774.</p></li>
+<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://arxiv.org/pdf/2502.11774"> Interpretable machine learning for Kronecker coefficients</a>, to appear in Adv. Theor. Math. Phys.</p></li>
 
 <li><p> Michael R. Douglas and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2502.08620">
-Mathematical data science</a>, arXiv:2502.08620.</p></li>
+Mathematical data science</a>, to appear in Adv. Theor. Math. Phys.</p></li>
 
 <li><p> Kymani T. K. Armstrong-Williams, Edward Hirst, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2411.04209.pdf">Machine learning mutation-acyclicity of quivers</a>, arXiv:2411.04209.</p></li>
 
@@ -421,14 +421,12 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 
 <ul>
 
-<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://arxiv.org/pdf/2502.11774"> Interpretable machine learning for Kronecker coefficients</a>, arXiv:2502.11774.</p></li>
-
 <li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2502.10360"> Machine learning the vanishing order of rational L-functions</a>, arXiv:2502.10360.</p></li> 
 
 <li><p> Angelica Babei, Fran&ccedil;ois Charton, Edgar Costa, Xiaoyu Huang, Kyu-Hwan Lee, David Lowry-Duda, Ashvni Narayanan, and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2502.10357">Learning Euler factors of elliptic curves</a>, arXiv:2502.10357.</p></li> 
 
 <li><p> Michael R. Douglas and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2502.08620">
-Mathematical data science</a>, arXiv:2502.08620.</p></li>
+Mathematical data science</a>, to appear in Adv. Theor. Math. Phys.</p></li>
 
 <li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2501.02105">Learning Fricke signs from Maass form coefficients</a>, arXiv:2501.02105.</p></li>
 
@@ -522,10 +520,10 @@ over 2-dimensional local fields</a>, Canad. J. Math. <b>62</b> (2010), no. 6, 13
 
 <ul>
 
-<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://arxiv.org/pdf/2502.11774"> Interpretable machine learning for Kronecker coefficients</a>, arXiv:2502.11774.</p></li>
+<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://arxiv.org/pdf/2502.11774"> Interpretable machine learning for Kronecker coefficients</a>, to appear in Adv. Theor. Math. Phys.</p></li>
 
 <li><p> Michael R. Douglas and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2502.08620">
-Mathematical data science</a>, arXiv:2502.08620.</p></li>
+Mathematical data science</a>, to appear in Adv. Theor. Math. Phys.</p></li>
 
 <li><p> Kymani T. K. Armstrong-Williams, Edward Hirst, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2411.04209.pdf">Machine learning mutation-acyclicity of quivers</a>, arXiv:2411.04209.</p></li>
 
