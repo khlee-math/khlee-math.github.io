@@ -26,6 +26,8 @@ nav_order: 4
 <br>
 <ul>
 
+<li><p><a href="https://icerm.brown.edu/program/semester_program_workshop/sp-f25-w1">Category Theory, Combinatorics, and Machine Learning</a>, ICERM, Providence, RI, September 2025, co-organizers: Chris Bowman, Rosa Orellana, Anne Schilling, Adam Wagner.</p></li>
+
 <li><p><a href="http://events.kias.re.kr/h/MLM2025/">Machine Learning and Mathematics</a>, KIAS, Seoul, Korea, July 2025, co-organizers: Bin Dong, Michael Douglas.</p></li>
 
 <li><p><a href="https://www.ams.org/meetings/sectional/2320_program_ss2.html#title">AMS Sectional Meeting Special Session on Advances in Representation Theory, Combinatorics, and Interactions with Machine Learning</a>, Hartford, CT, April 2025, co-organizers: Nicholas Davidson, Robert Muth.</p></li>

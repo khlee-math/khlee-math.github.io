@@ -32,6 +32,9 @@ nav_order: 2
 <br>
 <ol reversed>
 
+<li><p> Kyu-Hwan Lee and Seewoo Lee, <a href="https://arxiv.org/pdf/2508.06670">Machines Learn Number Fields, But How?
+The Case of Galois Groups</a>, arXiv:2508.06670.</p></li> 
+
 <li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://arxiv.org/pdf/2502.11774"> Interpretable machine learning for Kronecker coefficients</a>, to appear in Adv. Theor. Math. Phys.</p></li> 
 
 <li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2502.10360"> Machine learning the vanishing order of rational L-functions</a>, arXiv:2502.10360.</p></li> 
