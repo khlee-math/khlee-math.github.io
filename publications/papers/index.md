@@ -6,6 +6,8 @@ title: publications
 
 <ol reversed>
  
+<li><p> Kyu-Hwan Lee, <a href="Papers/ML-lecture-slides-Lee.pdf">ML-lecture-slides</a>.</p></li>
+
 <li><p> Kyu-Hwan Lee, <a href="Papers/kron-pca.pdf">Data-scientific study of  Kronecker coefficients</a>, Exp. Math. (2025).</p></li>
 
 <li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="Papers/Eisenstein_function.pdf">Convergence of Kac-Moody Eisenstein series over a function field</a>, Selecta Math. (N.S.) <b>31</b> (2025), no. 39.</p></li>
