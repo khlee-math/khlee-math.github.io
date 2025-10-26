@@ -35,6 +35,10 @@ nav_order: 2
 <li><p> Kyu-Hwan Lee and Seewoo Lee, <a href="https://arxiv.org/pdf/2508.06670">Machines learn number fields, but how?
 The case of Galois groups</a>, arXiv:2508.06670.</p></li> 
 
+<li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2402.08140.pdf">Quantum cluster algebra, braid moves and quantum virtual Grothendieck ring</a>, arXiv:2402.08140.</p></li>
+
+<li><p> Il-Seung Jang, Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2305.19471.pdf">Braid group action on quantum virtual Grothendieck ring through constructing presentations</a>, arXiv:2305.19471.</p></li>
+
 <li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://arxiv.org/pdf/2502.11774"> Interpretable machine learning for Kronecker coefficients</a>, to appear in Adv. Theor. Math. Phys.</p></li> 
 
 <li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2502.10360"> Machine learning the vanishing order of rational L-functions</a>, to appear in Adv. Theor. Math. Phys.</p></li> 
@@ -48,19 +52,15 @@ Mathematical data science</a>, to appear in Adv. Theor. Math. Phys.</p></li>
 
 <li><p> Kymani T. K. Armstrong-Williams, Edward Hirst, Blake Jackson and Kyu-Hwan Lee, <a href="https://doi.org/10.1016/j.jaca.2025.100040">Machine learning mutation-acyclicity of quivers</a>, J. Comput. Algebra. <b>15</b> (2025) 100040.</p></li>
 
-<li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2402.08140.pdf">Quantum cluster algebra, braid moves and quantum virtual Grothendieck ring</a>, arXiv:2402.08140.</p></li>
-
-<li><p> Il-Seung Jang, Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2305.19471.pdf">Braid group action on quantum virtual Grothendieck ring through constructing presentations</a>, arXiv:2305.19471.</p></li>
-
 <li><p> Kyu-Hwan Lee, <a href="https://doi.org/10.1080/10586458.2025.2490576">Data-scientific study of  Kronecker coefficients</a>, Exp. Math. (2025).</p></li>
 
 <li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="https://doi.org/10.1007/s00029-025-01031-y">Convergence of Kac-Moody Eisenstein series over a function field</a>, Selecta Math. (N.S.) <b>31</b> (2025), no. 39.</p></li>
  
 <li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://doi.org/10.1093/imrn/rnae277">Murmurations of Dirichlet characters</a>, Int. Math. Res. Not. IMRN. <b>2025</b> (2025), no. 1, 1-28.</p></li>
 
-<li><p> Lisa Carbone, Howard Garland, Kyu-Hwan Lee, Dongwen Liu and Stephen D. Miller, <a href="https://doi.org/10.1353/ajm.2024.a937941">On the convergence of Kac-Moody Eisenstein series</a>, Amer. J. Math. <b>146</b> (2024) no. 5, 1253-1274.</p></li>
-
 <li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://doi.org/10.1080/10586458.2024.2382361">Murmurations of elliptic curves</a>, Exp. Math. <b>34</b> (2025), no.3, 528-540.</p></li>
+
+<li><p> Lisa Carbone, Howard Garland, Kyu-Hwan Lee, Dongwen Liu and Stephen D. Miller, <a href="https://doi.org/10.1353/ajm.2024.a937941">On the convergence of Kac-Moody Eisenstein series</a>, Amer. J. Math. <b>146</b> (2024) no. 5, 1253-1274.</p></li>
 
 <li><p> Kyu-Hwan Lee, <a href="https:///dx.doi.org/10.1142/S2810939224400094">Machine-learning Kronecker coefficients</a>, International Journal of Data Science in the Mathematical Sciences, <b>2</b> (2024), no.1, 79-86.</p></li>
 
@@ -68,11 +68,11 @@ Mathematical data science</a>, to appear in Adv. Theor. Math. Phys.</p></li>
 
 <li><p> Jonathan D. Axtell and Kyu-Hwan Lee, <a href="https://bookstore.ams.org/pspum-108">Quantum generalized Kac-Moody algebras via Hall algebras of complexes</a>, Proc. Sympos. Pure Math. <b>108</b> (2024).</p></li>
 
-<li><p> Malik Amir, Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Eldar Sultanow, <a href="https:///dx.doi.org/10.1142/S2810939223500016">Machine learning class numbers of real quadratic fields</a>, International Journal of Data Science in the Mathematical Sciences, <b>1</b> (2023), no. 2, 107-134.</p></li>
-
 <li><p> Gunhee Cho and Kyu-Hwan Lee, <a href="https://doi.org/10.1007/s00208-023-02735-2">Equivalence of invariant metrics via Bergman kernel on complete noncompact K&auml;hler manifolds</a>, Math. Ann. <b>389</b> (2024), 3809-3839.</p></li>
 
 <li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1007/s10468-023-10225-x">Auto-correlation functions for unitary groups</a>, Algebr. Represent. Theory <b>27</b> (2024), 583-611.</p></li>
+
+<li><p> Malik Amir, Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Eldar Sultanow, <a href="https:///dx.doi.org/10.1142/S2810939223500016">Machine learning class numbers of real quadratic fields</a>, International Journal of Data Science in the Mathematical Sciences, <b>1</b> (2023), no. 2, 107-134.</p></li>
 
 <li><p> Jang Soo Kim, Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1090/memo/1401">Weight multiplicities and Young tableaux through affine crystals</a>, Mem. Amer. Math. Soc. <b>283</b>, 1401 (2023).</p></li>
 
@@ -438,9 +438,9 @@ Mathematical data science</a>, to appear in Adv. Theor. Math. Phys.</p></li>
 
 <li><p> Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://doi.org/10.1093/imrn/rnae277">Murmurations of Dirichlet characters</a>, Int. Math. Res. Not. IMRN. <b>2025</b> (2025), no. 1, 1-28.</p></li>
 
-<li><p> Lisa Carbone, Howard Garland, Kyu-Hwan Lee, Dongwen Liu and Stephen D. Miller, <a href="https://doi.org/10.1353/ajm.2024.a937941">On the convergence of Kac-Moody Eisenstein series</a>, Amer. J. Math. <b>146</b> (2024) no. 5, 1253--1274.</p></li>
-
 <li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://doi.org/10.1080/10586458.2024.2382361">Murmurations of elliptic curves</a>, Exp. Math. <b>34</b> (2025), no.3, 528-540.</p></li>
+
+<li><p> Lisa Carbone, Howard Garland, Kyu-Hwan Lee, Dongwen Liu and Stephen D. Miller, <a href="https://doi.org/10.1353/ajm.2024.a937941">On the convergence of Kac-Moody Eisenstein series</a>, Amer. J. Math. <b>146</b> (2024) no. 5, 1253--1274.</p></li>
 
 <li><p> Malik Amir, Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Eldar Sultanow, <a href="https:///dx.doi.org/10.1142/S2810939223500016">Machine learning class numbers of real quadratic fields</a>, International Journal of Data Science in the Mathematical Sciences, <b>1</b> (2023), no. 2, 107-134.</p></li>
 
