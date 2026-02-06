@@ -37,7 +37,7 @@ nav_order: 2
 <li><p> Kyu-Hwan Lee and Seewoo Lee, <a href="https://arxiv.org/pdf/2508.06670">Machines learn number fields, but how?
 The case of Galois groups</a>, arXiv:2508.06670.</p></li> 
 
-<li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2402.08140.pdf">Quantum cluster algebra, braid moves and quantum virtual Grothendieck ring</a>, arXiv:2402.08140.</p></li>
+<li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2402.08140.pdf">Quantum cluster algebra, braid moves and quantum virtual Grothendieck ring</a>, to appear in Selecta Math. (N.S.).</p></li>
 
 <li><p> Il-Seung Jang, Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2305.19471.pdf">Braid group action on quantum virtual Grothendieck ring through constructing presentations</a>, arXiv:2305.19471.</p></li>
 
@@ -263,7 +263,7 @@ Mathematical data science</a>, to appear in Adv. Theor. Math. Phys.</p></li>
 
 <li><p> Kymani T. K. Armstrong-Williams, Edward Hirst, Blake Jackson and Kyu-Hwan Lee, <a href="https://doi.org/10.1016/j.jaca.2025.100040">Machine learning mutation-acyclicity of quivers</a>, J. Comput. Algebra. <b>15</b> (2025) 100040.</p></li>
 
-<li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2402.08140.pdf">Quantum cluster algebra, braid moves and quantum virtual Grothendieck ring</a>, arXiv:2402.08140.</p></li>
+<li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2402.08140.pdf">Quantum cluster algebra, braid moves and quantum virtual Grothendieck ring</a>, to appear in Selecta Math. (N.S.).</p></li>
 
 <li><p> Il-Seung Jang, Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2305.19471.pdf">Braid group action on quantum virtual Grothendieck ring through constructing presentations</a>, arXiv:2305.19471.</p></li>
 
@@ -620,7 +620,7 @@ canonical bases</a>, Adv. Math. <b>227</b> (2011), no. 2, 945-961.</p></li>
 
 <li><p> Kymani T. K. Armstrong-Williams, Edward Hirst, Blake Jackson and Kyu-Hwan Lee, <a href="https://doi.org/10.1016/j.jaca.2025.100040">Machine learning mutation-acyclicity of quivers</a>, J. Comput. Algebra. <b>15</b> (2025) 100040.</p></li>
 
-<li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2402.08140.pdf">Quantum cluster algebra, braid moves and quantum virtual Grothendieck ring</a>, arXiv:2402.08140.</p></li>
+<li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2402.08140.pdf">Quantum cluster algebra, braid moves and quantum virtual Grothendieck ring</a>, to appear in Selecta Math. (N.S.).</p></li>
 
 <li><p> Il-Seung Jang, Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2305.19471.pdf">Braid group action on quantum virtual Grothendieck ring through constructing presentations</a>, arXiv:2305.19471.</p></li>
 
