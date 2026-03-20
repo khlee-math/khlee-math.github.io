@@ -32,6 +32,10 @@ nav_order: 2
 <br>
 <ol reversed>
 
+<li><p> Joanna Bieri, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi and Tamara Veenstra, <a href="https://arxiv.org/pdf/2603.17681">Murmurations, Mestre-Nagao sums, and Convolutional Neural Networks for elliptic curves</a>, arXiv:2603.17681.</p></li> 
+
+<li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2603.09680">Murmurations: a case study in AI-assisted mathematics</a>, arXiv:2603.09680.</p></li> 
+
 <li><p> Xiaoyu Huang, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2511.12421">From Black Box to Bijection: Interpreting Machine Learning to Build a Zeta Map Algorithm</a>, arXiv:2511.12421.</p></li> 
 
 <li><p> Kyu-Hwan Lee and Seewoo Lee, <a href="https://arxiv.org/pdf/2508.06670">Machines learn number fields, but how?
@@ -211,6 +215,10 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 <br>
 
 <ul>
+
+<li><p> Joanna Bieri, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi and Tamara Veenstra, <a href="https://arxiv.org/pdf/2603.17681">Murmurations, Mestre-Nagao sums, and Convolutional Neural Networks for elliptic curves</a>, arXiv:2603.17681.</p></li> 
+
+<li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2603.09680">Murmurations: a case study in AI-assisted mathematics</a>, arXiv:2603.09680.</p></li> 
 
 <li><p> Xiaoyu Huang, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2511.12421">From Black Box to Bijection: Interpreting Machine Learning to Build a Zeta Map Algorithm</a>, arXiv:2511.12421.</p></li> 
 
@@ -425,6 +433,10 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 <br>
 
 <ul>
+
+<li><p> Joanna Bieri, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi and Tamara Veenstra, <a href="https://arxiv.org/pdf/2603.17681">Murmurations, Mestre-Nagao sums, and Convolutional Neural Networks for elliptic curves</a>, arXiv:2603.17681.</p></li> 
+
+<li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2603.09680">Murmurations: a case study in AI-assisted mathematics</a>, arXiv:2603.09680.</p></li> 
 
 <li><p> Kyu-Hwan Lee and Seewoo Lee, <a href="https://arxiv.org/pdf/2508.06670">Machines learn number fields, but how?
 The case of Galois groups</a>, arXiv:2508.06670.</p></li> 
