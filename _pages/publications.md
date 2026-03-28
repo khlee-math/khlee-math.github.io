@@ -39,7 +39,7 @@ nav_order: 2
 <li><p> Xiaoyu Huang, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2511.12421">From Black Box to Bijection: Interpreting Machine Learning to Build a Zeta Map Algorithm</a>, to apear in S&eacute;m. Lothar. Combin.</p></li> 
 
 <li><p> Kyu-Hwan Lee and Seewoo Lee, <a href="https://arxiv.org/pdf/2508.06670">Machines learn number fields, but how?
-The case of Galois groups</a>, arXiv:2508.06670.</p></li> 
+The case of Galois groups</a>, to appear in Res. Math. Sci.</p></li> 
 
 <li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2402.08140.pdf">Quantum cluster algebra, braid moves and quantum virtual Grothendieck ring</a>, to appear in Selecta Math. (N.S.).</p></li>
 
@@ -223,7 +223,7 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 <li><p> Xiaoyu Huang, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2511.12421">From Black Box to Bijection: Interpreting Machine Learning to Build a Zeta Map Algorithm</a>, to apear in S&eacute;m. Lothar. Combin.</p></li> 
 
 <li><p> Kyu-Hwan Lee and Seewoo Lee, <a href="https://arxiv.org/pdf/2508.06670">Machines learn number fields, but how?
-The case of Galois groups</a>, arXiv:2508.06670.</p></li> 
+The case of Galois groups</a>, to appear in Res. Math. Sci.</p></li> 
 
 <li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://arxiv.org/pdf/2502.11774"> Interpretable machine learning for Kronecker coefficients</a>, to appear in Adv. Theor. Math. Phys.</p></li>
 
@@ -439,7 +439,7 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 <li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2603.09680">Murmurations: a case study in AI-assisted mathematics</a>, arXiv:2603.09680.</p></li> 
 
 <li><p> Kyu-Hwan Lee and Seewoo Lee, <a href="https://arxiv.org/pdf/2508.06670">Machines learn number fields, but how?
-The case of Galois groups</a>, arXiv:2508.06670.</p></li> 
+The case of Galois groups</a>, to appear in Res. Math. Sci.</p></li> 
 
 <li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2502.10360"> Machine learning the vanishing order of rational L-functions</a>, to appear in Adv. Theor. Math. Phys.</p></li> 
 
