@@ -32,6 +32,8 @@ nav_order: 2
 <br>
 <ol reversed>
 
+<li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Yidi Qi, <a href="https://arxiv.org/pdf/2604.15155">Computer vision and converse theorems</a>, arXiv:2604.15155.</p></li> 
+
 <li><p> Joanna Bieri, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi and Tamara Veenstra, <a href="https://arxiv.org/pdf/2603.17681">Murmurations, Mestre-Nagao sums, and Convolutional Neural Networks for elliptic curves</a>, arXiv:2603.17681.</p></li> 
 
 <li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2603.09680">Murmurations: a case study in AI-assisted mathematics</a>, arXiv:2603.09680.</p></li> 
@@ -215,6 +217,8 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 <br>
 
 <ul>
+
+<li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Yidi Qi, <a href="https://arxiv.org/pdf/2604.15155">Computer vision and converse theorems</a>, arXiv:2604.15155.</p></li> 
 
 <li><p> Joanna Bieri, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi and Tamara Veenstra, <a href="https://arxiv.org/pdf/2603.17681">Murmurations, Mestre-Nagao sums, and Convolutional Neural Networks for elliptic curves</a>, arXiv:2603.17681.</p></li> 
 
@@ -433,6 +437,8 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 <br>
 
 <ul>
+
+<li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Yidi Qi, <a href="https://arxiv.org/pdf/2604.15155">Computer vision and converse theorems</a>, arXiv:2604.15155.</p></li> 
 
 <li><p> Joanna Bieri, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi and Tamara Veenstra, <a href="https://arxiv.org/pdf/2603.17681">Murmurations, Mestre-Nagao sums, and Convolutional Neural Networks for elliptic curves</a>, arXiv:2603.17681.</p></li> 
 
