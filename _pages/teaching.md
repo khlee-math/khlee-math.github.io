@@ -82,9 +82,8 @@ Sungkyunkwan University, South Korea</p> </li>
 <br>
 
 <ul>
-<li><p>Spring 2025<br>
-Applied Linear Algebra (MATH 2210Q)<br>
-Mathematics for Machine Learning (MATH 3180)</p></li>
+<li><p>Spring 2026<br>
+Applied Linear Algebra (MATH 2210Q), sections 007 and 013</p></li>
 </ul>
 
 <br>
@@ -94,6 +93,10 @@ Mathematics for Machine Learning (MATH 3180)</p></li>
 <br>
 <ul>
 
+<li><p>Spring 2025<br>
+Applied Linear Algebra (MATH 2210Q)<br>
+Mathematics for Machine Learning (MATH 3180)</p></li>
+
 <li><p>Fall 2024<br>
 Applied Linear Algebra (MATH 2210Q)</p></li>
  
@@ -102,7 +105,7 @@ Elementary Differential Equations (MATH 2410Q)<br>
 Mathematics for Machine Learning (MATH 3180)</p></li>
  
 <li><p>Spring 2023<br>
-Elementary Differential Equations (MATH 2410Q), Sections 001 and 007</p></li>
+Elementary Differential Equations (MATH 2410Q), sections 001 and 007</p></li>
   
 <li><p>Fall 2022<br>
 Applied Linear Algebra (MATH 2210Q)</p></li>
@@ -125,7 +128,7 @@ Probability (MATH 3160)</p></li>
 
 
 <li><p>Spring 2020<br>
-Probability (MATH 3160), Sections 001 and 002</p></li>
+Probability (MATH 3160), sections 001 and 002</p></li>
 
 
 <li><p>Fall 2019<br>
@@ -136,7 +139,7 @@ Probability (MATH 3160)</p></li>
 Introduction to Representation Theory (MATH 5220)</p></li>
 
 <li><p>Fall 2018<br>
-Elementary Differential Equations (MATH 2410Q), Sections 008 and 013</p></li>
+Elementary Differential Equations (MATH 2410Q), sections 008 and 013</p></li>
 
 <li><p>Spring 2018<br>
 Elementary Differential Equations (MATH 2410Q)<br>
@@ -146,7 +149,7 @@ Topics in Algebra (MATH 5020): Homological Algebra and Derived Categories</p></l
 Elementary Differential Equations (MATH 2410Q)</p></li>
 
 <li><p>Spring 2017<br>
-Probability (MATH 3160), Sections 004 and 005<br>
+Probability (MATH 3160), sections 004 and 005<br>
 Topics in Algebra (MATH 5020): Modular Forms</p></li>
 
 
@@ -212,7 +215,7 @@ Calculus II (MATH 1132Q)<br>
 Abstract Algebra I (MATH 5210)</p></li>
 
 <li><p>Spring 2008<br>
-Topics in Algebra (MATH 321 Section 002): Automorphic Representations</p></li>
+Topics in Algebra (MATH 321 section 002): Automorphic Representations</p></li>
 
 
 <li><p>Fall 2007<br>
