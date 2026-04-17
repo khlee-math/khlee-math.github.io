@@ -26,13 +26,11 @@ nav_order: 4
 <br>
 <ul>
 
-<li><p><a href="https://chlee-0.github.io/2025-KIAS-Winter-School-Math-AI/">KIAS Winter School on Mathematics and AI, KIAS, Seoul, Korea, December 2025 (co-
-organizer: Joonhyun La, Chul-hee Lee)</p></li>
+<li><p><a href="https://chlee-0.github.io/2025-KIAS-Winter-School-Math-AI/">KIAS Winter School on Mathematics and AI</a>, KIAS, Seoul, Korea, December 2025 (co- organizer: Joonhyun La, Chul-hee Lee)</p></li>
 
 <li><p><a href="https://icerm.brown.edu/program/semester_program_workshop/sp-f25-w1">Category Theory, Combinatorics, and Machine Learning</a>, ICERM, Providence, RI, September 2025, co-organizers: Chris Bowman, Rosa Orellana, Anne Schilling, Adam Wagner.</p></li>
 
-<li><p><a href="https://icerm.brown.edu/program/semester_program/sp-f25">Categorification and Computation in Algebraic Combinatorics, ICERM, Providence, RI,
-September - December 2025 (co-organizers: Chris Bowman, Nicolle Gonzalez, Nicolas
+<li><p><a href="https://icerm.brown.edu/program/semester_program/sp-f25">Categorification and Computation in Algebraic Combinatorics</a>, ICERM, Providence, RI, September - December 2025 (co-organizers: Chris Bowman, Nicolle Gonzalez, Nicolas
 Libedinsky, Rosa Orellana, Greta Panova, Anne Schilling, Jamie Vicary, Adam Wagner,
 Lauren Williams)</p></li>
 

@@ -43,9 +43,9 @@ Sungkyunkwan University, South Korea</p> </li>
 <br>
 
 <ul>
-<li><p>Blake Jackson, Ph.D. 2023 (University of Alabama), 2023 - present</p> </li>
+<li><p><a href="https://www.blakejacksonmath.com/">Blake Jackson, Ph.D. 2023 (University of Alabama), 2023 - present</p> </li>
 
-<li><p><a href="https://person.zju.edu.cn/en/dwliu/850065.html">Dongwen Liu</a>, Ph.D. 2011 (Hong Kong University of Science and Technology), 2012 - 2015, current position: associate professor, Zhejiang University</p> </li>
+<li><p><a href="https://person.zju.edu.cn/en/dwliu/">Dongwen Liu</a>, Ph.D. 2011 (Hong Kong University of Science and Technology), 2012 - 2015, current position: associate professor, Zhejiang University</p> </li>
 
 <li><p>Yichao Zhang, Ph.D. 2010 (University of Toronto), 2011 - 2014, current position: professor, Hunan Normal University</p> </li>  
 
