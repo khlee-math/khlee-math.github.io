@@ -25,7 +25,7 @@ nav_order: 3
 <li><p>Sourajyoti Maiti, 2025 - present</p> </li>
 <li><p>Jonathan Judge, Ph.D. 2016, current position: head of data science and analytics, Porch Group</p> </li>
 <li><p>Tze-Chun Ou, Ph.D. 2016, current position: teaching faculty, Bellevue College, WA</p> </li>
-<li><p><a href="https://www.washcoll.edu/people_departments/faculty/feinberg-gabe.php">Gabriel Feinberg</a>, Ph.D. 2013, current position: associate professor, Washington College, MD</p> </li>
+<li><p><a href="https://www.washcoll.edu/people_departments/faculty/gfeinberg2.php">Gabriel Feinberg</a>, Ph.D. 2013, current position: associate professor, Washington College, MD</p> </li>
 <li><p><a href="http://people.cst.cmich.edu/salis1bt/">Benjamin
 Salisbury</a>, Ph.D. 2012, current position: data scientist, The Hartford</p> </li>  
 <li><p><a href="https://www.endicott.edu/academics/schools/science-technology/faculty/p/philip-lombardo">Philip Lombardo</a>, Ph.D. 2010, current position: professor, Endicott College, MA</p> </li>
