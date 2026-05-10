@@ -8,6 +8,8 @@ title: publications
  
 <li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="Papers/interpretable-kron.pdf"> Interpretable machine learning for Kronecker coefficients</a>, Adv. Theor. Math. Phys. <b>30</b> (2026), no. 1, 131-148.</p></li>
 
+<li><p> Kymani T. K. Armstrong-Williams, Edward Hirst, Blake Jackson and Kyu-Hwan Lee, <a href="Papers/mutation-acylicity.pdf">Machine learning mutation-acyclicity of quivers</a>, J. Comput. Algebra. <b>15</b> (2025) 100040.</p></li>
+
 <li><p> Kyu-Hwan Lee, <a href="Papers/kron-pca.pdf">Data-scientific study of  Kronecker coefficients</a>, Exp. Math. (2025).</p></li>
 
 <li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="Papers/Eisenstein_function.pdf">Convergence of Kac-Moody Eisenstein series over a function field</a>, Selecta Math. (N.S.) <b>31</b> (2025), no. 39.</p></li>
