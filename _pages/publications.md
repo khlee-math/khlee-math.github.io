@@ -47,8 +47,6 @@ The case of Galois groups</a>, to appear in Res. Math. Sci.</p></li>
 
 <li><p> Il-Seung Jang, Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2305.19471.pdf">Braid group action on quantum virtual Grothendieck ring through constructing presentations</a>, arXiv:2305.19471.</p></li>
 
-<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://arxiv.org/pdf/2502.11774"> Interpretable machine learning for Kronecker coefficients</a>, to appear in Adv. Theor. Math. Phys.</p></li> 
-
 <li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2502.10360"> Machine learning the vanishing order of rational L-functions</a>, to appear in Adv. Theor. Math. Phys.</p></li> 
 
 <li><p> Angelica Babei, Fran&ccedil;ois Charton, Edgar Costa, Xiaoyu Huang, Kyu-Hwan Lee, David Lowry-Duda, Ashvni Narayanan, and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2502.10357">Learning Euler factors of elliptic curves</a>, to appear in Adv. Theor. Math. Phys.</p></li> 
@@ -57,6 +55,8 @@ The case of Galois groups</a>, to appear in Res. Math. Sci.</p></li>
 Mathematical data science</a>, to appear in Adv. Theor. Math. Phys.</p></li>
 
 <li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2501.02105">Learning Fricke signs from Maass form coefficients</a>, to appear in Adv. Theor. Math. Phys.</p></li>
+
+<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://dx.doi.org/10.4310/ATMP.260413002916"> Interpretable machine learning for Kronecker coefficients</a>, Adv. Theor. Math. Phys. <b>30</b> (2026), no. 1, 131-148.</p></li> 
 
 <li><p> Kymani T. K. Armstrong-Williams, Edward Hirst, Blake Jackson and Kyu-Hwan Lee, <a href="https://doi.org/10.1016/j.jaca.2025.100040">Machine learning mutation-acyclicity of quivers</a>, J. Comput. Algebra. <b>15</b> (2025) 100040.</p></li>
 
@@ -229,7 +229,7 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 <li><p> Kyu-Hwan Lee and Seewoo Lee, <a href="https://arxiv.org/pdf/2508.06670">Machines learn number fields, but how?
 The case of Galois groups</a>, to appear in Res. Math. Sci.</p></li> 
 
-<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://arxiv.org/pdf/2502.11774"> Interpretable machine learning for Kronecker coefficients</a>, to appear in Adv. Theor. Math. Phys.</p></li>
+<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://dx.doi.org/10.4310/ATMP.260413002916"> Interpretable machine learning for Kronecker coefficients</a>, Adv. Theor. Math. Phys. <b>30</b> (2026), no. 1, 131-148.</p></li> 
 
 <li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2502.10360"> Machine learning the vanishing order of rational L-functions</a>, to appear in Adv. Theor. Math. Phys.</p></li> 
 
@@ -268,7 +268,7 @@ Mathematical data science</a>, to appear in Adv. Theor. Math. Phys.</p></li>
 
 <ul>
 
-<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://arxiv.org/pdf/2502.11774"> Interpretable machine learning for Kronecker coefficients</a>, to appear in Adv. Theor. Math. Phys.</p></li>
+<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://dx.doi.org/10.4310/ATMP.260413002916"> Interpretable machine learning for Kronecker coefficients</a>, Adv. Theor. Math. Phys. <b>30</b> (2026), no. 1, 131-148.</p></li> 
 
 <li><p> Michael R. Douglas and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2502.08620">
 Mathematical data science</a>, to appear in Adv. Theor. Math. Phys.</p></li>
@@ -548,7 +548,7 @@ over 2-dimensional local fields</a>, Canad. J. Math. <b>62</b> (2010), no. 6, 13
 
 <li><p> Xiaoyu Huang, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2511.12421">From Black Box to Bijection: Interpreting Machine Learning to Build a Zeta Map Algorithm</a>, to apear in S&eacute;m. Lothar. Combin.</p></li> 
 
-<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://arxiv.org/pdf/2502.11774"> Interpretable machine learning for Kronecker coefficients</a>, to appear in Adv. Theor. Math. Phys.</p></li>
+<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://dx.doi.org/10.4310/ATMP.260413002916"> Interpretable machine learning for Kronecker coefficients</a>, Adv. Theor. Math. Phys. <b>30</b> (2026), no. 1, 131-148.</p></li> 
 
 <li><p> Michael R. Douglas and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2502.08620">
 Mathematical data science</a>, to appear in Adv. Theor. Math. Phys.</p></li>

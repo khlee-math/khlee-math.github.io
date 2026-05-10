@@ -6,7 +6,7 @@ title: publications
 
 <ol reversed>
  
-<li><p> Kyu-Hwan Lee, <a href="Papers/ML-lecture-slides-Lee.pdf">ML-lecture-slides</a>.</p></li>
+<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="Papers/interpretable-kron.pdf"> Interpretable machine learning for Kronecker coefficients</a>, Adv. Theor. Math. Phys. <b>30</b> (2026), no. 1, 131-148.</p></li>
 
 <li><p> Kyu-Hwan Lee, <a href="Papers/kron-pca.pdf">Data-scientific study of  Kronecker coefficients</a>, Exp. Math. (2025).</p></li>
 
