@@ -12,7 +12,7 @@ nav_order: 4
 <ul>
 <li><p><a href="https://www.tandfonline.com/journals/uexm20">Experimental Mathematics</a>, <i> editor</i>, 2023-present.</p></li>
 
-<li><p><a href="https://www.worldscientific.com/worldscinet/ijdsms">International Journal of Data Science in the Mathematical Sciences</a>, <i> editor</i>, 2021-present.</p></li>
+<li><p><a href="https://www.worldscientific.com/worldscinet/aimtp">AI in Mathematics and Theoretical Physics</a>, <i> editor</i>, 2021-present.</p></li>
 
 <li><p><a href="http://ckms.kms.or.kr/">Communications of the Korean Mathematical Society</a>, <i> editor</i>, 2013-2023.</p></li>
 
