@@ -16,7 +16,7 @@ nav_order: 2
 
 <ul>
 <li><p><a href="#ALL">all areas</a></p></li> 
-<li><p><a href="#ML">machine learning for mathematics</a></p></li>
+<li><p><a href="#AI">AI for mathematics</a></p></li>
 <li><p><a href="#RT">representation theory</a></p></li>
 <li><p><a href="#NT">number theory</a></p></li> 
 <li><p><a href="#CO">combinatorics</a></p></li> 
@@ -31,6 +31,10 @@ nav_order: 2
 <h4>&nbsp; publications -- all areas</h4>
 <br>
 <ol reversed>
+
+<li><p> Seewoo Lee, Byung-Hak Hwang, Hyojae Lim, Jihoon Hyun, Ilkyoo Choi, Yeachan Park, Jineon Baek, Hyukpyo Hong, Keewoo Lee, Jaeseong Heo, Hyungryul Baik, Chul-hee Lee, and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2606.02588">Lean-GAP: A Dataset of Formalized Graduate Algebra Problems</a>, arXiv:2606.02588.</p></li> 
+
+<li><p> Xiaoyu Huang, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2605.30482">Discovering a Zeta Map Algorithm on Dyck Paths via Mechanistic Interpretability</a>, arXiv:2605.30482.</p></li> 
 
 <li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Yidi Qi, <a href="https://arxiv.org/pdf/2604.15155">Computer vision and converse theorems</a>, arXiv:2604.15155.</p></li> 
 
@@ -211,12 +215,16 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 
 </a>
 
-<a id="ML">
+<a id="AI">
 &nbsp;<br> &nbsp;<br> &nbsp;<br>
-<h4>&nbsp; publications -- machine learning for mathematics</h4>
+<h4>&nbsp; publications -- AI for mathematics</h4>
 <br>
 
 <ul>
+
+<li><p> Seewoo Lee, Byung-Hak Hwang, Hyojae Lim, Jihoon Hyun, Ilkyoo Choi, Yeachan Park, Jineon Baek, Hyukpyo Hong, Keewoo Lee, Jaeseong Heo, Hyungryul Baik, Chul-hee Lee, and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2606.02588">Lean-GAP: A Dataset of Formalized Graduate Algebra Problems</a>, arXiv:2606.02588.</p></li> 
+
+<li><p> Xiaoyu Huang, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2605.30482">Discovering a Zeta Map Algorithm on Dyck Paths via Mechanistic Interpretability</a>, arXiv:2605.30482.</p></li> 
 
 <li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Yidi Qi, <a href="https://arxiv.org/pdf/2604.15155">Computer vision and converse theorems</a>, arXiv:2604.15155.</p></li> 
 
@@ -545,6 +553,8 @@ over 2-dimensional local fields</a>, Canad. J. Math. <b>62</b> (2010), no. 6, 13
 <br>
 
 <ul>
+
+<li><p> Xiaoyu Huang, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2605.30482">Discovering a Zeta Map Algorithm on Dyck Paths via Mechanistic Interpretability</a>, arXiv:2605.30482.</p></li> 
 
 <li><p> Xiaoyu Huang, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2511.12421">From Black Box to Bijection: Interpreting Machine Learning to Build a Zeta Map Algorithm</a>, to apear in S&eacute;m. Lothar. Combin.</p></li> 
 
