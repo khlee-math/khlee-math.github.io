@@ -6,6 +6,8 @@ title: publications
 
 <ol reversed>
  
+<li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1007/s00029-026-01162-w">Quantum cluster algebra, braid moves and quantum virtual Grothendieck ring</a>, Selecta Math. (N.S.) <b>32</b> (2026) no. 66.</p></li>
+
 <li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="Papers/interpretable-kron.pdf"> Interpretable machine learning for Kronecker coefficients</a>, Adv. Theor. Math. Phys. <b>30</b> (2026), no. 1, 131-148.</p></li>
 
 <li><p> Kymani T. K. Armstrong-Williams, Edward Hirst, Blake Jackson and Kyu-Hwan Lee, <a href="Papers/mutation-acylicity.pdf">Machine learning mutation-acyclicity of quivers</a>, J. Comput. Algebra. <b>15</b> (2025) 100040.</p></li>
