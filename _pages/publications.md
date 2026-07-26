@@ -44,8 +44,8 @@ nav_order: 2
 
 <li><p> Xiaoyu Huang, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2511.12421">From Black Box to Bijection: Interpreting Machine Learning to Build a Zeta Map Algorithm</a>, to apear in S&eacute;m. Lothar. Combin.</p></li> 
 
-<li><p> Kyu-Hwan Lee and Seewoo Lee, <a href="https://arxiv.org/pdf/2508.06670">Machines learn number fields, but how?
-The case of Galois groups</a>, to appear in Res. Math. Sci.</p></li> 
+<li><p> Kyu-Hwan Lee and Seewoo Lee, <a href="https://doi.org/10.1007/s40687-026-00620-3">Machines learn number fields, but how?
+The case of Galois groups</a>, Res. Math. Sci. <b>13</b> (2026) no. 60.</p></li> 
 
 <li><p> Il-Seung Jang, Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2305.19471.pdf">Braid group action on quantum virtual Grothendieck ring through constructing presentations</a>, arXiv:2305.19471.</p></li>
 
@@ -234,8 +234,8 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 
 <li><p> Xiaoyu Huang, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2511.12421">From Black Box to Bijection: Interpreting Machine Learning to Build a Zeta Map Algorithm</a>, to apear in S&eacute;m. Lothar. Combin.</p></li> 
 
-<li><p> Kyu-Hwan Lee and Seewoo Lee, <a href="https://arxiv.org/pdf/2508.06670">Machines learn number fields, but how?
-The case of Galois groups</a>, to appear in Res. Math. Sci.</p></li> 
+<li><p> Kyu-Hwan Lee and Seewoo Lee, <a href="https://doi.org/10.1007/s40687-026-00620-3">Machines learn number fields, but how?
+The case of Galois groups</a>, Res. Math. Sci. <b>13</b> (2026) no. 60.</p></li> 
 
 <li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://dx.doi.org/10.4310/ATMP.260413002916"> Interpretable machine learning for Kronecker coefficients</a>, Adv. Theor. Math. Phys. <b>30</b> (2026), no. 1, 131-148.</p></li> 
 
@@ -452,8 +452,8 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 
 <li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2603.09680">Murmurations: a case study in AI-assisted mathematics</a>, arXiv:2603.09680.</p></li> 
 
-<li><p> Kyu-Hwan Lee and Seewoo Lee, <a href="https://arxiv.org/pdf/2508.06670">Machines learn number fields, but how?
-The case of Galois groups</a>, to appear in Res. Math. Sci.</p></li> 
+<li><p> Kyu-Hwan Lee and Seewoo Lee, <a href="https://doi.org/10.1007/s40687-026-00620-3">Machines learn number fields, but how?
+The case of Galois groups</a>, Res. Math. Sci. <b>13</b> (2026) no. 60.</p></li> 
 
 <li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2502.10360"> Machine learning the vanishing order of rational L-functions</a>, to appear in Adv. Theor. Math. Phys.</p></li> 
 

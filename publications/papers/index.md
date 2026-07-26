@@ -6,6 +6,8 @@ title: publications
 
 <ol reversed>
  
+<li><p> Kyu-Hwan Lee and Seewoo Lee, <a href="Papers/galois.pdf">Machines learn number fields, but how?  The case of Galois groups</a>, Res. Math. Sci. <b>13</b> (2026) no. 60.</p></li> 
+
 <li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="Papers/quantum-braid.pdf">Quantum cluster algebra, braid moves and quantum virtual Grothendieck ring</a>, Selecta Math. (N.S.) <b>32</b> (2026) no. 66.</p></li>
 
 <li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="Papers/interpretable-kron.pdf"> Interpretable machine learning for Kronecker coefficients</a>, Adv. Theor. Math. Phys. <b>30</b> (2026), no. 1, 131-148.</p></li>
