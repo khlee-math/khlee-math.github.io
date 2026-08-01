@@ -32,6 +32,8 @@ nav_order: 2
 <br>
 <ol reversed>
 
+<li><p> Barinder Banwait, Xiaoyu Huang, Kyu-Hwan Lee, Seewoo Lee, Thomas Oliver, and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2607.24251">Decision trees, Frobenius traces, and Weierstrass coefficients of elliptic curves</a>, submitted, arXiv:2607.24251.</p></li> 
+
 <li><p> Seewoo Lee, Byung-Hak Hwang, Hyojae Lim, Jihoon Hyun, Ilkyoo Choi, Yeachan Park, Jineon Baek, Hyukpyo Hong, Keewoo Lee, Jaeseong Heo, Hyungryul Baik, Chul-hee Lee, and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2606.02588">Lean-GAP: A Dataset of Formalized Graduate Algebra Problems</a>, arXiv:2606.02588.</p></li> 
 
 <li><p> Xiaoyu Huang, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2605.30482">Discovering a Zeta Map Algorithm on Dyck Paths via Mechanistic Interpretability</a>, arXiv:2605.30482.</p></li> 
@@ -49,18 +51,17 @@ The case of Galois groups</a>, Res. Math. Sci. <b>13</b> (2026) no. 60.</p></li>
 
 <li><p> Il-Seung Jang, Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2305.19471.pdf">Braid group action on quantum virtual Grothendieck ring through constructing presentations</a>, arXiv:2305.19471.</p></li>
 
-<li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2502.10360"> Machine learning the vanishing order of rational L-functions</a>, to appear in Adv. Theor. Math. Phys.</p></li> 
-
-<li><p> Angelica Babei, Fran&ccedil;ois Charton, Edgar Costa, Xiaoyu Huang, Kyu-Hwan Lee, David Lowry-Duda, Ashvni Narayanan, and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2502.10357">Learning Euler factors of elliptic curves</a>, to appear in Adv. Theor. Math. Phys.</p></li> 
-
-<li><p> Michael R. Douglas and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2502.08620">
-Mathematical data science</a>, to appear in Adv. Theor. Math. Phys.</p></li>
-
-<li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2501.02105">Learning Fricke signs from Maass form coefficients</a>, to appear in Adv. Theor. Math. Phys.</p></li>
-
 <li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1007/s00029-026-01162-w">Quantum cluster algebra, braid moves and quantum virtual Grothendieck ring</a>, Selecta Math. (N.S.) <b>32</b> (2026) no. 66.</p></li>
 
 <li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://dx.doi.org/10.4310/ATMP.260413002916"> Interpretable machine learning for Kronecker coefficients</a>, Adv. Theor. Math. Phys. <b>30</b> (2026), no. 1, 131-148.</p></li> 
+
+<li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://dx.doi.org/10.4310/ATMP.260412220615">Learning Fricke signs from Maass form coefficients</a>, Adv. Theor. Math. Phys. <b>29</b> (2025), no. 8, 2403-2423.</p></li>
+
+<li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://dx.doi.org/10.4310/ATMP.260412213616">Machine learning the vanishing order of rational L-functions</a>, Adv. Theor. Math. Phys. <b>29</b> (2025), no. 8, 2381-2401.</p></li> 
+
+<li><p> Angelica Babei, Fran&ccedil;ois Charton, Edgar Costa, Xiaoyu Huang, Kyu-Hwan Lee, David Lowry-Duda, Ashvni Narayanan, and Alexey Pozdnyakov, <a href="https://dx.doi.org/10.4310/ATMP.260412180132">Learning Euler factors of elliptic curves</a>, Adv. Theor. Math. Phys. <b>29</b> (2025), no. 8, 2327-2351.</p></li> 
+
+<li><p> Michael R. Douglas and Kyu-Hwan Lee, <a href="https://dx.doi.org/10.4310/ATMP.260412174613">Mathematical data science</a>, Adv. Theor. Math. Phys. <b>29</b> (2025), no. 8, 2305-2325.</p></li>
 
 <li><p> Kymani T. K. Armstrong-Williams, Edward Hirst, Blake Jackson and Kyu-Hwan Lee, <a href="https://doi.org/10.1016/j.jaca.2025.100040">Machine learning mutation-acyclicity of quivers</a>, J. Comput. Algebra. <b>15</b> (2025) 100040.</p></li>
 
@@ -222,6 +223,8 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 
 <ul>
 
+<li><p> Barinder Banwait, Xiaoyu Huang, Kyu-Hwan Lee, Seewoo Lee, Thomas Oliver, and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2607.24251">Decision trees, Frobenius traces, and Weierstrass coefficients of elliptic curves</a>, submitted, arXiv:2607.24251.</p></li> 
+
 <li><p> Seewoo Lee, Byung-Hak Hwang, Hyojae Lim, Jihoon Hyun, Ilkyoo Choi, Yeachan Park, Jineon Baek, Hyukpyo Hong, Keewoo Lee, Jaeseong Heo, Hyungryul Baik, Chul-hee Lee, and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2606.02588">Lean-GAP: A Dataset of Formalized Graduate Algebra Problems</a>, arXiv:2606.02588.</p></li> 
 
 <li><p> Xiaoyu Huang, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2605.30482">Discovering a Zeta Map Algorithm on Dyck Paths via Mechanistic Interpretability</a>, arXiv:2605.30482.</p></li> 
@@ -239,14 +242,13 @@ The case of Galois groups</a>, Res. Math. Sci. <b>13</b> (2026) no. 60.</p></li>
 
 <li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://dx.doi.org/10.4310/ATMP.260413002916"> Interpretable machine learning for Kronecker coefficients</a>, Adv. Theor. Math. Phys. <b>30</b> (2026), no. 1, 131-148.</p></li> 
 
-<li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2502.10360"> Machine learning the vanishing order of rational L-functions</a>, to appear in Adv. Theor. Math. Phys.</p></li> 
+<li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://dx.doi.org/10.4310/ATMP.260412220615">Learning Fricke signs from Maass form coefficients</a>, Adv. Theor. Math. Phys. <b>29</b> (2025), no. 8, 2403-2423.</p></li>
 
-<li><p> Angelica Babei, Fran&ccedil;ois Charton, Edgar Costa, Xiaoyu Huang, Kyu-Hwan Lee, David Lowry-Duda, Ashvni Narayanan, and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2502.10357">Learning Euler factors of elliptic curves</a>, to appear in Adv. Theor. Math. Phys.</p></li> 
+<li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://dx.doi.org/10.4310/ATMP.260412213616"> Machine learning the vanishing order of rational L-functions</a>, to appear in Adv. Theor. Math. Phys. <b>29</b> (2025), no. 8, 2381-2401.</p></li> 
 
-<li><p> Michael R. Douglas and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2502.08620">
-Mathematical data science</a>, to appear in Adv. Theor. Math. Phys.</p></li>
+<li><p> Angelica Babei, Fran&ccedil;ois Charton, Edgar Costa, Xiaoyu Huang, Kyu-Hwan Lee, David Lowry-Duda, Ashvni Narayanan, and Alexey Pozdnyakov, <a href="https://dx.doi.org/10.4310/ATMP.260412180132">Learning Euler factors of elliptic curves</a>, Adv. Theor. Math. Phys. <b>29</b> (2025), no. 8, 2327-2351.</p></li> 
 
-<li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2501.02105">Learning Fricke signs from Maass form coefficients</a>, to appear in Adv. Theor. Math. Phys.</p></li>
+<li><p> Michael R. Douglas and Kyu-Hwan Lee, <a href="https://dx.doi.org/10.4310/ATMP.260412174613">Mathematical data science</a>, Adv. Theor. Math. Phys. <b>29</b> (2025), no. 8, 2305-2325.</p></li>
 
 <li><p> Kymani T. K. Armstrong-Williams, Edward Hirst, Blake Jackson and Kyu-Hwan Lee, <a href="https://doi.org/10.1016/j.jaca.2025.100040">Machine learning mutation-acyclicity of quivers</a>, J. Comput. Algebra. <b>15</b> (2025) 100040.</p></li>
 
@@ -276,12 +278,11 @@ Mathematical data science</a>, to appear in Adv. Theor. Math. Phys.</p></li>
 
 <ul>
 
+<li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1007/s00029-026-01162-w">Quantum cluster algebra, braid moves and quantum virtual Grothendieck ring</a>, Selecta Math. (N.S.) <b>32</b> (2026) no. 66.</p></li>
+
 <li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://dx.doi.org/10.4310/ATMP.260413002916"> Interpretable machine learning for Kronecker coefficients</a>, Adv. Theor. Math. Phys. <b>30</b> (2026), no. 1, 131-148.</p></li> 
 
-<li><p> Michael R. Douglas and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2502.08620">
-Mathematical data science</a>, to appear in Adv. Theor. Math. Phys.</p></li>
-
-<li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1007/s00029-026-01162-w">Quantum cluster algebra, braid moves and quantum virtual Grothendieck ring</a>, Selecta Math. (N.S.) <b>32</b> (2026) no. 66.</p></li>
+<li><p> Michael R. Douglas and Kyu-Hwan Lee, <a href="https://dx.doi.org/10.4310/ATMP.260412174613">Mathematical data science</a>, Adv. Theor. Math. Phys. <b>29</b> (2025), no. 8, 2305-2325.</p></li>
 
 <li><p> Kymani T. K. Armstrong-Williams, Edward Hirst, Blake Jackson and Kyu-Hwan Lee, <a href="https://doi.org/10.1016/j.jaca.2025.100040">Machine learning mutation-acyclicity of quivers</a>, J. Comput. Algebra. <b>15</b> (2025) 100040.</p></li>
 
@@ -446,6 +447,8 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 
 <ul>
 
+<li><p> Barinder Banwait, Xiaoyu Huang, Kyu-Hwan Lee, Seewoo Lee, Thomas Oliver, and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2607.24251">Decision trees, Frobenius traces, and Weierstrass coefficients of elliptic curves</a>, submitted, arXiv:2607.24251.</p></li> 
+
 <li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Yidi Qi, <a href="https://arxiv.org/pdf/2604.15155">Computer vision and converse theorems</a>, arXiv:2604.15155.</p></li> 
 
 <li><p> Joanna Bieri, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi and Tamara Veenstra, <a href="https://arxiv.org/pdf/2603.17681">Murmurations, Mestre-Nagao sums, and Convolutional Neural Networks for elliptic curves</a>, arXiv:2603.17681.</p></li> 
@@ -455,14 +458,13 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 <li><p> Kyu-Hwan Lee and Seewoo Lee, <a href="https://doi.org/10.1007/s40687-026-00620-3">Machines learn number fields, but how?
 The case of Galois groups</a>, Res. Math. Sci. <b>13</b> (2026) no. 60.</p></li> 
 
-<li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2502.10360"> Machine learning the vanishing order of rational L-functions</a>, to appear in Adv. Theor. Math. Phys.</p></li> 
+<li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://dx.doi.org/10.4310/ATMP.260412220615">Learning Fricke signs from Maass form coefficients</a>, Adv. Theor. Math. Phys. <b>29</b> (2025), no. 8, 2403-2423.</p></li>
 
-<li><p> Angelica Babei, Fran&ccedil;ois Charton, Edgar Costa, Xiaoyu Huang, Kyu-Hwan Lee, David Lowry-Duda, Ashvni Narayanan, and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2502.10357">Learning Euler factors of elliptic curves</a>, to appear in Adv. Theor. Math. Phys.</p></li> 
+<li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://dx.doi.org/10.4310/ATMP.260412213616"> Machine learning the vanishing order of rational L-functions</a>, to appear in Adv. Theor. Math. Phys. <b>29</b> (2025), no. 8, 2381-2401.</p></li> 
 
-<li><p> Michael R. Douglas and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2502.08620">
-Mathematical data science</a>, to appear in Adv. Theor. Math. Phys.</p></li>
+<li><p> Angelica Babei, Fran&ccedil;ois Charton, Edgar Costa, Xiaoyu Huang, Kyu-Hwan Lee, David Lowry-Duda, Ashvni Narayanan, and Alexey Pozdnyakov, <a href="https://dx.doi.org/10.4310/ATMP.260412180132">Learning Euler factors of elliptic curves</a>, Adv. Theor. Math. Phys. <b>29</b> (2025), no. 8, 2327-2351.</p></li> 
 
-<li><p> Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, and Tamara Veenstra, <a href="https://arxiv.org/pdf/2501.02105">Learning Fricke signs from Maass form coefficients</a>, to appear in Adv. Theor. Math. Phys.</p></li>
+<li><p> Michael R. Douglas and Kyu-Hwan Lee, <a href="https://dx.doi.org/10.4310/ATMP.260412174613">Mathematical data science</a>, Adv. Theor. Math. Phys. <b>29</b> (2025), no. 8, 2305-2325.</p></li>
 
 <li><p> Kyu-Hwan Lee, Dongwen Liu and Thomas Oliver, <a href="https://doi.org/10.1007/s00029-025-01031-y">Convergence of Kac-Moody Eisenstein series over a function field</a>, Selecta Math. (N.S.) <b>31</b> (2025), no. 39.</p></li>
 
@@ -558,10 +560,9 @@ over 2-dimensional local fields</a>, Canad. J. Math. <b>62</b> (2010), no. 6, 13
 
 <li><p> Xiaoyu Huang, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2511.12421">From Black Box to Bijection: Interpreting Machine Learning to Build a Zeta Map Algorithm</a>, to apear in S&eacute;m. Lothar. Combin.</p></li> 
 
-<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://dx.doi.org/10.4310/ATMP.260413002916"> Interpretable machine learning for Kronecker coefficients</a>, Adv. Theor. Math. Phys. <b>30</b> (2026), no. 1, 131-148.</p></li> 
+<li><p> Giorgi Butbaia, Kyu-Hwan Lee, and Fabian Ruehle, <a href="https://dx.doi.org/10.4310/ATMP.260413002916">Interpretable machine learning for Kronecker coefficients</a>, Adv. Theor. Math. Phys. <b>30</b> (2026), no. 1, 131-148.</p></li> 
 
-<li><p> Michael R. Douglas and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2502.08620">
-Mathematical data science</a>, to appear in Adv. Theor. Math. Phys.</p></li>
+<li><p> Michael R. Douglas and Kyu-Hwan Lee, <a href="https://dx.doi.org/10.4310/ATMP.260412174613">Mathematical data science</a>, Adv. Theor. Math. Phys. <b>29</b> (2025), no. 8, 2305-2325.</p></li>
 
 <li><p> Kymani T. K. Armstrong-Williams, Edward Hirst, Blake Jackson and Kyu-Hwan Lee, <a href="https://doi.org/10.1016/j.jaca.2025.100040">Machine learning mutation-acyclicity of quivers</a>, J. Comput. Algebra. <b>15</b> (2025) 100040.</p></li>
 
