@@ -32,6 +32,8 @@ nav_order: 2
 <br>
 <ol reversed>
 
+<li><p> Matilde Lal{\'i}n, Kyu-Hwan Lee, Thomas Oliver, and Alexey Pozdnyakov, <a href="https://arxiv.org/abs/2608.01337">Murmurations of quadratic and cubic characters over function fields</a>, arXiv:2608.01337.</p></li> 
+
 <li><p> Barinder Banwait, Xiaoyu Huang, Kyu-Hwan Lee, Seewoo Lee, Thomas Oliver, and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2607.24251">Decision trees, Frobenius traces, and Weierstrass coefficients of elliptic curves</a>, arXiv:2607.24251.</p></li> 
 
 <li><p> Seewoo Lee, Byung-Hak Hwang, Hyojae Lim, Jihoon Hyun, Ilkyoo Choi, Yeachan Park, Jineon Baek, Hyukpyo Hong, Keewoo Lee, Jaeseong Heo, Hyungryul Baik, Chul-hee Lee, and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2606.02588">Lean-GAP: A Dataset of Formalized Graduate Algebra Problems</a>, arXiv:2606.02588.</p></li> 
@@ -446,6 +448,8 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 <br>
 
 <ul>
+
+<li><p> Matilde Lal{\'i}n, Kyu-Hwan Lee, Thomas Oliver, and Alexey Pozdnyakov, <a href="https://arxiv.org/abs/2608.01337">Murmurations of quadratic and cubic characters over function fields</a>, arXiv:2608.01337.</p></li> 
 
 <li><p> Barinder Banwait, Xiaoyu Huang, Kyu-Hwan Lee, Seewoo Lee, Thomas Oliver, and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2607.24251">Decision trees, Frobenius traces, and Weierstrass coefficients of elliptic curves</a>, arXiv:2607.24251.</p></li> 
 
