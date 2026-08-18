@@ -32,6 +32,8 @@ nav_order: 2
 <br>
 <ol reversed>
 
+<li><p> Xiaoyu Huang, Blake Jackson, Kyu-Hwan Lee, Bjorn Poonen, Rachel Pries, and Shaowu Zhang, <a href="https://arxiv.org/pdf/2608.08538">The Mathieu group M<sub>23</sub> is a Galois group over &Qopf;</a>, arXiv:2608.08538.</p></li> 
+
 <li><p> Matilde Lal&iacute;n, Kyu-Hwan Lee, Thomas Oliver, and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2608.01337">Murmurations of quadratic and cubic characters over function fields</a>, arXiv:2608.01337.</p></li> 
 
 <li><p> Barinder Banwait, Xiaoyu Huang, Kyu-Hwan Lee, Seewoo Lee, Thomas Oliver, and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2607.24251">Decision trees, Frobenius traces, and Weierstrass coefficients of elliptic curves</a>, arXiv:2607.24251.</p></li> 
@@ -224,6 +226,8 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 <br>
 
 <ul>
+
+<li><p> Xiaoyu Huang, Blake Jackson, Kyu-Hwan Lee, Bjorn Poonen, Rachel Pries, and Shaowu Zhang, <a href="https://arxiv.org/pdf/2608.08538">The Mathieu group M<sub>23</sub> is a Galois group over &Qopf;</a>, arXiv:2608.08538.</p></li> 
 
 <li><p> Barinder Banwait, Xiaoyu Huang, Kyu-Hwan Lee, Seewoo Lee, Thomas Oliver, and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2607.24251">Decision trees, Frobenius traces, and Weierstrass coefficients of elliptic curves</a>, arXiv:2607.24251.</p></li> 
 
@@ -448,6 +452,8 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 <br>
 
 <ul>
+
+<li><p> Xiaoyu Huang, Blake Jackson, Kyu-Hwan Lee, Bjorn Poonen, Rachel Pries, and Shaowu Zhang, <a href="https://arxiv.org/pdf/2608.08538">The Mathieu group M<sub>23</sub> is a Galois group over &Qopf;</a>, arXiv:2608.08538.</p></li> 
 
 <li><p> Matilde Lal&iacute;n, Kyu-Hwan Lee, Thomas Oliver, and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2608.01337">Murmurations of quadratic and cubic characters over function fields</a>, arXiv:2608.01337.</p></li> 
 
