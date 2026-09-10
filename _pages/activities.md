@@ -22,17 +22,31 @@ nav_order: 4
 <hr>
 <br>
 
+
+<h4>&nbsp; online seminar organized</h4>
+<br>
+<ul>
+<li><p><a href="https://angelicababei.com/ai-cont-seminar/">AI, Combinatorics and Number Theory (AI-CoNT)</a>, 2026-present, co-organizers: Angelica Babe, Coco Xiaoyu Huang.</p></li>
+
+</ul>
+
+<br>
+<hr>
+<br>
+
 <h4>&nbsp; conferences organized</h4>
 <br>
 <ul>
 
-<li><p><a href="https://chlee-0.github.io/2025-KIAS-Winter-School-Math-AI/">KIAS Winter School on Mathematics and AI</a>, KIAS, Seoul, Korea, December 2025 (co- organizer: Joonhyun La, Chul-hee Lee)</p></li>
+<li><p><a href="https://symposia.kias.re.kr/AI-Math2026/">Thematic Program on AI and Mathematics, KIAS, Seoul, Korea, July 12 - August 8, 2026, co-organizers: Amaury Hayat, Joonhyun La.</p></li>
+
+<li><p><a href="https://symposia.kias.re.kr/2026-Math-X-AI/">Mathematics × AI: Challenges and Opportunities, KIAS, Seoul, Korea, June 29 - July 3, 2026, co-organizers: Hyung Ju Hwang, Youngjoon Hong, Donghwan Kim, Young-Heon Kim, Byungjoon Lee, Jae Yong Lee, Jinsung Park.</p></li>
+
+<li><p><a href="https://chlee-0.github.io/2025-KIAS-Winter-School-Math-AI/">KIAS Winter School on Mathematics and AI</a>, KIAS, Seoul, Korea, December 2025, co-organizers: Joonhyun La, Chul-hee Lee.</p></li>
 
 <li><p><a href="https://icerm.brown.edu/program/semester_program_workshop/sp-f25-w1">Category Theory, Combinatorics, and Machine Learning</a>, ICERM, Providence, RI, September 2025, co-organizers: Chris Bowman, Rosa Orellana, Anne Schilling, Adam Wagner.</p></li>
 
-<li><p><a href="https://icerm.brown.edu/program/semester_program/sp-f25">Categorification and Computation in Algebraic Combinatorics</a>, ICERM, Providence, RI, September - December 2025 (co-organizers: Chris Bowman, Nicolle Gonzalez, Nicolas
-Libedinsky, Rosa Orellana, Greta Panova, Anne Schilling, Jamie Vicary, Adam Wagner,
-Lauren Williams)</p></li>
+<li><p><a href="https://icerm.brown.edu/program/semester_program/sp-f25">Categorification and Computation in Algebraic Combinatorics</a>, ICERM, Providence, RI, September - December 2025, co-organizers: Chris Bowman, Nicolle Gonzalez, Nicolas Libedinsky, Rosa Orellana, Greta Panova, Anne Schilling, Jamie Vicary, Adam Wagner, Lauren Williams.</p></li>
 
 <li><p><a href="http://events.kias.re.kr/h/MLM2025/">Machine Learning and Mathematics</a>, KIAS, Seoul, Korea, July 2025, co-organizers: Bin Dong, Michael Douglas.</p></li>
 

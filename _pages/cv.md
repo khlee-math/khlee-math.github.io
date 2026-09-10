@@ -49,11 +49,12 @@ Feb. 1994 </p></li>
 <br>
 
 <ul>
+<li><p>Program Participant, ICERM, Brown University, September 2026 - December 2026</p></li>
+<li><p>Program Organizer, ICERM, Brown University, September 2025 - November 2025</p></li> 
 <li><p>KIAS Scholar, Korea Institute for Advanced Study, South Korea, May 2024 - present</p></li>
 <li><p>Program Participant, Isaac Newton Institute, U.K., September 2023 - December 2023</p></li> 
 <li><p>Program Participant, Simons Center for Geometry and Physics, August 2016 - September 2016</p></li>
 <li><p>Program Participant, ICERM, Brown University, January 2013 - May 2013</p></li>
-  
 <li><p>Visiting Professor, Korea Institute for Advanced Study, South Korea, July 2011 - Dec. 2011</p></li>
 
 <li><p>Research Fellow, University of Nottingham, U.K., Feb. 2005 - Aug. 2005</p></li>
@@ -68,6 +69,8 @@ Feb. 1994 </p></li>
 <br>
 
 <ul>
+<li><p>NSF Grant DMS- 2617278, Artificial Intelligence, Formal Methods, and Mathematical Reasoning (AIMing), "Collaborative Research: Advancing Combinatorics and Number Theory with AI", 09/01/26 - 08/31/29</p></li>  
+
 <li><p>Simons Foundation Grant #712100, "Quiver Representations and Sato&ndash;Tate Distributions", 09/01/20 - 08/31/25</p></li>
 
 <li><p>Simons Foundation Grant #318706, "Topics on Hyperbolic Kac&ndash;Moody Algebras and Groups", 09/01/14 - 08/31/19</p></li>

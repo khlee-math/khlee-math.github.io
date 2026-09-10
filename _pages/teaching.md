@@ -43,12 +43,11 @@ Sungkyunkwan University, South Korea</p> </li>
 <br>
 
 <ul>
-<li><p><a href="https://www.blakejacksonmath.com/">Blake Jackson</a>, Ph.D. 2023 (University of Alabama), 2023 - present</p> </li>
-
+<li><p><a href="https://www.blakejacksonmath.com/">Blake Jackson</a>, Ph.D. 2023 (University of Alabama), 2023 - 2026, current position: innovation engineer, ICARM, Pittsburgh, PA</p> </li>
+ 
 <li><p><a href="https://person.zju.edu.cn/en/dwliu/">Dongwen Liu</a>, Ph.D. 2011 (Hong Kong University of Science and Technology), 2012 - 2015, current position: associate professor, Zhejiang University</p> </li>
 
 <li><p>Yichao Zhang, Ph.D. 2010 (University of Toronto), 2011 - 2014, current position: professor, Hunan Normal University</p> </li>  
-
 
 <li><p>Martin Nikolov, Ph.D. 2008 (Ohio State University), 2008 - 2010</p> </li>
 
@@ -82,8 +81,7 @@ Sungkyunkwan University, South Korea</p> </li>
 <br>
 
 <ul>
-<li><p>Spring 2026<br>
-Applied Linear Algebra (MATH 2210Q), sections 007 and 013</p></li>
+No teaching in Fall 2026
 </ul>
 
 <br>
@@ -92,6 +90,9 @@ Applied Linear Algebra (MATH 2210Q), sections 007 and 013</p></li>
 <h4>&nbsp; past teaching</h4>
 <br>
 <ul>
+
+<li><p>Spring 2026<br>
+Applied Linear Algebra (MATH 2210Q), sections 007 and 013</p></li>
 
 <li><p>Spring 2025<br>
 Applied Linear Algebra (MATH 2210Q)<br>
