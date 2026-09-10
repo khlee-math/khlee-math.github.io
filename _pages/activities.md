@@ -38,9 +38,9 @@ nav_order: 4
 <br>
 <ul>
 
-<li><p><a href="https://symposia.kias.re.kr/AI-Math2026/">Thematic Program on AI and Mathematics, KIAS, Seoul, Korea, July 12 - August 8, 2026, co-organizers: Amaury Hayat, Joonhyun La.</p></li>
+<li><p><a href="https://symposia.kias.re.kr/AI-Math2026/">Thematic Program on AI and Mathematics</a>, KIAS, Seoul, Korea, July 12 - August 8, 2026, co-organizers: Amaury Hayat, Joonhyun La.</p></li>
 
-<li><p><a href="https://symposia.kias.re.kr/2026-Math-X-AI/">Mathematics × AI: Challenges and Opportunities, KIAS, Seoul, Korea, June 29 - July 3, 2026, co-organizers: Hyung Ju Hwang, Youngjoon Hong, Donghwan Kim, Young-Heon Kim, Byungjoon Lee, Jae Yong Lee, Jinsung Park.</p></li>
+<li><p><a href="https://symposia.kias.re.kr/2026-Math-X-AI/">Mathematics × AI: Challenges and Opportunities</a>, KIAS, Seoul, Korea, June 29 - July 3, 2026, co-organizers: Hyung Ju Hwang, Youngjoon Hong, Donghwan Kim, Young-Heon Kim, Byungjoon Lee, Jae Yong Lee, Jinsung Park.</p></li>
 
 <li><p><a href="https://chlee-0.github.io/2025-KIAS-Winter-School-Math-AI/">KIAS Winter School on Mathematics and AI</a>, KIAS, Seoul, Korea, December 2025, co-organizers: Joonhyun La, Chul-hee Lee.</p></li>
 
