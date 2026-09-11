@@ -44,13 +44,15 @@ nav_order: 2
 
 <li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Yidi Qi, <a href="https://arxiv.org/pdf/2604.15155">Computer vision and converse theorems</a>, arXiv:2604.15155.</p></li> 
 
-<li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2603.09680">Murmurations: a case study in AI-assisted mathematics</a>, arXiv:2603.09680.</p></li> 
-
 <li><p> Il-Seung Jang, Kyu-Hwan Lee and Se-jin Oh, <a href="https://arxiv.org/pdf/2305.19471.pdf">Braid group action on quantum virtual Grothendieck ring through constructing presentations</a>, arXiv:2305.19471.</p></li>
+
+<li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2603.09680">Murmurations: a case study in AI-assisted mathematics</a>, to appear in Artificial Intelligence and Mathematics.</p></li> 
 
 <li><p> Joanna Bieri, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi and Tamara Veenstra, <a href="https://arxiv.org/pdf/2603.17681">Murmurations, Mestre-Nagao sums, and Convolutional Neural Networks for elliptic curves</a>, to appear in Res. Number Theory.</p></li>
 
 <li><p> Xiaoyu Huang, Blake Jackson and Kyu-Hwan Lee, <a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2026/95.pdf">From Black Box to Bijection: Interpreting Machine Learning to Build a Zeta Map Algorithm</a>, S&eacute;m. Lothar. Combin. <b>95B</b> (2026), Art. 95.</p></li> 
+
+<li><p>Kyu-Hwan Lee, <a href="https://doi.org/10.1007/978-981-19-2328-9_27">Kac-Moody Eisenstein Series</a>, Nankai Symposium on Mathematical Dialogues, Springer Nature Singapore, 2026, pp. 235-241.</p></li>
 
 <li><p> Kyu-Hwan Lee and Seewoo Lee, <a href="https://doi.org/10.1007/s40687-026-00620-3">Machines learn number fields, but how?
 The case of Galois groups</a>, Res. Math. Sci. <b>13</b> (2026) no. 60.</p></li> 
@@ -239,7 +241,7 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 
 <li><p> Joanna Bieri, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi and Tamara Veenstra, <a href="https://arxiv.org/pdf/2603.17681">Murmurations, Mestre-Nagao sums, and Convolutional Neural Networks for elliptic curves</a>, to appear in Res. Number Theory.</p></li>
 
-<li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2603.09680">Murmurations: a case study in AI-assisted mathematics</a>, arXiv:2603.09680.</p></li> 
+<li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2603.09680">Murmurations: a case study in AI-assisted mathematics</a>, to appear in Artificial Intelligence and Mathematics.</p></li> 
 
 <li><p> Xiaoyu Huang, Blake Jackson and Kyu-Hwan Lee, <a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2026/95.pdf">From Black Box to Bijection: Interpreting Machine Learning to Build a Zeta Map Algorithm</a>, S&eacute;m. Lothar. Combin. <b>95B</b> (2026), Art. 95.</p></li> 
 
@@ -283,6 +285,8 @@ The case of Galois groups</a>, Res. Math. Sci. <b>13</b> (2026) no. 60.</p></li>
 <h4>&nbsp; publications -- representation theory</h4> <br>
 
 <ul>
+
+<li><p>Kyu-Hwan Lee, <a href="https://doi.org/10.1007/978-981-19-2328-9_27">Kac-Moody Eisenstein Series</a>, Nankai Symposium on Mathematical Dialogues, Springer Nature Singapore, 2026, pp. 235-241.</p></li>
 
 <li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1007/s00029-026-01162-w">Quantum cluster algebra, braid moves and quantum virtual Grothendieck ring</a>, Selecta Math. (N.S.) <b>32</b> (2026) no. 66.</p></li>
 
@@ -463,7 +467,9 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 
 <li><p> Joanna Bieri, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi and Tamara Veenstra, <a href="https://arxiv.org/pdf/2603.17681">Murmurations, Mestre-Nagao sums, and Convolutional Neural Networks for elliptic curves</a>, to appear in Res. Number Theory.</p></li>
 
-<li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2603.09680">Murmurations: a case study in AI-assisted mathematics</a>, arXiv:2603.09680.</p></li> 
+<li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2603.09680">Murmurations: a case study in AI-assisted mathematics</a>, to appear in Artificial Intelligence and Mathematics.</p></li> 
+
+<li><p>Kyu-Hwan Lee, <a href="https://doi.org/10.1007/978-981-19-2328-9_27">Kac-Moody Eisenstein Series</a>, Nankai Symposium on Mathematical Dialogues, Springer Nature Singapore, 2026, pp. 235-241.</p></li>
 
 <li><p> Kyu-Hwan Lee and Seewoo Lee, <a href="https://doi.org/10.1007/s40687-026-00620-3">Machines learn number fields, but how?
 The case of Galois groups</a>, Res. Math. Sci. <b>13</b> (2026) no. 60.</p></li> 
@@ -656,6 +662,8 @@ canonical bases</a>, Adv. Math. <b>227</b> (2011), no. 2, 945-961.</p></li>
 <br>
 
 <ul>
+
+<li><p>Kyu-Hwan Lee, <a href="https://doi.org/10.1007/978-981-19-2328-9_27">Kac-Moody Eisenstein Series</a>, Nankai Symposium on Mathematical Dialogues, Springer Nature Singapore, 2026, pp. 235-241.</p></li>
 
 <li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="https://doi.org/10.1007/s00029-026-01162-w">Quantum cluster algebra, braid moves and quantum virtual Grothendieck ring</a>, Selecta Math. (N.S.) <b>32</b> (2026) no. 66.</p></li>
 
