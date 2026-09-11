@@ -8,6 +8,8 @@ title: publications
  
 <li><p> Xiaoyu Huang, Blake Jackson and Kyu-Hwan Lee, <a href="Papers/zeta_map.pdf">From Black Box to Bijection: Interpreting Machine Learning to Build a Zeta Map Algorithm</a>, S&eacute;m. Lothar. Combin. <b>95B</b> (2026), Art. 95.</p></li> 
 
+<li><p>Kyu-Hwan Lee, <a href="papers/Papers/eisenstein_survey.pdf">Kac-Moody Eisenstein Series</a>, Nankai Symposium on Mathematical Dialogues, Springer Nature Singapore, 2026, pp. 235-241.</p></li>
+
 <li><p> Kyu-Hwan Lee and Seewoo Lee, <a href="Papers/galois.pdf">Machines learn number fields, but how?  The case of Galois groups</a>, Res. Math. Sci. <b>13</b> (2026) no. 60.</p></li> 
 
 <li><p> Kyu-Hwan Lee and Se-jin Oh, <a href="Papers/quantum-braid.pdf">Quantum cluster algebra, braid moves and quantum virtual Grothendieck ring</a>, Selecta Math. (N.S.) <b>32</b> (2026) no. 66.</p></li>
