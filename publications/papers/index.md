@@ -6,6 +6,8 @@ title: publications
 
 <ol reversed>
  
+<li><p> Joanna Bieri, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi and Tamara Veenstra, <a href="Papers/mn-sums.pdf">Murmurations, Mestre-Nagao sums, and Convolutional Neural Networks for elliptic curves</a>, Res. Number Theory. <b>12</b> (2026) no. 99.</p></li>
+
 <li><p> Xiaoyu Huang, Blake Jackson and Kyu-Hwan Lee, <a href="Papers/zeta_map.pdf">From Black Box to Bijection: Interpreting Machine Learning to Build a Zeta Map Algorithm</a>, S&eacute;m. Lothar. Combin. <b>95B</b> (2026), Art. 95.</p></li> 
 
 <li><p>Kyu-Hwan Lee, <a href="Papers/eisenstein_survey.pdf">Kac-Moody Eisenstein Series</a>, Nankai Symposium on Mathematical Dialogues, Springer Nature Singapore, 2026, pp. 235-241.</p></li>

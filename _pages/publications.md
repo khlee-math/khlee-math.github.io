@@ -48,7 +48,7 @@ nav_order: 2
 
 <li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2603.09680">Murmurations: a case study in AI-assisted mathematics</a>, to appear in Artificial Intelligence and Mathematics.</p></li> 
 
-<li><p> Joanna Bieri, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi and Tamara Veenstra, <a href="https://arxiv.org/pdf/2603.17681">Murmurations, Mestre-Nagao sums, and Convolutional Neural Networks for elliptic curves</a>, to appear in Res. Number Theory.</p></li>
+<li><p> Joanna Bieri, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi and Tamara Veenstra, <a href="https://doi.org/10.1007/s40993-026-00784-5">Murmurations, Mestre-Nagao sums, and Convolutional Neural Networks for elliptic curves</a>, Res. Number Theory. <b>12</b> (2026) no. 99.</p></li>
 
 <li><p> Xiaoyu Huang, Blake Jackson and Kyu-Hwan Lee, <a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2026/95.pdf">From Black Box to Bijection: Interpreting Machine Learning to Build a Zeta Map Algorithm</a>, S&eacute;m. Lothar. Combin. <b>95B</b> (2026), Art. 95.</p></li> 
 
@@ -239,7 +239,7 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 
 <li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Yidi Qi, <a href="https://arxiv.org/pdf/2604.15155">Computer vision and converse theorems</a>, arXiv:2604.15155.</p></li> 
 
-<li><p> Joanna Bieri, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi and Tamara Veenstra, <a href="https://arxiv.org/pdf/2603.17681">Murmurations, Mestre-Nagao sums, and Convolutional Neural Networks for elliptic curves</a>, to appear in Res. Number Theory.</p></li>
+<li><p> Joanna Bieri, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi and Tamara Veenstra, <a href="https://doi.org/10.1007/s40993-026-00784-5">Murmurations, Mestre-Nagao sums, and Convolutional Neural Networks for elliptic curves</a>, Res. Number Theory. <b>12</b> (2026) no. 99.</p></li>
 
 <li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2603.09680">Murmurations: a case study in AI-assisted mathematics</a>, to appear in Artificial Intelligence and Mathematics.</p></li> 
 
@@ -465,7 +465,7 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 
 <li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Yidi Qi, <a href="https://arxiv.org/pdf/2604.15155">Computer vision and converse theorems</a>, arXiv:2604.15155.</p></li> 
 
-<li><p> Joanna Bieri, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi and Tamara Veenstra, <a href="https://arxiv.org/pdf/2603.17681">Murmurations, Mestre-Nagao sums, and Convolutional Neural Networks for elliptic curves</a>, to appear in Res. Number Theory.</p></li>
+<li><p> Joanna Bieri, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi and Tamara Veenstra, <a href="https://doi.org/10.1007/s40993-026-00784-5">Murmurations, Mestre-Nagao sums, and Convolutional Neural Networks for elliptic curves</a>, Res. Number Theory. <b>12</b> (2026) no. 99.</p></li>
 
 <li><p> Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2603.09680">Murmurations: a case study in AI-assisted mathematics</a>, to appear in Artificial Intelligence and Mathematics.</p></li> 
 
