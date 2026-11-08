@@ -32,6 +32,10 @@ nav_order: 2
 <br>
 <ol reversed>
 
+<li><p> Kymani T. K. Armstrong-Williams, Edward Hirst, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2610.36179">Mutation-acyclicity in rank four is decidable but not semialgebraic</a>, arXiv:2610.36179.</p></li> 
+
+<li><p>Kyu-Hwan Lee and Euiyong Park, <a href="https://arxiv.org/pdf/2610.32040">Imaginary elements and crystals for quantum groups</a>, arXiv:2610.32040.</p></li>
+
 <li><p> Xiaoyu Huang, Blake Jackson, Kyu-Hwan Lee, Bjorn Poonen, Rachel Pries, and Shaowu Zhang, <a href="https://arxiv.org/pdf/2608.08538">The Mathieu group M<sub>23</sub> is a Galois group over ℚ</a>, arXiv:2608.08538.</p></li> 
 
 <li><p> Matilde Lal&iacute;n, Kyu-Hwan Lee, Thomas Oliver, and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2608.01337">Murmurations of quadratic and cubic characters over function fields</a>, arXiv:2608.01337.</p></li> 
@@ -229,6 +233,8 @@ enveloping algebras</a>, J. Algebra <b>217</b> (1999), 461-495.
 
 <ul>
 
+<li><p> Kymani T. K. Armstrong-Williams, Edward Hirst, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2610.36179">Mutation-acyclicity in rank four is decidable but not semialgebraic</a>, arXiv:2610.36179.</p></li> 
+
 <li><p> Xiaoyu Huang, Blake Jackson, Kyu-Hwan Lee, Bjorn Poonen, Rachel Pries, and Shaowu Zhang, <a href="https://arxiv.org/pdf/2608.08538">The Mathieu group M<sub>23</sub> is a Galois group over ℚ</a>, arXiv:2608.08538.</p></li> 
 
 <li><p> Barinder Banwait, Xiaoyu Huang, Kyu-Hwan Lee, Seewoo Lee, Thomas Oliver, and Alexey Pozdnyakov, <a href="https://arxiv.org/pdf/2607.24251">Decision trees, Frobenius traces, and Weierstrass coefficients of elliptic curves</a>, arXiv:2607.24251.</p></li> 
@@ -285,6 +291,10 @@ The case of Galois groups</a>, Res. Math. Sci. <b>13</b> (2026) no. 60.</p></li>
 <h4>&nbsp; publications -- representation theory</h4> <br>
 
 <ul>
+
+<li><p> Kymani T. K. Armstrong-Williams, Edward Hirst, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2610.36179">Mutation-acyclicity in rank four is decidable but not semialgebraic</a>, arXiv:2610.36179.</p></li> 
+
+<li><p>Kyu-Hwan Lee and Euiyong Park, <a href="https://arxiv.org/pdf/2610.32040">Imaginary elements and crystals for quantum groups</a>, arXiv:2610.32040.</p></li>
 
 <li><p>Kyu-Hwan Lee, <a href="https://doi.org/10.1007/978-981-19-2328-9_27">Kac-Moody Eisenstein Series</a>, Nankai Symposium on Mathematical Dialogues, Springer Nature Singapore, 2026, pp. 235-241.</p></li>
 
@@ -571,6 +581,8 @@ over 2-dimensional local fields</a>, Canad. J. Math. <b>62</b> (2010), no. 6, 13
 <br>
 
 <ul>
+
+<li><p> Kymani T. K. Armstrong-Williams, Edward Hirst, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2610.36179">Mutation-acyclicity in rank four is decidable but not semialgebraic</a>, arXiv:2610.36179.</p></li> 
 
 <li><p> Xiaoyu Huang, Blake Jackson and Kyu-Hwan Lee, <a href="https://arxiv.org/pdf/2605.30482">Discovering a Zeta Map Algorithm on Dyck Paths via Mechanistic Interpretability</a>, arXiv:2605.30482.</p></li> 
 
